@@ -1,13 +1,15 @@
 import { i18n } from "../i18n"
-import { classNames } from "../util/classNames"
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
 function PageTitle({ fileData, cfg, displayClass }: QuartzComponentProps) {
   const title = cfg?.pageTitle ?? i18n(cfg.locale).propertyDefaults.title
+  
+  // Manually joining the classes to bypass the utility resolution error
+  const containerClass = displayClass ? `page-title ${displayClass}` : "page-title"
+
   return (
-    <h1 class={classNames(displayClass, "page-title")}>
+    <h1 class={containerClass}>
       <a href="/">
-        // Find this line inside the PageTitle function:
         <img src="/logo.png" alt="MNKY Math Logo" />
         {title}
       </a>
@@ -18,19 +20,17 @@ function PageTitle({ fileData, cfg, displayClass }: QuartzComponentProps) {
 PageTitle.css = `
 .page-title {
   margin: 0;
-  display: flex;
-  align-items: center;
-  gap: 0.8rem;
 }
 
 .page-title a {
   display: flex;
   align-items: center;
   text-decoration: none;
+  gap: 0.8rem;
 }
 
 .page-title img {
-  height: 2.5rem;
+  height: 3.5rem;
   width: auto;
   border-radius: 4px;
 }
