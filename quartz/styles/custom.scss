@@ -18,3 +18,17 @@ a {
     color: var(--tertiary) !important;
   }
 }
+// Custom logo styling
+.page-title img {
+  max-height: 3.5rem;  // Keeps the stamp at a professional size
+  width: auto;
+  margin-right: 0.5rem;
+  border-radius: 4px; // Gives it that subtle "patch" edge
+}
+
+// Adjusting the weight of your new headers
+h1, h2, h3, h4 {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  color: var(--dark);
+}

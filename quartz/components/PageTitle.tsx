@@ -7,7 +7,8 @@ function PageTitle({ fileData, cfg, displayClass }: QuartzComponentProps) {
   return (
     <h1 class={classNames(displayClass, "page-title")}>
       <a href="/">
-        <img src="/static/logo.png" alt="MNKY Math Logo" />
+        // Find this line inside the PageTitle function:
+        <img src="/logo.png" alt="MNKY Math Logo" />
         {title}
       </a>
     </h1>
