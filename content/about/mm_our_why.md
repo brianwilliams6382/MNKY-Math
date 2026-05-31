@@ -147,6 +147,6 @@ _Other useful paths:_
 
 To see why MNKY Math is being developed openly, visit [[mm_public|Working in Public]].  
   
-To understand the structure of the garden and how to move through it, visit [[content/about/mm_mechanics/index|How MNKY Math Works]].  
+To understand the structure of the garden and how to move through it, visit [[about/mm_mechanics/index|How MNKY Math Works]].  
   
-To explore the outcomes this work is oriented toward, visit [[content/about/mm_drivers/index|What Drives Us]].
+To explore the outcomes this work is oriented toward, visit [[about/mm_drivers/index|What Drives Us]].

@@ -49,7 +49,7 @@ LinkedIn is the primary public distribution and awareness channel for new essays
   
 If you want to know when new content is published, following the MNKY Math LinkedIn page is the simplest path.  
   
-[Follow MNKY Math on LinkedIn](YOUR_LINKEDIN_URL_HERE)  
+[Follow MNKY Math on LinkedIn](https://www.linkedin.com/company/mnky-math)
   
 ## Ways to participate  
   
@@ -60,7 +60,7 @@ MNKY Math is built from lived observation as much as formal theory. If you notic
 A few ways to contribute:  
   
 - Share a real-world example of a system shaping behavior.  
-- Suggest a concept, book, thinker, field, or framework for the [[content/neighborhood/index|Neighborhood]].  
+- Suggest a concept, book, thinker, field, or framework for the [[neighborhood/index|Neighborhood]].  
 - Challenge a MNKY Math idea that feels incomplete, overstated, unclear, or wrong.  
 - Offer language that makes a concept easier to understand.  
 - Point to a situation where MNKY Math could be applied more carefully.  

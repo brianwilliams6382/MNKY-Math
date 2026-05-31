@@ -87,6 +87,6 @@ _Other useful paths:_
 
 To learn how to wander without getting lost, visit [[mm_garden|The MNKY Math Garden]].
 
-To see what drives this work — and what MNKY Math hopes it helps produce — visit [[content/about/mm_drivers/index|What Drives Us]].
+To see what drives this work — and what MNKY Math hopes it helps produce — visit [[about/mm_drivers/index|What Drives Us]].
 
 

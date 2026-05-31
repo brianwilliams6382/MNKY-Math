@@ -52,7 +52,7 @@ Begin with a [[archive/musical-chairs|story]].
 
 MNKY Math is meant to be explored as an expansive [[mm_garden|garden]], not consumed as a feed.
 
-You can navigate using the Explorer in the left panel for a more traditional path, such as entering the [[content/archive/index|Archive]] to browse published pieces, or follow linked concepts as they appear throughout the text. 
+You can navigate using the Explorer in the left panel for a more traditional path, such as entering the [[archive/index|Archive]] to browse published pieces, or follow linked concepts as they appear throughout the text. 
 
 The Graph View offers another way in — showing how ideas connect across the garden.
 
