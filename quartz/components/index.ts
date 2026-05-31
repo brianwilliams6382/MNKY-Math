@@ -1,3 +1,7 @@
+import MMPageTitle from "./MMPageTitle"
+import MMReadTime from "./MMReadTime"
+import MMFooter from "./MMFooter"
+import MMSidebarFooter from "./MMSidebarFooter"
 import Content from "./pages/Content"
 import TagContent from "./pages/TagContent"
 import FolderContent from "./pages/FolderContent"
@@ -26,6 +30,10 @@ import ConditionalRender from "./ConditionalRender"
 
 export {
   ArticleTitle,
+  MMPageTitle,
+  MMFooter,
+  MMSidebarFooter,
+  MMReadTime,
   Content,
   TagContent,
   FolderContent,

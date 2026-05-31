@@ -1,34 +1,499 @@
 @use "./base.scss";
 
-// put your custom CSS here!
-// MNKY Math Authority Styling
-h1, h2, h3, h4 {
-  font-family: "Zilla Slab", serif;
-  font-weight: 700;
-  color: var(--dark);
+/* ==========================================================================
+   1. GLOBAL & STRUCTURAL RESET
+   ========================================================================== */
+:root {
+  /* Define your custom MNKY Math color variables globally */
+  --darkgraymm: #093f15c9;      /* Your custom dialed-in gray selection */
+  --tertiarymm: #8b5a2b;      /* An alternate custom accent if desired */
+  --labelmm: #0e5f1ff3;         /* A custom color for structural labels if you want */
+  --labelbackmm: #575a5891;     /* A very light, transparent version of your label color for subtle background highlights */
 }
 
-// Making the links feel less like "web links" and more like "navigational choices"
-a {
-  text-decoration-thickness: 1px;
-  text-underline-offset: 2px;
-  transition: all 0.2s ease;
-  
-  &:hover {
-    color: var(--tertiary) !important;
+/* Optional: If you want darkgraymm to change shades automatically in dark mode */
+[data-theme="dark"] {
+  --darkgraymm: #89adb6;      /* Inverts to a soft light gray for dark backgrounds */
+}
+
+   .page {
+  display: grid;
+  min-height: 100vh;
+  margin-top: 0 !important;
+}
+
+/* Killing the "B" Line and Sidebar Separators */
+.center > hr, 
+.left.sidebar hr {
+  display: none !important;
+}
+
+/* ==========================================================================
+   2. THE CENTER COLUMN (Gap A Fix)
+   ========================================================================== */
+.center {
+  /* Hard-reset the green bar you saw in Inspect */
+  padding-top: 0 !important; 
+  display: flex;
+  flex-direction: column;
+}
+
+/* Point A: Pulling the actual content up to meet the logo line */
+.article-title {
+  margin-top: 1rem !important; /* Adjust this to hit your exact horizontal line */
+  margin-bottom: 0.5rem !important;
+}
+
+.content-meta {
+  margin-top: 0 !important;
+}
+
+/* ==========================================================================
+   3. THE FIXED SIDEBAR (Command Center)
+   ========================================================================== */
+@media (min-width: 1200px) {
+  .left.sidebar {
+    position: fixed;
+    width: 320px;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    padding: 1.5rem 2rem;
+    z-index: 10;
+    background-color: var(--light); /* Prevents center text from sliding "under" the sidebar icons */
+    padding-top: 1.5rem !important;
+  }
+
+  /* Shift the center column so it stays in its own lane */
+  .center {
+    margin-left: 320px;
   }
 }
-// Custom logo styling
-.page-title img {
-  max-height: 3.5rem;  // Keeps the stamp at a professional size
-  width: auto;
-  margin-right: 0.5rem;
-  border-radius: 4px; // Gives it that subtle "patch" edge
+
+/* Sidebar Branding & Toggle */
+.page-title {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  height: auto !important;
+  margin-bottom: 1rem;
+  img {
+    max-height: 4.4rem !important;
+    width: auto;
+    flex-shrink: 0;
+    border-radius: 4px;
+    border: 1px solid #d6dbda; /* The Subtle Halo */
+    padding: 1px;
+  }
 }
 
-// Adjusting the weight of your new headers
+.darkmode {
+  position: absolute;
+  top: 2.2rem;
+  left: 7.2rem;
+  transform: scale(0.75);
+  z-index: 20;
+}
+
+.explorer {
+  margin-top: 1.8rem;
+}
+
+/* Fixed Footer: Magnetized to the bottom of the sidebar view */
+.mm-sidebar-footer {
+  margin-top: auto;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  
+  /* The "Systemic Noise" Killer */
+  border-top: none !important; 
+  box-shadow: none !important;
+}
+
+/* Hard-reset for any hr that might be hiding inside the explorer or footer */
+.left.sidebar hr {
+  display: none !important;
+  height: 0 !important;
+  visibility: hidden !important;
+}
+
+/* ==========================================================================
+   4. TYPOGRAPHY
+   ========================================================================== */
 h1, h2, h3, h4 {
+  font-family: var(--headerFont);
   font-weight: 700;
-  letter-spacing: -0.02em;
+  letter-spacing: -0.01em;
+  word-spacing: 0.05em;
   color: var(--dark);
+}
+
+body, p {
+  font-family: var(--bodyFont);
+  font-size: 1.0rem;      /* Slightly larger for effortless scanning */
+  line-height: 1.4;      /* Comfortable breathing room between lines */
+  font-optical-sizing: auto; /* Activates the built-in Optical Size logic */
+  /* Dual Axis Override: Balancing deeper descenders with taller ascenders */
+  
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+blockquote {
+  margin: 1.5rem 0;
+  padding: 0.5rem 0 0.5rem 1.5rem;
+  border-left: 4px solid var(--secondary);
+  color: var(--gray); 
+  line-height: 1.6;
+  
+  p {
+    margin: 0;
+  }
+}
+
+/* --- Callout Base Style --- */
+.callout {
+  border-radius: 8px;
+  margin: 1.5rem 0;
+  border-left: 6px solid var(--secondary);
+  background-color: var(--lightgray); /* Soft background for contrast */
+}
+
+/* --- Specific MNKY Math Callout Types --- */
+
+/* 1. The 'Info' */
+.callout[data-callout="info"] {
+  border-left-color: #4a90e2; /* A professional blue for 'Observations' */
+  background-color:#39689428; /* A very light, transparent version of your custom gray for subtlety */
+  .callout-title {
+    color: #4a90e2;
+    font-weight: 600;
+  }
+}
+
+/* 2. The 'Example' (Modeling/Application) */
+.callout[data-callout="example"] {
+  border-left-color: #f5a623; /* An amber/warning color for 'System Signals' */
+  background-color: rgba(180, 172, 159, 0.05); 
+  .callout-title {
+    color: #f5a623;
+  }
+}
+
+/* 3. The 'Important' (Mastering/Structural) */
+.callout[data-callout="important"] {
+  border-left-color: var(--tertiary); 
+  .callout-title {
+    font-family: "Zilla Slab", serif;
+  }
+}
+
+/* 3. The 'Quote' (Mastering/Structural) */
+.callout[data-callout="quote"] {
+   background-color: rgba(127, 161, 126, 0.233); /* Soft, darker tint that adapts well */
+   border-left-color: var(--tertiary); /* A very light border to let the background color do the work */
+  .callout-content {
+    font-family: var(--bodyFont); /* Forces it to use your master site body font */
+    font-size: 1.05rem;           /* Slightly adjusted for presence */
+    color: var(--light);           /* Brings it closer to main text color */
+  }
+  .callout-title {
+    color: var(--tertiary);
+    font-family: var(--bodyFont);
+  }
+}
+
+/* MNKY MATH STRUCTURAL LABEL DESIGN SYSTEM */
+
+.mm-label {
+  font-family: 'Merriweather', Georgia, 'Times New Roman', serif !important;
+  font-weight: 400 !important;
+  font-size: 0.93rem !important;               
+  
+  margin-right: 0.2rem !important;            
+  display: inline-block !important;            
+}
+
+.mm-reduced {
+  display: block !important;                       /* Forces it onto its own line for better readability */
+  margin-left: 1.25rem !important;               /* Permanently bakes your beautiful indent into the code */
+
+  font-family: var(--bodyFont) !important;
+  font-size: 0.92rem !important;
+  color: var(--darkgraymm) !important;
+
+  margin-top: 0.15rem !important;               /* Pulls it slightly closer vertically to the label above it */
+  margin-bottom: 0.85rem !important;            /* Standardizes the gap before the next relationship row */
+  }
+
+
+/* TABLE OF CONTENTS TUNING */
+
+.toc.desktop-only {
+  /* 1. Force the TOC header to match its structural peers (Graph & Backlinks) */
+  & > h3,
+  .toc-header h3,
+  button h3 {
+    font-size: 1.0rem !important; /* Matches Quartz's default sidebar H3 size */
+    line-height: 1.0 !important;
+    font-family: var(--headerFont) !important; /* Re-anchors it to Zilla Slab if preferred */
+    margin-bottom: 0.5rem !important;
+  }
+
+  /* 2. Target the specific list layout container */
+  ul.toc-content.overflow {
+    list-style: none !important;
+    padding-left: 0 !important;
+    margin-left: 0 !important;
+    text-indent: 0 !important;
+
+    li {
+      margin-bottom: 0.2rem !important; 
+      padding-left: 0 !important;
+      margin-left: 0 !important;
+      text-indent: 0 !important;
+      
+      white-space: nowrap !important;
+      overflow: hidden !important;
+      text-overflow: ellipsis !important;
+      display: block !important;
+      width: 100% !important;
+    }
+
+    /* 3. Target the text links directly for micro-text size */
+    a {
+      display: inline-block !important; 
+      width: 100% !important;
+      max-width: 100% !important;      
+      white-space: nowrap !important;
+      overflow: hidden !important;
+      text-overflow: ellipsis !important;
+      
+      font-size: 0.875rem !important;
+      line-height: 1.25 !important; 
+    }
+
+    /* 4. The Depth Eraser */
+    .depth-0, .depth-1, .depth-2 {
+      padding-left: 0 !important;
+      margin-left: 0 !important;
+      text-indent: 0 !important;
+    }
+  }
+}
+
+/* DESKTOP BACKLINKS COMPONENT PRECISION OVERRIDE */
+
+.backlinks {
+  /* Target the list container class (.overflow) you uncovered */
+  ul.overflow {
+    list-style: none !important;
+    padding-left: 0 !important;
+    margin-left: 0 !important;
+
+    li {
+      margin-bottom: 0.4rem !important; /* Matches the tight vertical rhythm of the TOC */
+      padding-left: 0 !important;
+      margin-left: 0 !important;
+      
+      /* Force single-line truncation architecture on the list rows */
+      white-space: nowrap !important;
+      overflow: hidden !important;
+      text-overflow: ellipsis !important;
+      display: block !important;
+      width: 100% !important;
+
+      /* Target the absolute anchor links inside the list items */
+      a {
+        display: inline-block !important; /* Vital for width boundaries to activate */
+        width: 100% !important;
+        max-width: 100% !important;      /* Snaps the text to the edge of your right column */
+        
+        /* The Truncation Engine */
+        white-space: nowrap !important;
+        overflow: hidden !important;
+        text-overflow: ellipsis !important;
+        
+        /* Typography harmony */
+        font-size: 0.9rem !important;     /* Clean, readable scale for cross-references */
+        line-height: 1.35 !important;
+        
+        &:hover {
+          color: var(--secondary) !important;
+        }
+      }
+    }
+  }
+}
+
+/* DESKTOP EXPLORER COMPONENT PRECISION OVERRIDE */
+
+.explorer {
+  /* Target the nested file link lists, skipping main folder containers */
+  ul.content {
+    li {
+      margin-bottom: 0rem !important; /* Establishes a clean, consistent vertical rhythm */
+      padding-left: 0 !important;
+      
+      /* Enforce single-line boundaries on the list element layer */
+      white-space: nowrap !important;
+      overflow: hidden !important;
+      text-overflow: ellipsis !important;
+      display: block !important;
+      width: 100% !important;
+
+      /* Target the actual clickable note links */
+      a {
+        display: inline-block !important; /* Vital for bounding box calculations to activate */
+        width: 100% !important;
+        max-width: 100% !important;      /* Snaps text precisely to your sidebar container boundaries */
+        
+        /* The Truncation Engine */
+        white-space: nowrap !important;
+        overflow: hidden !important;
+        text-overflow: ellipsis !important;
+        
+        /* Typography Scale Tuning */
+        font-size: 0.92rem !important;    /* Slightly smaller than folders for clean spatial hierarchy */
+        line-height: 1.0 !important;
+        color: var(--gray) !important;    /* Optional: subtly softens non-active files for visual focus */
+        
+        /* Active page state highlight */
+        &.active {
+          color: var(--tertiary) !important;
+          font-weight: 600 !important;
+        }
+      }
+    }
+  }
+}
+
+/* === MNKY MATH TRIPLE-ENGINE MINIMAL CALLOUT SYSTEM ==== */
+
+/* ─── ENGINE 1: THE ULTRA-CLEAN TEXT STATEMENT (No Graphic, Simple Indent) ─── */
+.mm-callout-clean {
+  display: block !important;
+  font-family: var(--bodyFont) !important;
+  font-size: 1.05rem !important;
+  color: var(--dark) !important;
+  line-height: 1.6 !important;
+  font-weight: inherit !important;
+  font-style: inherit !important;
+
+  /* Play with these values to fine-tune your vertical paragraph spacing */
+  margin-top: 1.1rem !important;                
+  margin-bottom: 1.1rem !important;             
+  padding-left: 1.5rem !important;               /* Clean left indent alignment */
+}
+
+/* ─── ENGINE 2: THE UNIVERSAL VARIABLE EMOJI (Dynamic Text Overrides) ─── */
+.mm-callout-emoji {
+  display: block !important;
+  font-family: var(--bodyFont) !important;
+  font-size: 1.03rem !important;
+  color: var(--dark) !important;
+  line-height: 1.6 !important;
+  font-weight: inherit !important;
+  font-style: inherit !important;
+
+  margin-top: 1.4rem !important;
+  margin-bottom: 1.4rem !important;
+  padding-left: 0.8rem !important;               /* Wider padding to clear emoji boundary */
+  position: relative !important;
+
+  &::before {
+    content: var(--emoji, "💡") !important;       /* Falls back to bulb if no emoji is specified */
+    position: absolute !important;
+    left: 0 !important;
+    font-size: 1.1rem !important;
+    top: 50% !important;
+    transform: translateY(-50%) !important;
+  }
+}
+
+/* ─── ENGINE 3: THE CUSTOM STATIC IMAGE REPLICATORS ─── */
+/* Shared structural base for all custom image variations */
+[class*="mm-callout-mmemoji-"] {
+  display: block !important;
+  font-family: var(--bodyFont) !important;
+  font-size: 1.05rem !important;
+  color: var(--dark) !important;
+  line-height: 1.6 !important;
+  font-weight: inherit !important;
+  font-style: inherit !important;
+
+  margin-top: 1.1rem !important;
+  margin-bottom: 1.1rem !important;
+  padding-left: 1.8rem !important;
+  position: relative !important;
+
+  &::before {
+    content: "" !important;
+    position: absolute !important;
+    left: 0 !important;
+    width: 1.1rem !important;
+    height: 1.1rem !important;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    top: 50% !important;
+    transform: translateY(-50%) !important;
+  }
+}
+
+/* Replicator Variant A: "Target" Asset */
+[data-theme="light"] .mm-callout-mmemoji-target::before {
+  background-image: url("file/quartz/static/callouts/target-light.svg") !important;
+}
+[data-theme="dark"] .mm-callout-mmemoji-target::before {
+  background-image: url("file/quartz/static/callouts/target-dark.svg") !important;
+}
+
+/* Replicator Variant B: "Loop" Asset */
+[data-theme="light"] .mm-callout-mmemoji-loop::before {
+  background-image: url("file/quartz/static/callouts/loop-light.svg") !important;
+}
+[data-theme="dark"] .mm-callout-mmemoji-loop::before {
+  background-image: url("file/quartz/static/callouts/loop-dark.svg") !important;
+}
+
+/* ==========================================================================
+   5. PRINT OPTIMIZATION
+   ========================================================================== */
+@media print {
+  /* 1. Hide the sidebars and navigation elements */
+  .left, 
+  .right, 
+  .sidebar,
+  .backlinks,
+  header, 
+  footer,
+  .search {
+    display: none !important;
+  }
+
+  /* 2. Force the center body to take up 100% of the width */
+  .center, 
+  main, 
+  article {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    float: none !important;
+  }
+
+  /* 3. Ensure text is black on white for readability/ink saving */
+  body {
+    background-color: white !important;
+    color: black !important;
+  }
+
+  .callout {
+    background-color: white !important;
+    border: 1px solid #ccc !important;
+    break-inside: avoid; /* Prevents callouts from splitting across two pages */
+  }
 }

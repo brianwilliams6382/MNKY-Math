@@ -10,8 +10,7 @@ function PageTitle({ fileData, cfg, displayClass }: QuartzComponentProps) {
   return (
     <h1 class={containerClass}>
       <a href="/">
-        <img src="/logo.png" alt="MNKY Math Logo" />
-        {title}
+        <img src="static/logo.png" alt="MNKY Math Logo" />
       </a>
     </h1>
   )

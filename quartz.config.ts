@@ -24,20 +24,20 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Zilla Slab",
-        body: "Lora",
+        body: "Roboto Flex",
         code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
           light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#2b2b2b",
+          lightgray: "#afaeae",
+          gray: "#6361618f",
+          darkgray: "#3b3b3b",
           dark: "#1c1c1c",
           secondary: "#8b0000",
           tertiary: "#556b2f",
           highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          textHighlight: "#aeecf5f5",
         },
         darkMode: {
           light: "#161618",
@@ -66,7 +66,11 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
-      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
+      Plugin.ObsidianFlavoredMarkdown({ 
+        enableInHtmlEmbed: true, 
+        enableWikiLinks: true,
+        enableCodeBlocks: true 
+      }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
@@ -76,7 +80,7 @@ const config: QuartzConfig = {
     filters: [Plugin.RemoveDrafts()],
     emitters: [
       Plugin.AliasRedirects(),
-      Plugin.ComponentResources(),
+      Plugin.ComponentResources({fontOrigin: "googleFonts"}),
       Plugin.ContentPage(),
       Plugin.FolderPage(),
       Plugin.TagPage(),
