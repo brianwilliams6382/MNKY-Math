@@ -507,7 +507,7 @@ blockquote {
   
   /* ─── 1. COLOR & CONTRAST CONFIGURATIONS ─── */
   [data-theme="light"] {
-    --light: #fafafa !important;         /* Crisp near-white background canvas */
+    --light: #ffffff !important;         /* Crisp near-white background canvas */
     --dark: #111111 !important;          /* Commandingly dark near-black text */
   }
 
@@ -523,7 +523,7 @@ blockquote {
   .mm-callout-clean,
   .mm-callout-emoji,
   [class*="mm-callout-mmemoji-"] {
-    font-size: 1.12rem !important;       /* Your ideal balanced mobile/tablet reading scale */
+    font-size: 1.14rem !important;       /* Your ideal balanced mobile/tablet reading scale */
     line-height: 1.65 !important;        /* Deep vertical tracking room */
     color: var(--dark) !important;
   }
