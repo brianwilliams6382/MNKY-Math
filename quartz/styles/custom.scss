@@ -497,3 +497,53 @@ blockquote {
     break-inside: avoid; /* Prevents callouts from splitting across two pages */
   }
 }
+
+/* ==========================================================================
+   6. MNKY MATH RESPONSIVE READABILITY OVERRIDE ENGINE (PHONES & TABLETS)
+   ========================================================================== */
+
+/* ─── PHASE 1: UNIVERSAL MOBILE & TABLET COLOR MATRIX (Up to 1024px) ─── */
+@media screen and (max-width: 1024px) {
+  
+  /* 1. Mobile Light Mode Optimization */
+  [data-theme="light"] {
+    --light: #fafafa !important;         /* Brilliant crisp near-white background */
+    --dark: #111111 !important;          /* Commandingly dark near-black text */
+  }
+
+  /* 2. Mobile Dark Mode Optimization */
+  [data-theme="dark"] {
+    /* Your background stays deep and dark, but we premium-tune the text: */
+    --dark: #f5f5f7 !important;          /* High-brilliance, crisp off-white text */
+  }
+
+  /* Apply the optimized line heights and colors globally across mobile viewports */
+  body, .article, p {
+    line-height: 1.65 !important;        
+    color: var(--dark) !important;
+  }
+
+  .mm-callout-clean,
+  .mm-callout-emoji,
+  [class*="mm-callout-mmemoji-"] {
+    line-height: 1.65 !important;
+    margin-top: 1.5rem !important;       
+    margin-bottom: 1.5rem !important;
+  }
+}
+
+/* ─── PHASE 2: SMART PHONE INTERPOLATION (Up to 768px) ─── */
+@media screen and (max-width: 768px) {
+  body, .article, p,
+  .mm-callout-clean, .mm-callout-emoji, [class*="mm-callout-mmemoji-"] {
+    font-size: 1.18rem !important;       /* Fast Company / Publisher text scale */
+  }
+}
+
+/* ─── PHASE 3: SMART TABLET INTERPOLATION (769px to 1024px) ─── */
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+  body, .article, p,
+  .mm-callout-clean, .mm-callout-emoji, [class*="mm-callout-mmemoji-"] {
+    font-size: 1.12rem !important;       /* Proportioned scaling for medium canvases */
+  }
+}
