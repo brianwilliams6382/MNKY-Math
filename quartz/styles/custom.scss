@@ -502,48 +502,75 @@ blockquote {
    6. MNKY MATH RESPONSIVE READABILITY OVERRIDE ENGINE (PHONES & TABLETS)
    ========================================================================== */
 
-/* ─── PHASE 1: UNIVERSAL MOBILE & TABLET COLOR MATRIX (Up to 1024px) ─── */
+/* This query activates for ALL portable viewports 1024px and narrower */
 @media screen and (max-width: 1024px) {
   
-  /* 1. Mobile Light Mode Optimization */
+  /* ─── 1. COLOR & CONTRAST CONFIGURATIONS ─── */
   [data-theme="light"] {
-    --light: #fafafa !important;         /* Brilliant crisp near-white background */
+    --light: #fafafa !important;         /* Crisp near-white background canvas */
     --dark: #111111 !important;          /* Commandingly dark near-black text */
   }
 
-  /* 2. Mobile Dark Mode Optimization */
   [data-theme="dark"] {
-    /* Your background stays deep and dark, but we premium-tune the text: */
     --dark: #f5f5f7 !important;          /* High-brilliance, crisp off-white text */
   }
 
-  /* Apply the optimized line heights and colors globally across mobile viewports */
-  body, .article, p {
-    line-height: 1.65 !important;        
-    color: var(--dark) !important;
-  }
-
+  /* ─── 2. TARGETED BODY TEXT SCALING (UNIFIED 1.12rem) ─── */
+  /* We strictly target content elements so headers/logos are protected */
+  .article p, 
+  .article li,
+  .article body,
   .mm-callout-clean,
   .mm-callout-emoji,
   [class*="mm-callout-mmemoji-"] {
-    line-height: 1.65 !important;
-    margin-top: 1.5rem !important;       
-    margin-bottom: 1.5rem !important;
+    font-size: 1.12rem !important;       /* Your ideal balanced mobile/tablet reading scale */
+    line-height: 1.65 !important;        /* Deep vertical tracking room */
+    color: var(--dark) !important;
   }
-}
 
-/* ─── PHASE 2: SMART PHONE INTERPOLATION (Up to 768px) ─── */
-@media screen and (max-width: 768px) {
-  body, .article, p,
-  .mm-callout-clean, .mm-callout-emoji, [class*="mm-callout-mmemoji-"] {
-    font-size: 1.18rem !important;       /* Fast Company / Publisher text scale */
+  /* Precision margin gaps for custom narrative blocks on touch screens */
+  .mm-callout-clean,
+  .mm-callout-emoji,
+  [class*="mm-callout-mmemoji-"] {
+    margin-top: 1.4rem !important;       
+    margin-bottom: 1.4rem !important;
   }
-}
 
-/* ─── PHASE 3: SMART TABLET INTERPOLATION (769px to 1024px) ─── */
-@media screen and (min-width: 769px) and (max-width: 1024px) {
-  body, .article, p,
-  .mm-callout-clean, .mm-callout-emoji, [class*="mm-callout-mmemoji-"] {
-    font-size: 1.12rem !important;       /* Proportioned scaling for medium canvases */
+  /* ─── 3. BRAND HEADER & LOGO PROTECTION ─── */
+  header {
+    /* Stabilize the layout grid so elements line up cleanly */
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    gap: 0.5rem !important;
+  }
+
+  /* Force your brand icon to maintain its crisp "Before" sizing proportions */
+  header .property-logo, 
+  header img,
+  header a.brand-logo img {
+    width: 55px !important;              
+    height: 55px !important;
+    max-width: 55px !important;
+  }
+
+  /* Keep the search bar button compact and aligned next to the logo */
+  header .search-button,
+  #search-button {
+    font-size: 0.9rem !important;
+    padding: 0.3rem 0.6rem !important;
+  }
+
+  /* ─── 4. LEFT-SIDE FOOTER / COPYRIGHT COMPRESSION ─── */
+  /* Downsizes the utility text blocks so they sit quietly beneath the logo */
+  header .page-title,
+  .left-footer,
+  footer,
+  .sidebar-footer,
+  span[class*="copyright"] {
+    font-size: 0.82rem !important;       /* Intentionally smaller than the "Before" look */
+    line-height: 1.3 !important;
+    color: var(--gray) !important;       /* Mutes the color so it doesn't shout */
+    margin-top: 0.25rem !important;
   }
 }
