@@ -12,8 +12,8 @@ fm_level:
 description: "Why MNKY Math exists: because systems are shaping people faster than people can see, and agency depends on learning to notice the patterns."
 socialDescription: ""
 tags:
-date: 2025-09-15
-last_reviewed:
+date: 2025-10-29
+last_reviewed: 2026-05-31
 socialImage: ""
 aliases: []
 permalink:
@@ -57,7 +57,7 @@ Math helps steer it.
 
 ![[/static/coxswain_crew.webp]]
 
-On a rowing crew, the [[_reference/coxswain|coxswain]] does not provide the power. The rowers do. But the coxswain helps set pace, read conditions, coordinate effort, correct drift, and steer the boat toward the intended destination.
+On a rowing crew, the [[def_coxswain|coxswain]] does not provide the power. The rowers do. But the coxswain helps set pace, read conditions, coordinate effort, correct drift, and steer the boat toward the intended destination.
 
 Math often plays a similar role inside modern systems. 
 
@@ -73,7 +73,7 @@ That is why convenience works.
 
 It is why systems work.
 
-Systems math does not need perfect prediction. It only needs [[_reference/def_patterned_susceptibility|patterned susceptibility]].
+Systems math does not need perfect prediction. It only needs [[def_patterned-susceptibility|patterned susceptibility]].
 
 The math helps identify patterns, set goals, forecast conditions, measure performance, compare outcomes, and decide what to adjust next. Used well, it can create clarity, coordination, accountability, and better decisions.
 

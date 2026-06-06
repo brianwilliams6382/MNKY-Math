@@ -14,7 +14,7 @@ fm_level:
 description: ""
 socialDescription: ""
 mmShort: The people, participation paths, and community around MNKY Math.
-tags: []
+tags:
 date:
 last_reviewed: 2026-05-30
 socialImage: ""

@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "d050dbb6f25257fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "d989c8073cc21f3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f065bd1acd20e6ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/about/mm_drivers/mm_cleaner_language.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "mm_cleaner_language"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "323429bc6bdcce76",
+    "type": "split",
+    "children": [
+      {
+        "id": "50752dfc5231e1c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e512f58bd400863c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c2b1c8204580a74b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b4ef8e8815843513",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "747deac23c2c244c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba321b9b6aa9de4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de49aac3b825a28f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/neighborhood/ostrich_effect.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ostrich_effect"
+            }
+          },
+          {
+            "id": "baf484cff93de2ad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/neighborhood/ostrich_effect.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ostrich_effect"
+            }
+          },
+          {
+            "id": "5869e0209e257414",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c10b3afd49b24cb0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "71ceb76dc50f0db3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/neighborhood/ostrich_effect.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ostrich_effect"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f065bd1acd20e6ab",
+  "lastOpenFiles": [
+    "public/foundations/agency-og-image.webp",
+    "public/foundations/agency-inequality-og-image.webp",
+    "public/foundations/MNKY-Math-System-Foundations-og-image.webp",
+    "public/foundations/MNKY-Barrel-og-image.webp",
+    "public/foundations/Field-MNKY-og-image.webp",
+    "public/foundations/MNKY-Math-System-Foundations.html",
+    "public/foundations/MNKY-Barrel.html",
+    "public/foundations/Field-MNKY.html",
+    "public/foundations/index.html",
+    "public/foundations/bananas.html",
+    "public/foundations/agency.html",
+    "public/foundations/agency-inequality.html",
+    "public/foundations/1st-2nd-order.html",
+    "public/foundations/1st-2nd-order-og-image.webp",
+    "public/foundations",
+    "public/archive/v00c0m1.html",
+    "public/archive/Article-2-og-image.webp",
+    "public/about/mm_troop/mm_contributors-og-image.webp",
+    "public/about/mm_troop/mm_contribute_a_challenge-og-image.webp",
+    "public/about/mm_troop/mm_contribute_a_case-og-image.webp",
+    "public/about/mm_drivers/mm_tradeoff_visibility-og-image.webp",
+    "content/about/mm_drivers/mm_outcome_literacy.md",
+    "content/about/mm_drivers/mm_agency_recovery.md",
+    "content/about/mm_drivers/mm_system_sight.md",
+    "content/about/mm_drivers/mm_cleaner_language.md",
+    "content/_reference/def_metric-outcome-gap.md",
+    "content/_reference/def_performance-theater.md",
+    "content/about/mm_drivers/mm_second_order_outcomes.md",
+    "content/about/mm_drivers/index.md",
+    "content/_reference/def_psychology.md",
+    "content/neighborhood/behavioral-economics-science.md",
+    "content/_reference/def_iterative-math.md",
+    "content/_reference/def_waterfall.md",
+    "content/_reference/def_feedback-loops.md",
+    "content/neighborhood/agile.md",
+    "content/neighborhood/index.md",
+    "content/neighborhood/nudge-theory.md",
+    "content/neighborhood/choice-architecture.md",
+    "content/_reference/def_nudges.md",
+    "content/neighborhood/rational-choice-theory.md",
+    "_templates/neighbors.md",
+    "content/neighborhood/bounded-rationality.md",
+    "content/foundations/agency-inequality.md",
+    "content/foundations/agency.md",
+    "content/_reference/def_agency.md",
+    "_templates/standard frontmatter template.md"
+  ]
+}

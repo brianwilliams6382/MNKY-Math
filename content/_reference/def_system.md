@@ -21,7 +21,6 @@ aliases: []
 permalink:
 journeys:
 ---
-
 ### System
 
 A **system** is a set of connected parts that produces patterns of behavior and outcomes over time.

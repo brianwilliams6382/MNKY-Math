@@ -24,7 +24,7 @@ permalink:
 journeys:
 ---
 # Goodhart's Law
-<span style="color: var(--gray);">_bridge neighbor_<span>
+<span class="mm-label">_[[def_neighbor-bridge|Bridge neighbor]]_<span>
 
 ## What it is  
   
@@ -59,11 +59,11 @@ Goodhart’s Law and MNKY Math both care about the gap between **measurement** a
 
 They overlap around questions like:
 
-What changes when a measure becomes a target?
-How do incentives reshape behavior?
-When does a metric stop representing the outcome it was meant to protect?
-How can a number improve while the system gets worse?
-What behavior is the system learning to produce?
+- What changes when a measure becomes a target?
+- How do incentives reshape behavior?
+- When does a metric stop representing the outcome it was meant to protect?
+- How can a number improve while the system gets worse?
+- What behavior is the system learning to produce?
 
 Goodhart’s Law is especially useful when examining metric distortion, gaming, performative compliance, target-chasing, and measurement systems that begin replacing the outcomes they were supposed to represent.
 
@@ -74,13 +74,11 @@ Goodhart’s Law is often used as a warning about metrics.
 
 MNKY Math treats that warning as one part of a larger system.
 
-The question is not only:
+The question is not only: **Did the measure become a bad measure?**
 
-> Did the measure become a bad measure?
+MNKY Math also asks: 
 
-MNKY Math also asks:
-
-> What did the system begin teaching once the measure became important?
+>**_What did the system begin teaching once the measure became important?_**
 
 That means MNKY Math looks beyond the metric itself and examines the wider loop: the system, the signal, the incentive, the participant, the behavior, the hidden tradeoff, and the outcome that emerges over time.
 
@@ -93,15 +91,15 @@ MNKY Math asks what the system becomes while trying to make the number look righ
   
 Goodhart’s Law can appear almost anywhere measurement becomes pressure.
 
-A customer-service team may optimize call time while weakening customer experience.
+- A customer-service team may optimize call time while weakening customer experience.<br><br>
 
-A company may chase engagement scores while employees learn to perform engagement.
+- A company may chase engagement scores while employees learn to perform engagement.<br><br>
 
-A school may improve test scores while narrowing learning.
+- A school may improve test scores while narrowing learning.<br><br>
 
-A sales team may hit activity targets while reducing the quality of customer conversations.
+- A sales team may hit activity targets while reducing the quality of customer conversations.<br><br>
 
-A workplace may reach survey participation goals while missing what the participation push already revealed about trust.
+- A workplace may reach survey participation goals while missing what the participation push already revealed about trust.<br><br>
 
 In each case, the metric may move.
 
@@ -114,29 +112,22 @@ Goodhart’s Law helps name the moment when measurement starts changing the thin
 
 MNKY Math extends the lens by asking:
 
-> [!Tip]
->  - What behavior did the measurement teach?  
+> - What behavior did the measurement teach?  
 > - What outcome did the system actually produce?  
 > - What tradeoff moved somewhere else?  
 > - What became easier to defend because the number looked right?
 
 ---
-## Go deeper  
-  
-- Charles Goodhart’s original insight is commonly associated with his 1975 work on monetary policy in the United Kingdom. The now-familiar wording — **_“when a measure becomes a target, it ceases to be a good measure”_** — is a later generalized formulation.
-- A closely related idea is [[campbells_law|Campbell's Law]], which also warns that quantitative indicators can distort the processes they are meant to monitor when used for decision-making or control.
-
 ## Relationship map
 
-| Relationship | Link | Why it matters |
-|---|---|---|
-| Closest twin | [[Campbell’s Law]] | Both examine what happens when measurement becomes pressure, but Goodhart’s Law focuses more on the measure losing usefulness. |
-| Clarifying contrast | [[Cobra Effect]] | Cobra Effect focuses on incentives that worsen the problem; Goodhart focuses on metrics that stop representing what they were meant to measure. |
-| Mostly shaped by | [[measurement]] | Goodhart’s Law begins when a measure is used as a target or control mechanism. |
-| Helps explain | [[metric-outcome gap]] | It helps explain why hitting the number may no longer mean achieving the intended outcome. |
+<span class="mm-label" style="color: var(--gray);">**_Closest twin:_**</span> [[campbells-law|Campbell's law]] 
+<span class="mm-reduced">Both examine what happens when measurement becomes pressure, but Goodhart’s Law focuses more on the measure losing usefulness.</span>
 
+<span class="mm-label" style="color: var(--gray);">**_Clarifying contrast:_**</span> [[cobra-effect|Cobra Effect]] 
+<span class="mm-reduced">Cobra Effect focuses on incentives that worsen the problem; Goodhart focuses on metrics that stop representing what they were meant to measure. </span>
 
-+ Closest twin:
-+ Clarifying contrast:
-+ Mostly shaped by:
-+ Helps explain:
+<span class="mm-label" style="color: var(--gray);">**_Mostly shaped by:_**</span> [[def_measurement|Measurement]] 
+<span class="mm-reduced">Goodhart’s Law begins when a measure is used as a target or control mechanism.</span>
+
+<span class="mm-label" style="color: var(--gray);">**_Helps explain:_**</span> [[def_metric-outcome-gap|Metric-Outcome Gap]] 
+<span class="mm-reduced">It helps explain why hitting the number may no longer mean achieving the intended outcome. </span>

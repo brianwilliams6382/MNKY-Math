@@ -30,11 +30,11 @@ This is intro text.
 
 ![[def_system]]
 
-![[coxswain]]
+![[def_coxswain]]
 
-![[def_low-win_system]]
+![[def_low-win-system]]
 
-![[Incentive]]
+![[def_incentive]]
 
 ![[Metrics]]
 

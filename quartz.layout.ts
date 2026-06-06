@@ -97,5 +97,8 @@ export const defaultListPageLayout: PageLayout = {
       }
     }),
   ],
-  right: [],
+  right: [
+    Component.DesktopOnly(Component.Spacer()),
+    Component.Backlinks(),
+  ],
 }

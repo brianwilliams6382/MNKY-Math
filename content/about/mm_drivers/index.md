@@ -16,7 +16,7 @@ description: "The outcomes MNKY Math is working toward: clearer system sight, be
 socialDescription: ""
 mmShort:
 tags: []
-date: 2026-05-30
+date: 2026-02-17
 last_reviewed: 2026-05-30
 socialImage: ""
 aliases: []
@@ -43,8 +43,8 @@ These are the immediate capacities MNKY Math is trying to strengthen.
 They are organized around four core movements:  
   
 1. Seeing systems more clearly.  
-2. Participating inside them with more awareness. 
-3. Building, tuning, measuring, and leading them with more conscience.
+2. Participating inside systems with more awareness. 
+3. Building, tuning, measuring, and leading systems with more conscience.
 4. Making the invisible easier to discuss.
   
 These are not separate outcomes so much as connected capacities. Clearer seeing changes how we participate. More conscious participation changes how we build. More careful building changes what systems teach the people inside them. And cleaner language gives people shared handles for noticing, naming, and changing what would otherwise remain invisible.
@@ -61,7 +61,7 @@ These are not separate outcomes so much as connected capacities. Clearer seeing 
 > For people who design, lead, manage, measure, or tune systems, MNKY Math asks a deeper question: <br><br>**_What kind of person does this system ask people to become in order to succeed inside it?_** <br><br>A system may hit the target and still train behavior no one would proudly defend. <br><br>A better system protects the outcome without quietly damaging the people inside it. <br><br>_Core outcomes in this family:_<br><br> - [[mm_design_conscience|Design conscience]]  <br>- [[mm_tradeoff_visibility|Tradeoff visibility]]  <br><br>
 
 > [!info]- Making the invisible easier to discuss  
-> Some outcomes support every other outcome.  <br><br>Cleaner language helps people name patterns they may have felt but could not yet explain. <br><br>That matters because language creates handles. Handles create shared attention. Shared attention creates the possibility of change. <br>_Cross-cutting outcome:_ <br><br> - [[mm_cleaner_language|Cleaner language]]<br><br>
+> Some outcomes support every other outcome.  <br><br>Cleaner language helps people name patterns they may have felt but could not yet explain. <br><br>That matters because language creates handles. Handles create shared attention. Shared attention creates the possibility of change. <br><br>_Cross-cutting outcome:_ <br><br> - [[mm_cleaner_language|Cleaner language]]<br><br>
 
 ---
 ## Second-order outcomes  
@@ -92,7 +92,7 @@ And what we produce becomes part of who we are.
 
 ---
 
-_Other use paths:_
+_Other useful paths:_
 
 Visit [[/about/mm_Mechanics/index|How MNKY Math Works]] to understand how MNKY Math continues to evolve and different ways for moving about in the digital garden.
 

@@ -14,7 +14,7 @@ fm_level:
 description: ""
 socialDescription: ""
 mmShort: Ways to follow, participate in, challenge, and help tune MNKY Math as the framework evolves.
-tags: []
+tags:
 date: 2026-05-31
 last_reviewed: 2026-05-31
 socialImage: ""

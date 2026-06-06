@@ -23,28 +23,31 @@ journeys:
 
 MNKY Math did not appear in an empty field.
 
-It sits near existing theories, disciplines, methods, and practices that also study systems, behavior, incentives, measurement, decision-making, organizations, and human response.
+It sits near existing theories, disciplines, methods, and practices that also study systems, behavior, incentives, measurement, decision-making, organizations, and human response. 
 
-The Neighborhood is where our neighbors live.
+**The Neighborhood is where our neighbors live.** It gathers the thinkers, frameworks, disciplines, and adjacent bodies of work that help locate or contextualize MNKY Math in relation to existing ideas.
 
 These pages are not exhaustive summaries. They are orientation notes: what the idea is, why it matters to MNKY Math, where it overlaps, where it differs, and where to go deeper.
 
+For more detail on how these pages are organized, see [[ref_using-the-neighborhood|Using the Neighborhood]].
+
 ## Neighbor relationships  
   
-Not every neighbor relates to MNKY Math in the same way.  
+Neighbor pages associate each neighbor with a relationship description:  
   
-Some sit close to the center of our framework. Some help readers enter MNKY Math through more familiar ideas. Some are useful because they clarify what MNKY Math is not.  
+- **==Close neighbor==** — Directly overlaps with MNKY Math’s core territory.  
+- **==Bridge neighbor==** — Helps readers enter MNKY Math through a familiar idea or framework.  
+- **==Adjacent neighbor==** — Shares useful territory, but is not central to MNKY Math.  
+- **==Contrast neighbor==** — Clarifies MNKY Math by showing what it is not, questions, or extends beyond.  
+- **==Deep neighbor==** — Connects at a structural or philosophical level, even if less familiar.  
   
-To help orient the relationship, neighbor pages may use one of the following relationship descriptions:  
+## Relationship map  
   
-**Close neighbor** — An idea that overlaps directly with MNKY Math’s core territory.  
+Each neighbor page also includes a relationship map to show how the neighbor connects to other ideas:  
   
-**Bridge neighbor** — An idea that helps readers enter MNKY Math through a more familiar concept, practice, or framework.  
-  
-**Adjacent neighbor** — An idea that shares useful territory with MNKY Math but is not central to the framework.  
-  
-**Contrast neighbor** — An idea that clarifies MNKY Math by showing what it is not, what it questions, or what it extends beyond.  
-  
-**Deep neighbor** — An idea that connects to MNKY Math at a more structural or philosophical level, even if it is less familiar to general readers.
+- **Closest twin** — The most similar nearby idea.  
+- **Clarifying contrast** — An idea that helps sharpen the distinction.  
+- **Mostly shaped by** — A major influence, source, or underlying discipline.  
+- **Helps explain** — A concept, behavior, or system the neighbor makes easier to understand.
 
 ---

@@ -45,7 +45,7 @@ You can start with a story, follow a concept, open a definition, preview a relat
 
 The Explorer is the site’s visible file tree.
 
-The Explorer is presented in the left-side panel. It shows the main areas of MNKY Math and gives you a way to browse by section.
+The Explorer is presented in the left-side panel. It shows the main areas of MNKY Math and gives you a way to browse by section. On mobile devices the Explorer becomes the hamburger in the upper right corner.
 
 Use Explorer when you want a more structured path through the garden. It is especially helpful when you want to see what lives under major areas like About, Archive, Foundations, Tools, or The Neighborhood.
 
@@ -97,7 +97,11 @@ The page you were viewing when you opened the global graph remains highlighted, 
 Use the global graph when you want to see the larger shape of the garden.  
   
 #### Useful Graph View Characteristics  
-  
+
+On desktop browsers, Graph View lives in the right-side panel at the top.
+
+On mobile browsers, Graph View moves to the bottom of the content page.
+
 - The active page appears as a red dot.  
 - Pages you have visited appear as green dots.  
 - Pages not yet visited appear as gray dots.  
@@ -109,7 +113,7 @@ Use the global graph when you want to see the larger shape of the garden.
 ---
 ## Backlinks
 
-Backlinks show which pages link to the page you are currently reading. When backlinks are present they will be indexed in the right-side panel under the heading "Backlinks".
+Backlinks show which pages link to the page you are currently reading. When backlinks are present they will be indexed in the right-side panel under the heading "Backlinks". On a mobile device, Backlinks move to the bottom of the page.
 
 They help answer a useful question: _Where else does this idea show up?_
 

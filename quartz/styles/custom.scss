@@ -5,18 +5,13 @@
    ========================================================================== */
 :root {
   /* Define your custom MNKY Math color variables globally */
-  --darkgraymm: #093f15c9;      /* Your custom dialed-in gray selection */
+  --darkgraymm: #1195b6;      /* Your custom dialed-in gray selection */
   --tertiarymm: #8b5a2b;      /* An alternate custom accent if desired */
   --labelmm: #0e5f1ff3;         /* A custom color for structural labels if you want */
   --labelbackmm: #575a5891;     /* A very light, transparent version of your label color for subtle background highlights */
 }
 
-/* Optional: If you want darkgraymm to change shades automatically in dark mode */
-[data-theme="dark"] {
-  --darkgraymm: #89adb6;      /* Inverts to a soft light gray for dark backgrounds */
-}
-
-   .page {
+.page {
   display: grid;
   min-height: 100vh;
   margin-top: 0 !important;
@@ -222,12 +217,11 @@ blockquote {
 
   font-family: var(--bodyFont) !important;
   font-size: 0.92rem !important;
-  color: var(--darkgraymm) !important;
+  color: var(--darkgraymm) !important;           /* Fallback token variable */
 
   margin-top: 0.15rem !important;               /* Pulls it slightly closer vertically to the label above it */
   margin-bottom: 0.85rem !important;            /* Standardizes the gap before the next relationship row */
-  }
-
+}
 
 /* TABLE OF CONTENTS TUNING */
 
@@ -238,7 +232,7 @@ blockquote {
   button h3 {
     font-size: 1.0rem !important; /* Matches Quartz's default sidebar H3 size */
     line-height: 1.0 !important;
-    font-family: var(--headerFont) !important; /* Re-anchors it to Zilla Slab if preferred */
+    font-family: var(--headerFont) !important; /* Re-anchors it to Zilla Slab */
     margin-bottom: 0.5rem !important;
   }
 
@@ -275,11 +269,17 @@ blockquote {
       line-height: 1.25 !important; 
     }
 
-    /* 4. The Depth Eraser */
-    .depth-0, .depth-1, .depth-2 {
+    /* 4. The Depth Eraser (Streamlined to H1 and H2) */
+    /* Keep H1 (.depth-0) and H2 (.depth-1) styled cleanly */
+    .depth-0, .depth-1 {
       padding-left: 0 !important;
       margin-left: 0 !important;
       text-indent: 0 !important;
+    }
+
+    /* Forcefully hide H3 (.depth-2) and any lower headings from the sidebar list */
+    .depth-2, .depth-3, .depth-4 {
+      display: none !important;
     }
   }
 }

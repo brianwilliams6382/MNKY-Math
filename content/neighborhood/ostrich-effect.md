@@ -27,7 +27,7 @@ journeys:
 ---
 
 # Ostrich Effect
-<span style="color: var(--gray);">_bridge neighbor_<span>
+<span class="mm-label">_[[def_neighbor-bridge|Bridge neighbor]]_<span>
 
 ## What it is  
   
@@ -40,29 +40,29 @@ The term is often associated with behavioral finance, where it has been used to 
 The name comes from the common but false image of an ostrich burying its head in the sand to avoid danger. The animal behavior is inaccurate, but the metaphor has remained useful.  
   
 > [!info] **In plain language: sometimes people avoid looking because looking creates a problem they now have to feel, explain, or act on.**
-  
+
+---
 ## Why it matters to MNKY Math  
   
 The Ostrich Effect matters to MNKY Math because systems do not only produce signals.  
   
 They also shape whether people feel willing, safe, equipped, or incentivized to look at those signals.  
   
-A dashboard can exist and still be avoided.  
+- A dashboard can exist and still be avoided.<br><br>
   
-A warning can be visible and still be ignored.  
+- A warning can be visible and still be ignored.  <br><br>
   
-A metric can be accurate and still fail to create action.  
+- A metric can be accurate and still fail to create action.  <br><br>
   
-A problem can be known and still remain untouched.  
+- A problem can be known and still remain untouched.  <br><br>
   
-MNKY Math is interested in that gap: the space between signal availability and signal engagement.  
+MNKY Math is interested in that gap: the space between signal availability and signal engagement. 
+
+When people avoid information, the easy default explanation is often personal weakness, denial, or irresponsibility.  
   
-When people avoid information, the easy explanation is personal weakness, denial, or irresponsibility.  
-  
-MNKY Math asks a different question:  
-  
-> What made not-looking feel rational inside this system?
-  
+MNKY Math asks a different question:  ==What made not-looking feel rational inside this system?==
+
+---
 ## Where we overlap  
   
 The Ostrich Effect and MNKY Math overlap around avoidance, attention, discomfort, and response.  
@@ -79,60 +79,61 @@ They overlap around questions like:
 - When does avoidance become an adaptive response rather than a personal flaw?  
   
 The Ostrich Effect is especially useful when examining dashboards, performance metrics, financial information, customer complaints, employee feedback, operational backlogs, health data, risk indicators, and any signal that threatens identity, status, workload, confidence, or control.
-  
+
+---
 ## Where MNKY Math differs  
   
 The Ostrich Effect is usually framed as a cognitive bias: a tendency within the individual to avoid negative information.  
   
 MNKY Math does not reject that framing, but it extends the view outward.  
   
-The question is not only:  
-  
-> Why did this person avoid the information?  
+The question is not only:  **Why did this person avoid the information?**
   
 MNKY Math also asks:  
   
-> What did the system make looking cost?  
+> **_What did the system make looking cost?  
 > What consequences followed acknowledgment?  
 > What support existed for acting on the signal?  
 > What incentives made avoidance easier than engagement?  
-> What would have to be true for looking to become safe, useful, or worthwhile?  
+> What would have to be true for looking to become safe, useful, or worthwhile?_**
   
 The Ostrich Effect helps explain why people may avoid difficult information.  
   
 MNKY Math asks how systems make avoidance more or less likely.
-  
+
+---
 ## How it shows up  
   
 The Ostrich Effect can appear anywhere signals carry emotional, social, operational, or financial consequences.  
   
-An investor may avoid checking a portfolio during a downturn.  
+- An investor may avoid checking a portfolio during a downturn.  <br><br>
   
-A manager may avoid looking closely at employee feedback because the feedback would require difficult conversations or structural change.  
+- A manager may avoid looking closely at employee feedback because the feedback would require difficult conversations or structural change.  <br><br>
   
-A team may avoid a declining metric because acknowledging it would challenge the story being told to leadership.  
+- A team may avoid a declining metric because acknowledging it would challenge the story being told to leadership.  <br><br>
   
-A company may avoid customer complaints because the complaints point to product, staffing, pricing, or policy problems that are expensive to address.  
+- A company may avoid customer complaints because the complaints point to product, staffing, pricing, or policy problems that are expensive to address.  <br><br>
   
-A person may avoid health information because seeing the number would create fear, shame, or pressure to change.  
+- A person may avoid health information because seeing the number would create fear, shame, or pressure to change.  <br><br>
   
-A workplace may avoid operational backlog data because the backlog reveals a capacity problem no one is resourced to solve.  
+- A workplace may avoid operational backlog data because the backlog reveals a capacity problem no one is resourced to solve.  <br><br>
   
 In each case, the information exists.  
   
 But the signal does not become useful simply because it is available.
 
+---
 ## MNKY Math lens
 
 The Ostrich Effect helps name a human tendency to avoid threatening information.  
   
 MNKY Math extends the lens by asking:  
   
-> What made the signal threatening?  
-> What did the system teach people to avoid?  
-> What costs appeared once the signal was acknowledged?  
-> What behavior did avoidance protect?  
-> What outcome became more likely because the signal went unseen?  
+> - What made the signal threatening?  
+> - What did the system teach people to avoid?  
+> - What costs appeared once the signal was acknowledged?  
+> - What behavior did avoidance protect?  
+> - What outcome became more likely because the signal went unseen?  
   
 This is where signal design becomes system design.  
   
@@ -146,17 +147,13 @@ A system that turns every signal into blame will train avoidance and then call i
 
 ## Relationship map
 
-The Ostrich Effect sits in the part of the neighborhood concerned with signals, avoidance, and human response. It helps explain why a signal can be available, accurate, and still fail to produce attention or action. 
+<span class="mm-label" style="color: var(--labelmm);">**==Closest twin:==**</span> [[def_avoidance-response|Avoidance Response]] <br><span class="mm-reduced">Both involve turning away from information or conditions that feel threatening, costly, or difficult to act on.<span>
 
-The relationships below show how it connects to nearby concepts without treating them as interchangeable. In this context its closest relationships are not just about avoidance; they show how threat, distortion, and system pressure shape what people are willing to see.<br><br>
+<span class="mm-label" style="color: var(--labelmm);">**==Clarifying contrast:==**</span> [[campbells-law|Campbell's Law]] <br><span class="mm-reduced">Campbell’s Law explains how indicators distort systems; Ostrich Effect explains why people may avoid engaging signals in the first place.</span>
 
-<span class="mm-label" style="color: var(--labelmm);">**==Closest twin:==**</span> [[avoidance response]] <br><span class="mm-reduced">Both involve turning away from information or conditions that feel threatening, costly, or difficult to act on.<span>
+<span class="mm-label" style="color: var(--labelmm);">**==Mostly shaped by:==**</span> [[def_threat-response|Threat Response]] <br><span class="mm-reduced">Avoidance often begins when information feels emotionally, socially, financially, or operationally threatening.</span>
 
-<span class="mm-label" style="color: var(--labelmm);">**==Clarifying contrast:==**</span> [[campbells_law|Campbell's Law]] <br><span class="mm-reduced">Campbell’s Law explains how indicators distort systems; Ostrich Effect explains why people may avoid engaging signals in the first place.</span>
-
-<span class="mm-label" style="color: var(--labelmm);">**==Mostly shaped by:==**</span> [[threat response]] <br><span class="mm-reduced">Avoidance often begins when information feels emotionally, socially, financially, or operationally threatening.</span>
-
-<span class="mm-label" style="color: var(--labelmm);">**==Helps explain:==**</span> [[signals]] <br><span class="mm-reduced">It shows why a signal can exist, be accurate, and still fail to produce attention or action.</span>
+<span class="mm-label" style="color: var(--labelmm);">**==Helps explain:==**</span> [[def_signals|Signals]] <br><span class="mm-reduced">It shows why a signal can exist, be accurate, and still fail to produce attention or action.</span>
 
 
 
