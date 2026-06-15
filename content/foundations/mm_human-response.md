@@ -3,7 +3,7 @@ draft: true
 enableToc: true
 readTimeMM: true
 explorerHide: true
-title:
+title: Human Response
 signatureCode:
 contentSection:
 contentType:
@@ -15,21 +15,11 @@ socialDescription: ""
 mmShort:
 tags: []
 date:
-last_reviewed: 2026-05-30
+last_reviewed:
 socialImage: ""
 aliases: []
 permalink:
 journeys:
 ---
-Possible content prefixes for content contained within this folder:
+## Human Response
 
-## Active
-
-def_ = definition  
-ref_ = reference
-
-## Considered
-
-note_ = short reference note  
-src_ = source/reference note  
-map_ = internal relationship map

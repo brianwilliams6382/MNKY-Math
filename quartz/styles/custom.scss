@@ -574,3 +574,149 @@ blockquote {
     margin-top: 0.25rem !important;
   }
 }
+
+/* ==========================================================================
+   BREADCRUMBS STRUCTURAL ORIENTATION TRACK
+   ========================================================================== */
+
+.breadcrumb-container {
+  margin: 0 !important;
+  margin-top: 0.75rem !important;
+  margin-bottom: 1.25rem !important;    /* The only structural gap before your main H1 title */
+  padding: 0 !important;
+  
+  display: flex !important;
+  flex-direction: row !important;
+  flex-wrap: wrap !important;           /* Allows natural downward wrapping on small screens */
+  
+  /* Micro-spacing control */
+  row-gap: 0.15rem !important;          /* Keeps wrapped rows tightly stacked vertically */
+  column-gap: 0.3rem !important;        /* Maintains clean spacing between the arrows and text */
+}
+
+.breadcrumb-element {
+  font-family: var(--codeFont) !important; 
+  font-size: 0.72rem !important;        
+  margin: 0 !important;                 
+  padding: 0 !important;
+  line-height: 1.2 !important;          
+  display: flex !important;
+  align-items: baseline !important;
+
+  /* 1. SILENCE THE DEFAULT SUFFIX: Hides Quartz's internal trailing paragraph tag */
+  p {
+    display: none !important;
+  }
+
+  /* 2. RECONSTRUCT AS PREFIX: Generate a fresh arrow before every element *except* the root homepage */
+  &:not(:first-child)::before {
+    content: ">" !important;
+    color: var(--gray) !important;       /* Clean muted layout color */
+    margin-right: 0.4rem !important;    /* Keeps the space between the arrow and the text link pristine */
+    font-family: var(--codeFont) !important;
+  }
+
+  /* Target the individual crumb link segments */
+  a {
+    font-weight: 400 !important;
+    color: var(--darkgraymm) !important; 
+    text-decoration: none !important;
+    text-transform: lowercase !important;
+    transition: color 0.2s ease !important;
+
+    &:hover {
+      color: var(--secondary) !important; 
+      text-decoration: underline !important;
+    }
+  }
+
+}
+
+/* ==========================================================================
+   DIRECTED PATH PAGE FLOW NAVIGATION
+   ========================================================================== */
+
+.page-flow-nav {
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: center !important;               /* Keeps arrows and titles perfectly centered vertically */
+  
+  margin-top: 3.0rem !important;
+  margin-bottom: 2.5rem !important;             /* Pushes the "Other useful paths" further down the canvas */
+  
+  /* The Box Transformation */
+  background-color: var(--labelbackmm) !important; /* Uses Quartz's native soft background tint */
+  border-radius: 6px !important;                 /* Softens the sharp modern corners */
+  padding: 1.0rem 1.25rem !important;            /* Top/Bottom, Left/Right uniform breathing room */
+  
+  /* Clean boundaries that map across light and dark themes */
+  border: 1px solid var(--gray) !important;      
+  opacity: 0.95 !important;
+}
+
+.flow-prev, .flow-next {
+  font-family: var(--bodyFont) !important;
+  font-weight: 600 !important;
+  font-size: 0.85rem !important;
+  color: var(--dark) !important; /* Muted instruction text label */
+  line-height: 1.4 !important;
+
+  a {
+    font-size: 1.0rem !important;
+    font-weight: 600 !important;
+    color: var(--secondary) !important; /* Uses your high-contrast #1195b6 */
+    text-decoration: none !important;
+  }
+}
+
+.flow-next {
+  text-align: right !important; /* Aligns the "Next" text cleanly to the right margin */
+}
+
+/* ==========================================================================
+   SURGICAL INDEX PAGE LIST CLEANUP
+   ========================================================================== */
+
+/* Target only folder index pages and forcefully drop the native 3-column table */
+body[data-slug$="index"] {
+  .page-listing, 
+  .page-listing + p,
+  h2:has(+ .page-listing) {
+    display: none !important;
+  }
+}
+
+/* ==========================================================================
+   MOBILE FOOTER NAVIGATION RE-STACK (GRAPH & BACKLINKS)
+   ========================================================================== */
+
+@media (max-width: 768px) {
+  /* Target the parent container holding both components at the bottom */
+  .graph + .backlinks,
+  div:has(> .graph):has(> .backlinks),
+  footer + div, 
+  .page .right { 
+    display: flex !important;
+    flex-direction: column !important; /* Breaks the side-by-side grid, forces a vertical stack */
+    width: 100% !important;
+    align-items: stretch !important;
+    gap: 2.0rem !important;            /* Creates a clean, healthy separation gap between elements */
+  }
+
+  /* Force the Graph View container to use the full mobile horizontal span */
+  .graph {
+    width: 100% !important;
+    margin-bottom: 1.0rem !important;
+  }
+
+  /* Force the Backlinks block to drop underneath and wrap its text perfectly */
+  .backlinks {
+    width: 100% !important;
+    padding-left: 0 !important;        /* Clears out desktop side-margin indents */
+    
+    ul, li {
+      word-break: break-word !important;
+      overflow-wrap: break-word !important;
+    }
+  }
+}

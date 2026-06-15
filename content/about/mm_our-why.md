@@ -64,7 +64,7 @@ Math often plays a similar role inside modern systems.
 _Systems math_ works on human participation because human beings are biologically varied, but not infinitely variable. We are not identical. But we share enough biology that systems can reliably pressure, reward, cue, exhaust, distract, motivate, nudge, and train us.
 
 >That is why queues work.  
-That is why scarcity works.  
+That is why scarcity works (_real and artificial_).  
 That is why rewards work.  
 That is why variable reinforcement works.  
 That is why social proof works.  
@@ -93,6 +93,8 @@ A metric does not contain the whole system. It captures one part of the system f
 
 **A rising metric *might* signal improvement.** It might also signal compliance, gaming, selection bias, changed conditions, reduced friction, increased pressure, or a system learning how to satisfy the measurement without preserving the meaning behind it.
 
+**A stable metric _might_ signal consistency.** It might also signal compliance, gaming, selection bias, pencil whipping, suppressed variation, hidden deterioration, or a system that has learned how to keep satisfying the measurement while the underlying outcome quietly changes.
+
 **A falling metric *might* signal failure.** It might also signal a healthier correction, a change in context, a more honest measurement, a new constraint, or a system revealing something that had previously been hidden.
 
 > The math matters because it gives us a signal.
@@ -111,7 +113,7 @@ Because this is where the system's steering becomes visible.
 
 There is a little monkey in all of us.
 
-The part that responds before it reflects. The part that reacts to the pressure or direction of the system's intent. The part that follows the reward, avoids the friction, accepts the default, chases the signal, or repeats the pattern because the system made our next move feel obvious — the part that chases the [[foundations/bananas|bananas]].
+The part that responds before it reflects. The part that reacts to the pressure or direction of the system's intent. The part that follows the reward, avoids the friction, accepts the default, chases the signal, or repeats the pattern because the system made our next move feel obvious — the part that chases the [[mm_bananas|mm_bananas]].
 
 That is not failure. That is being human inside systems.
 
@@ -137,15 +139,16 @@ It looks at how systems influence human behavior, how human behavior feeds back 
 
 This is MNKY.
 
+It is also why we feel [[mm_more-mnkys|the World needs more MNKYs]].
+
 ---
 
 MNKY began casually: a phrase said at work before it became a lens. Read the [[about/mm_emergence|origin story]].
 
----
+
+<div class="page-flow-nav"> <div class="flow-prev"> ← Previous<br>[[musical-chairs|Musical Chairs]] </div> <div class="flow-next"> Next →<br>[[mm_emergence|Origin Story]] </div> </div>
 
 _Other useful paths:_
-
-To see why MNKY Math is being developed openly, visit [[mm_public|Working in Public]].  
   
 To understand the structure of the garden and how to move through it, visit [[about/mm_mechanics/index|How MNKY Math Works]].  
   

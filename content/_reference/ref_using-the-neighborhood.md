@@ -22,7 +22,7 @@ aliases: []
 permalink:
 journeys:
 ---
-# Using The Neighborhood  
+### Using The Neighborhood  
   
 The Neighborhood is where MNKY Math locates itself near existing ideas.  
   

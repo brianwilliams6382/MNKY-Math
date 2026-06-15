@@ -190,7 +190,7 @@ The difference matters.
 <span class="mm-label" style="color: var(--gray);">**_Closest twin:_**</span> [[bounded-rationality|Bounded Rationality]] 
 <span class="mm-reduced">Behavioral Economics and Behavioral Science are deeply connected to Bounded Rationality because both reject the idea that people make decisions as perfect optimizers with unlimited information, attention, and processing capacity.</span>
 
-<span class="mm-label" style="color: var(--gray);">**_Clarifying contrast:_**</span> [[rational-choice-theory|Rational Choice theory]] 
+<span class="mm-label" style="color: var(--gray);">**_Clarifying contrast:_**</span> [[rational-choice-theory|Rational Choice Theory]] 
 <span class="mm-reduced">Rational Choice Theory often begins with cleaner assumptions about preference, optimization, and self-interested choice; Behavioral Economics and Behavioral Science examine how real behavior departs from those assumptions.</span>
 
 <span class="mm-label" style="color: var(--gray);">**_Mostly shaped by:_**</span> [[def_psychology|Psychology]] 

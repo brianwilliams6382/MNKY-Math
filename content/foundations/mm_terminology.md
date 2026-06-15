@@ -24,7 +24,7 @@ This is intro text.
 
 This is intro text.
 
-This is intro text. [[MNKY Barrel]]
+This is intro text. [[mm_mnky-barrel]]
 
 This is intro text.
 
@@ -36,5 +36,5 @@ This is intro text.
 
 ![[def_incentive]]
 
-![[Metrics]]
+![[zz_Metrics]]
 

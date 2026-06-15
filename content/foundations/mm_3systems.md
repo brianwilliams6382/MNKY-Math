@@ -15,21 +15,15 @@ socialDescription: ""
 mmShort:
 tags: []
 date:
-last_reviewed: 2026-05-30
+last_reviewed:
 socialImage: ""
 aliases: []
 permalink:
 journeys:
 ---
-Possible content prefixes for content contained within this folder:
 
-## Active
 
-def_ = definition  
-ref_ = reference
+Precision Systems
+Dynamic Precision Systems  
+Adaptive Systems
 
-## Considered
-
-note_ = short reference note  
-src_ = source/reference note  
-map_ = internal relationship map

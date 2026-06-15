@@ -3,7 +3,7 @@ draft: true
 enableToc: true
 readTimeMM: true
 explorerHide: true
-title:
+title: Agency Inequality
 signatureCode:
 contentSection:
 contentType:
@@ -15,21 +15,15 @@ socialDescription: ""
 mmShort:
 tags: []
 date:
-last_reviewed: 2026-05-30
+last_reviewed:
 socialImage: ""
 aliases: []
 permalink:
 journeys:
 ---
-Possible content prefixes for content contained within this folder:
 
-## Active
 
-def_ = definition  
-ref_ = reference
 
-## Considered
+**Agency Inequality** can become the sharper modern argument:
 
-note_ = short reference note  
-src_ = source/reference note  
-map_ = internal relationship map
+> As systems become more automated, optimized, and AI-mediated, the gap widens between those whose agency expands and those whose agency is reduced.

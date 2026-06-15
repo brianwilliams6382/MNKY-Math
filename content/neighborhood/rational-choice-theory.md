@@ -3,7 +3,7 @@ draft: false
 enableToc: true
 readTimeMM: true
 explorerHide: false
-title:
+title: Rational Choice Theory
 signatureCode:
 contentSection:
   - neighborhood
@@ -16,7 +16,7 @@ socialDescription: ""
 mmShort: Rational Choice Theory assumes people make decisions by weighing costs, benefits, preferences, and likely outcomes in pursuit of their own perceived advantage.
 tags: []
 date: 2025-12-01
-last_reviewed: 2026-06-05
+last_reviewed: 2026-06-14
 socialImage: ""
 aliases: []
 permalink:
@@ -24,7 +24,7 @@ journeys:
 ---
 # Rational Choice Theory
 
-<span class="mm-label">_[[link to definition]]_</span>
+<span class="mm-label">_[[def_neighbor-contrast|Contrast neighbor]]_</span>
 
 ## What it is  
   
@@ -182,3 +182,5 @@ That is one of the reasons Rational Choice Theory is such a useful contrast neig
 
 <span class="mm-label" style="color: var(--gray);">**_Helps explain:_**</span> [[perverse-incentive|Perverse Incentive]] 
 <span class="mm-reduced">It helps explain why harmful behavior can still be rational when the system makes that behavior rewarding, protective, efficient, or easier to defend.</span>
+
+

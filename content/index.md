@@ -21,12 +21,17 @@ permalink: /
 journeys:
 ---
 
+
 ![[/static/home_chairs.webp]]
 
 
-MNKY Math is about hidden relationships between _systems_, _behavior_, and _outcomes_.
-
 We are surrounded by systems that shape what we notice, reward, repeat, avoid, and eventually accept as normal.
+
+Many of these systems rely on predictable participation.
+
+MNKY Math explores the hidden relationships between _systems_, _behavior_, and _outcomes_, because...
+
+> **[[mm_more-mnkys|The World needs more MNKYs]]**
 
 Some systems are obvious: workplaces, policies, platforms, markets, dashboards.
 
@@ -38,7 +43,7 @@ That matters because systems do not only produce outcomes. They train behavior.
 
 Sometimes the numbers look right while the system is teaching the wrong things.
 
-MNKY Math strives to make those patterns visible — so we can better understand how systems shape us, how we participate in them, and how that participation changes what happens next.
+MNKY Math exists to make those patterns visible — so we can better understand how systems shape us, how we participate in them, and how that participation changes what happens next.
 
 <span class="mm-callout-emoji" style="--emoji: '  ';">**Because how we produce something becomes part of what we produce.**</span>
 
@@ -56,4 +61,4 @@ You can navigate using the Explorer in the left panel for a more traditional pat
 
 The Graph View offers another way in — showing how ideas connect across the garden.
 
-For the deeper story [[about/mm_emergence|behind the name]], the lens, and the work, read [[about/mm_our_why|Why MNKY Math]].
+For the deeper story [[about/mm_emergence|behind the name]], the lens, and the work, read [[mm_our-why|Why MNKY Math]].

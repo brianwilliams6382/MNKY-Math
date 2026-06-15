@@ -15,15 +15,14 @@ description: ""
 socialDescription: ""
 mmShort: Bounded Rationality describes how people make reasonable decisions within limits of time, information, attention, cognition, and context.
 tags: []
-date: 2025-12-01
-last_reviewed: 2026-06-05
+date: 2025-01-21
+last_reviewed: 2026-06-14
 socialImage: ""
 aliases: []
 permalink:
 journeys:
 ---
-
-# Neighbor Name
+# Bounded Rationality
 
 <span class="mm-label">_[[def_neighbor-deep|Deep neighbor]]_</span>
 
@@ -99,7 +98,7 @@ The question is not only: **Why did this person make a limited decision?**
 
 MNKY Math also asks:
 
-> **_Who designed the limits?_**  
+>**_Who designed the limits?_**  
 > **_What information was available, hidden, delayed, or distorted?_**  
 > **_What did the system make easier to choose?_**  
 > **_What did the system make harder to notice?_**  
@@ -185,3 +184,5 @@ But when different people respond differently to the same conditions, MNKY Math 
 
 <span class="mm-label" style="color: var(--gray);">**_Helps explain:_**</span> [[def_system-shaped-behavior|System Shaped Behavior]] 
 <span class="mm-reduced">It helps show why behavior that appears irrational from outside the system may be rational from inside the constraints the system creates.</span>
+
+

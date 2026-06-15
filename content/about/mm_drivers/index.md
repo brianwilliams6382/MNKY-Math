@@ -90,7 +90,8 @@ Because how we produce something becomes part of what we produce.
 
 And what we produce becomes part of who we are.
 
----
+
+<div class="page-flow-nav"> <div class="flow-prev"> ← Previous<br>[[/about/index|About]] </div> <div class="flow-next"> Next →<br>[[mm_system_sight|System Sight]] </div> </div>
 
 _Other useful paths:_
 
@@ -98,4 +99,4 @@ Visit [[/about/mm_Mechanics/index|How MNKY Math Works]] to understand how MNKY M
 
 Spend a little time in [[/neighborhood/index|The Neighborhood]] to learn how established ideas inform and shape MNKY Math - what we share with and how we differentiate from these neighbors.
 
----
+

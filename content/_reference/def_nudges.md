@@ -21,11 +21,9 @@ aliases: []
 permalink:
 journeys:
 ---
-# Nudge
+### Nudge
 
-## Definition
-
-**A nudge is a small design choice that influences behavior without directly forcing a decision or removing options.**
+A **nudge** is a small design choice that influences behavior without directly forcing a decision or removing options.
 
 Nudges shape what people are more likely to notice, choose, avoid, accept, or repeat by changing the decision environment around them.
 

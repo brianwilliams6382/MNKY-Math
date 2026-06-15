@@ -42,4 +42,4 @@ The difference is not perfection. It is the mode of participation.
 - Monkey is automatic and reactive, participation with minimal awareness.
 - MNKY operates with agency, participation with intentional awareness.
 
-Related: [[bananas]], [[def_automaticity|automaticity]], [[human_response|human response]], [[def_system-shaped-behavior]]
+Related: [[mm_bananas]], [[def_automaticity|automaticity]], [[mm_human-response|human response]], [[def_system-shaped-behavior]]

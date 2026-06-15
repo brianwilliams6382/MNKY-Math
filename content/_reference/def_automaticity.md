@@ -47,4 +47,4 @@ A monkey often acts through automaticity.
   
 MNKY begins when awareness enters the loop.  
   
-Related: [[def_monkey|monkey]], [[bananas]], [[human_response]], [[def_system-shaped-behavior]], [[agency]]
+Related: [[def_monkey|monkey]], [[mm_bananas]], [[mm_human-response]], [[def_system-shaped-behavior]], [[mm_agency-thesis]]

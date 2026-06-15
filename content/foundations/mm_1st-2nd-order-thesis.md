@@ -1,3 +1,28 @@
+---
+draft: true
+enableToc: true
+readTimeMM: true
+explorerHide: true
+title: First-order and second-order effects
+signatureCode:
+contentSection:
+contentType:
+growth_stage:
+readerMode:
+fm_level:
+description: ""
+socialDescription: ""
+mmShort:
+tags: []
+date:
+last_reviewed:
+socialImage: ""
+aliases: []
+permalink:
+journeys:
+---
+
+
 # First-order and second-order effects
 
 Every system has a first-order effect: the thing it is meant to produce directly.

@@ -117,3 +117,45 @@ To build, measure, and participate in ways we are willing to become.
 MNKY Math is not asking everyone to see the same thing.  
   
 It is inviting more people to look more carefully.
+
+# early notes
+
+### 2. Highlighting the "Math MNKY" (The Troop)
+
+To turn a visitor into a "Math MNKY," the site's UI needs to move from **Passive Consumption** to **Active Invitation**. Here are two "Systemic Design" ideas for your sidebar or footer:
+
+#### A. The "Troop Progress" Sidebar Widget
+
+Since you have the **FM Ladder**, you can place a small, styled box in the sidebar (under the Graph View or Explorer) titled **"The MNKY Lab."**
+
+- **The Text:** _"This observation is rated FM2. Are you seeing a different friction? Join the Troop and help us tune the logic."_
+    
+- **The Link:** This points to a "Join Us" page or a specific discussion area.
+    
+- **The Psychological Nudge:** By labeling the _content_ with a level, you subtly challenge the "Math MNKY" persona to validate or "Master" the concept.
+    
+
+#### B. The "Mending the Math" Footer
+
+In the footer of every page, instead of a standard "Contact Me," use a **"Stewardship Call."**
+
+> **"Systems are never finished, only tuned."** Found a bug in this theory? Have a case study that breaks this model? **[Become a Math MNKY]** — Contribute to the Troop's Collective Logic.
+
+
+### 2. Implementing the "Math MNKY" CTA
+
+To highlight the **Math MNKY** persona (the "Mastering" stage) in your sidebar or footer without it becoming "noise," you can use a **Systemic Invitation.**
+
+Since you are using Quartz, we can think about a "Conditional Sidebar." But for now, a simple, static **"Troop Invitation"** box is the most efficient way to start.
+
+#### Sidebar Concept: The "Troop" Status
+
+Place this directly under your Explorer or Graph View:
+
+> **The MNKY Lab**
+> 
+> _Currently Peer-Reviewing:_ **[[Link to a Concept]]**
+> 
+> **Are you a Math MNKY?** > Help us move from **Modeling** to **Mastering**. Your friction reports and case studies fuel the math.
+> 
+> **[Join the Troop]**

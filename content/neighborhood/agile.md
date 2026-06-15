@@ -24,11 +24,7 @@ journeys:
 ---
 # Agile
 
-<span class="mm-label">_[[def_neighbor-adjacent|Adjacent neighbor]]_</span>
 <span class="mm-label">_[[def_neighbor-bridge|Bridge neighbor]]_</span>
-<span class="mm-label">_[[def_neighbor-close|Close neighbor]]_</span>
-<span class="mm-label">_[[def_neighbor-contrast|Contrast neighbor]]_</span>
-<span class="mm-label">_[[def_neighbor-deep|Deep neighbor]]_</span>
 
 ## What it is  
   

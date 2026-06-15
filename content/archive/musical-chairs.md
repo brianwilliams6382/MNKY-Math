@@ -2,7 +2,7 @@
 draft: false
 enableToc: true
 readTimeMM: true
-explorerHide: true
+explorerHide: false
 title: Musical Chairs
 signatureCode:
 contentSection:
@@ -80,9 +80,11 @@ Because when a system produces something, it does not only produce the visible o
 
 So the “thing produced” is never only the thing.
 
-Continue to [[about/mm_our_why|Why MNKY Math]] to understand why this lens exists.
+Continue to [[mm_our-why|Why MNKY Math]] to understand why this lens exists.
 
----
+
+<div class="page-flow-nav"> <div class="flow-prev"> ← Previous<br>[[/index|Home]] </div> <div class="flow-next"> Next →<br>[[mm_our-why|Why MNKY Math]] </div> </div>
+
 _Other useful paths:_
 
 To learn how to wander without getting lost, visit [[mm_garden|The MNKY Math Garden]].

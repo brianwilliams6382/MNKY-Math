@@ -24,9 +24,7 @@ permalink:
 journeys:
 ---
 # Agency recovery  
-  
-## What it is  
-  
+    
 **Agency recovery** is the capacity to notice when systems are shaping choice, attention, and response — and to reclaim some space inside that influence.  
   
 It does not mean perfect independence.  

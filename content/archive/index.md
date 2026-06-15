@@ -1,8 +1,8 @@
 ---
 draft: false
-enableToc: false
-readTimeMM: false
-explorerHide: true
+enableToc: true
+readTimeMM: true
+explorerHide: false
 title: Archive
 signatureCode:
 contentSection:

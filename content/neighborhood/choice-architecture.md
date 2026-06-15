@@ -16,7 +16,7 @@ socialDescription: ""
 mmShort: Choice Architecture describes how the design of a decision environment shapes what people notice, consider, choose, avoid, or accept.
 tags: []
 date: 2025-12-01
-last_reviewed: 2026-06-05
+last_reviewed: 2026-06-14
 socialImage: ""
 aliases: []
 permalink:
@@ -167,3 +167,5 @@ And when those arrangements repeat across many users, workers, customers, studen
 
 <span class="mm-label" style="color: var(--gray);">**_Helps explain:_**</span> [[def_agency|Agency]] 
 <span class="mm-reduced">It helps show how systems can expand or reduce agency by changing what people can see, understand, access, or reasonably choose.</span>
+
+

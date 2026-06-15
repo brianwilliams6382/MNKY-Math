@@ -37,7 +37,7 @@ That was the problem.
 
 The person doing the work is left between two forms of correctness: follow the process as trained, or adapt to the pressure the system is actually creating.
 
-That is a low-win system: a system that sends conflicting signals. Not a broken system. Not necessarily a bad system. A system where the signals conflict, the pressures are real, and the people inside the system have to absorb the tradeoff.
+That is a [[def_low-win-system|low-win system]]: a system that sends conflicting signals. Not a broken system. Not necessarily a bad system. A system where the signals conflict, the pressures are real, and the people inside the system have to absorb the tradeoff.
 
 ---
 
@@ -92,7 +92,9 @@ That is where MNKY began.
 
 > Not as a brand. **As a moment of recognition.**
 
----
+
+<div class="page-flow-nav"> <div class="flow-prev"> ← Previous<br>[[mm_our-why|Origin Story]] </div> <div class="flow-next"> Next →<br>[[/about/mm_mechanics/index|How MNKY Math Works]] </div> </div>
+
 _Other useful paths:_
 
 To see the neighboring ideas, fields, and concepts that help shape MNKY Math, visit [[neighborhood/index|The Neighborhood]].  

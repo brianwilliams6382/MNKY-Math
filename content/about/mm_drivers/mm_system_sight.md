@@ -25,8 +25,6 @@ journeys:
 ---
 # System sight  
   
-## What it is  
-  
 **System sight** is the capacity to see the systems shaping behavior and outcomes instead of only seeing individual choices, personalities, failures, or results.  
   
 It means looking for the rules, signals, constraints, incentives, defaults, pressures, feedback loops, and conditions that make certain behaviors more likely.  
@@ -35,9 +33,9 @@ System sight does not erase personal responsibility.
   
 It adds context before judgment.  
   
-Instead of stopping at:  Why did this person do that?  
+Instead of stopping at:  **Why did this person do that?**  
   
-System sight asks:  What did the system make easy, safe, rewarded, costly, rational, or normal?  
+System sight asks:  **_What did the system make easy, safe, rewarded, costly, rational, or normal?_**  
   
 This is one of the first outcomes MNKY Math is trying to strengthen: ==the ability to see the invisible architecture shaping what people do.==
 
@@ -84,23 +82,24 @@ It often strengthens, depends on, or is strengthened by other first-order capaci
 
 System sight often begins with different questions.
 
-Instead of asking only: **Who caused this?**
+Instead of asking only: **Who caused this?**<br>
 People begin asking: **_What conditions made this likely?_**
 
-Instead of asking only: **Why didn’t they do the right thing?**
+Instead of asking only: **Why didn’t they do the right thing?**<br>
 People begin asking: **_What made the right thing harder, slower, riskier, less rewarded, or less visible?_**
 
-Instead of asking only: **Did the metric move?**
+Instead of asking only: **Did the metric move?**<br>
 People begin asking: **_What behavior changed in order to move it?_**
 
-Instead of asking only: **Why are people resisting?**
+Instead of asking only: **Why are people resisting?**<br>
 People begin asking: **_What is this system asking people to absorb, ignore, or become?_**
 
 System sight does not mean every problem is “the system’s fault.”
 
-It means the system is part of the evidence.
+It means the system is part of the evidence. 
 
-### Better meetings
+---
+### Better meetings 
 
 System sight can change what meetings are for.
 
@@ -131,6 +130,7 @@ A regional pattern can inform the team that designed the program, metric, produc
 The meeting becomes more than a place to explain the result.
 
 It becomes part of how the system learns.
+
 
 ### Better leadership
 
@@ -192,3 +192,6 @@ Stronger civic perception becomes a reinforcing condition when more people can s
 They become harder to manipulate, easier to inform, and more capable of asking what a system is producing beyond its stated purpose.
 
 This strengthens system sight because the person begins carrying the lens across more of life, not only into work.
+
+
+<div class="page-flow-nav"> <div class="flow-prev"> ← Previous<br>[[/about/mm_drivers|What Drives Us]] </div> <div class="flow-next"> Next →<br>[[mm_outcome_literacy|Outcome Literacy]] </div> </div>

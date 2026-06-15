@@ -12,7 +12,11 @@ export const sharedPageComponents: SharedLayout = {
 // Components for content pages (Articles, About, Home)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-        Component.TagList(),
+    Component.Breadcrumbs({
+      spacerSymbol: ">", // Custom symbol to separate breadcrumb items
+      rootName: "",
+      }),    
+    Component.TagList(),
         Component.MMReadTime(),
   ],
   left: [
@@ -26,24 +30,44 @@ export const defaultContentPageLayout: PageLayout = {
       folderClickBehavior: "link",
       useSavedState: true,
   
-      /* THE UNIFIED FILTER ENGINE */
-      filterFn: (node) => {
-         // A. Master Structural Filter: If it's a file, drop it immediately.
-         const isFolderOnly = node.isFolder
+     /* THE UNIFIED FILTER ENGINE */
+    filterFn: (node) => {
+        // 1. EXTRACT ALL POTENTIAL IDENTIFIERS
+        const folderName = node.name?.toLowerCase() ?? ""
+        const segmentName = node.slugSegment?.toLowerCase() ?? ""
+  
+        // Extract file frontmatter safely (will be undefined for pure folder directory nodes)
+        const frontmatter = node.file?.frontmatter
+        const fileSlug = node.file?.slug?.toLowerCase() ?? ""
 
-        // B. Security Filter: Exclude the specific _reference directory container
-        const isNotReference = node.displayName.toLowerCase() !== "_reference" && node.name !== "_reference"
+        // 2. FRONTMATTER OVERRIDE (FOR FILES)
+        // If it's a file and explicitly marked to hide, drop it instantly
+        if (frontmatter) {
+        if (frontmatter.explorerDisplay === false || frontmatter.explorerHide === true) {
+        return false
+        }
+      }
 
-        // C. Content Filter: Exclude any folder specifically tagged with explorerHide: true
-        const isNotHidden = node.data?.frontmatter?.explorerHide !== true
+        // 3. HARD CRITERIA A: EXCLUDE "_REFERENCE" (FOLDERS + FILES)
+        // Drops the folder directory, the segment path, or any file residing inside it
+        if (
+        folderName === "_reference" || 
+        segmentName === "_reference" || 
+        fileSlug.startsWith("_reference/")
+        ) {
+        return false
+        }
 
-        // D. Tags Exclusion: Exclude the default Quartz automated tags folder segment
-        const isNotTags = node.slugSegment !== "tags"
+      // 4. HARD CRITERIA B: EXCLUDE AUTOMATED TAGS GRID
+      if (segmentName === "tags" || fileSlug.startsWith("tags/")) {
+      return false
+      }
 
-        // Execute all conditions simultaneously. All must evaluate to true to appear in the sidebar.
-        return isFolderOnly && isNotReference && isNotHidden && isNotTags
-      },
+      // If it survives all the filters above, let it display in the Explorer sidebar tree
+      return true
+    },
     }),
+    
     Component.MMSidebarFooter({ // New component at the bottom of the left column
       links: {
         github: "https://github.com/brianwilliams6382/MNKY-Math",
@@ -60,7 +84,14 @@ export const defaultContentPageLayout: PageLayout = {
 
 // Components for list pages (Tags, Folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.ArticleTitle()],
+  beforeBody: [
+    Component.Breadcrumbs({
+      spacerSymbol: ">", // Custom symbol to separate breadcrumb items
+      rootName: "",
+      }),
+    Component.MMReadTime(),
+    Component. ArticleTitle(),
+    ],
   left: [
     Component.MMPageTitle(),
     Component.MobileOnly(Component.Spacer()),
@@ -72,24 +103,44 @@ export const defaultListPageLayout: PageLayout = {
       folderClickBehavior: "link",
       useSavedState: true,
   
-      /* THE UNIFIED FILTER ENGINE */
-      filterFn: (node) => {
-         // A. Master Structural Filter: If it's a file, drop it immediately.
-         const isFolderOnly = node.isFolder
+     /* THE UNIFIED FILTER ENGINE */
+    filterFn: (node) => {
+        // 1. EXTRACT ALL POTENTIAL IDENTIFIERS
+        const folderName = node.name?.toLowerCase() ?? ""
+        const segmentName = node.slugSegment?.toLowerCase() ?? ""
+  
+        // Extract file frontmatter safely (will be undefined for pure folder directory nodes)
+        const frontmatter = node.file?.frontmatter
+        const fileSlug = node.file?.slug?.toLowerCase() ?? ""
 
-        // B. Security Filter: Exclude the specific _reference directory container
-        const isNotReference = node.displayName.toLowerCase() !== "_reference" && node.name !== "_reference"
+        // 2. FRONTMATTER OVERRIDE (FOR FILES)
+        // If it's a file and explicitly marked to hide, drop it instantly
+        if (frontmatter) {
+        if (frontmatter.explorerDisplay === false || frontmatter.explorerHide === true) {
+        return false
+        }
+      }
 
-        // C. Content Filter: Exclude any folder specifically tagged with explorerHide: true
-        const isNotHidden = node.data?.frontmatter?.explorerHide !== true
+        // 3. HARD CRITERIA A: EXCLUDE "_REFERENCE" (FOLDERS + FILES)
+        // Drops the folder directory, the segment path, or any file residing inside it
+        if (
+        folderName === "_reference" || 
+        segmentName === "_reference" || 
+        fileSlug.startsWith("_reference/")
+        ) {
+        return false
+        }
 
-        // D. Tags Exclusion: Exclude the default Quartz automated tags folder segment
-        const isNotTags = node.slugSegment !== "tags"
+      // 4. HARD CRITERIA B: EXCLUDE AUTOMATED TAGS GRID
+      if (segmentName === "tags" || fileSlug.startsWith("tags/")) {
+      return false
+      }
 
-        // Execute all conditions simultaneously. All must evaluate to true to appear in the sidebar.
-        return isFolderOnly && isNotReference && isNotHidden && isNotTags
-      },
+      // If it survives all the filters above, let it display in the Explorer sidebar tree
+      return true
+    },
     }),
+
     Component.MMSidebarFooter({
       links: {
         github: "https://github.com/brianwilliams6382/MNKY-Math",
