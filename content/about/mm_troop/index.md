@@ -8,6 +8,7 @@ signatureCode:
 contentSection:
   - base
 contentType:
+  - index
 growth_stage:
 readerMode:
 fm_level:
@@ -69,7 +70,7 @@ That is the heart of [[mm_better_participation|better participation]] in the sys
   
 ## Paths into the Troop  
   
-If you are curious but not sure where you fit, start with [[mm_readers|Mirroring, Modeling, and Mastering]].  
+If you are curious but not sure where you fit, start with [[mm_reader-modes|Mirroring, Modeling, and Mastering]].  
   
 If you want to follow, contribute, challenge, or connect more directly, visit [[about/mm_troop/mm_become_a_mnky|Become a MNKY]].  
   

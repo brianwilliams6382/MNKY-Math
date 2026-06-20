@@ -6,7 +6,9 @@ explorerHide: false
 title: Archive
 signatureCode:
 contentSection:
+  - archive
 contentType:
+  - index
 readerMode:
 fm_level:
 description: ""

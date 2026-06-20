@@ -23,7 +23,7 @@ aliases: []
 permalink:
 journeys:
 ---
-### Measurement
+## Measurement
 
 **Measurement** is the act of translating something observed into a number, category, score, signal, or record that can be compared, evaluated, tracked, or used in decisions.  
   

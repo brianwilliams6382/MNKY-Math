@@ -23,7 +23,7 @@ aliases: []
 permalink:
 journeys:
 ---
-### Iterative Math
+## Iterative Math
 
 **Iterative Math is the practice of learning through repeated cycles of action, feedback, adjustment, and renewed action.**
 

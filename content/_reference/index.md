@@ -6,7 +6,9 @@ explorerHide: true
 title:
 signatureCode:
 contentSection:
+  - _reference
 contentType:
+  - index
 growth_stage:
 readerMode:
 fm_level:
@@ -14,7 +16,7 @@ description: ""
 socialDescription: ""
 mmShort:
 tags: []
-date:
+date: 2026-02-02
 last_reviewed: 2026-05-30
 socialImage: ""
 aliases: []

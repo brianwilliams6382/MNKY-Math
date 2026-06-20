@@ -23,7 +23,7 @@ aliases: []
 permalink:
 journeys:
 ---
-### Avoidance Response  
+## Avoidance Response  
   
 An **avoidance response** is a behavior pattern where a person or system moves away from information, action, responsibility, or decision-making because engagement feels costly, unsafe, uncomfortable, or threatening.  
   

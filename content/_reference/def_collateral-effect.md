@@ -23,7 +23,7 @@ aliases: []
 permalink:
 journeys:
 ---
-### Collateral effect
+## Collateral effect
 
 A **collateral effect** is an effect a system produces alongside its intended outcome.
 

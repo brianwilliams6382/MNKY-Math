@@ -23,7 +23,7 @@ aliases: []
 permalink:
 journeys:
 ---
-### Deep neighbor
+## Deep neighbor
 
 A **Deep neighbor** connects with MNKY Math at a structural, philosophical, or foundational level.  
   

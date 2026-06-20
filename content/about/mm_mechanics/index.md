@@ -8,6 +8,7 @@ signatureCode:
 contentSection:
   - base
 contentType:
+  - index
 readerMode:
 fm_level:
 description: ""
@@ -20,6 +21,7 @@ socialImage: ""
 aliases: []
 permalink:
 journeys:
+ - {j_id: "first-walk", j_name: "First Walk", j_seq: 6, j_desc: "Our operating structure, because how something is produced shapes what it becomes."}
 ---
 MNKY Math is intentionally not organized first as a funnel, newsletter, or monetization engine.
 
@@ -102,16 +104,14 @@ Together, these mechanics help MNKY Math remain visible, navigable, and open to 
 
 Learn how to move through MNKY Math using exploratory navigation tools such as links, Explorer, Graph View, backlinks, previews, Search, and supported wandering.
 
-#### [[mm_content|Our Content Types]]
+#### [[mm_content-types|Our Content Types]]
 
 Learn how different kinds of pages work, including essays, Foundations, Tools, Neighborhood entries, definitions, and supporting notes.
 
-#### [[mm_readers|Reader Modes]]
+#### [[mm_reader-modes|Reader Modes]]
 
 Learn different ways to read MNKY Math, from recognizing yourself in an idea to using the framework to tune real systems.
 
 #### [[mm_stages|Content Stages]]
 
 Learn how MNKY Math marks the maturity of ideas, from early seeds to more rooted or canopy-level pages.
-
-<div class="page-flow-nav"> <div class="flow-prev"> ← Previous<br>[[mm_emergence|Origin Story]] </div> <div class="flow-next"> Next →<br>[[mm_garden|Exploring the Garden]] </div> </div>

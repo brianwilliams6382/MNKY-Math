@@ -27,7 +27,7 @@ aliases:
 permalink:
 journeys:
 ---
-### Automaticity  
+## Automaticity  
   
 Automaticity is the ability to respond or act with little conscious attention because a behavior has become familiar, repeated, rewarded, or system-trained. Repetition is a key principle. Cognition lowers as one moves closer to operating as if on auto-pilot, which occurs through the repetition of action and response.
   

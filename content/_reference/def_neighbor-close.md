@@ -23,7 +23,7 @@ aliases: []
 permalink:
 journeys:
 ---
-### Close neighbor
+## Close neighbor
 
 A **Close neighbor** directly overlaps with MNKY Math’s core territory.
 

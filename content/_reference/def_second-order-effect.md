@@ -23,7 +23,7 @@ aliases: []
 permalink:
 journeys:
 ---
-### Second-order Effect
+## Second-order Effect
 
 A **second-order effect** is an effect that happens because of an earlier outcome, decision, action, or system condition.
 

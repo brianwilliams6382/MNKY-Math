@@ -20,6 +20,7 @@ socialImage: ""
 aliases: []
 permalink:
 journeys:
+ - {j_id: "first-walk", j_name: "First Walk", j_seq: 9, j_desc: "We believe our readers move through three core modes - mirroring, modeling and mastering."}
 ---
 # Reader Modes
 

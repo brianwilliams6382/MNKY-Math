@@ -6,7 +6,9 @@ explorerHide: false
 title: Tools
 signatureCode:
 contentSection:
+  - tools
 contentType:
+  - index
 readerMode:
 fm_level:
 description: ""

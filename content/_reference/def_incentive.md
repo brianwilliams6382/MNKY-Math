@@ -23,7 +23,7 @@ aliases: []
 permalink:
 journeys:
 ---
-### Incentive
+## Incentive
 
 **Incentives** are conditions that make certain behaviors more attractive, rational, rewarded, protected, or likely inside a system.  
   

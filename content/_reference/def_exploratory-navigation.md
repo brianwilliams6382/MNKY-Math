@@ -21,7 +21,7 @@ aliases: []
 permalink:
 journeys:
 ---
-### Exploratory Navigation
+## Exploratory Navigation
 
 **Exploratory navigation** is a way of moving through a digital garden by following curiosity, context, and connection instead of relying only on a single fixed path.
 

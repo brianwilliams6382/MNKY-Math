@@ -80,6 +80,10 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
+
+  afterBody: [
+    Component.MMJourneyNav(), // New component at the very end of the content
+  ]
 }
 
 // Components for list pages (Tags, Folders)
@@ -152,4 +156,8 @@ export const defaultListPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Spacer()),
     Component.Backlinks(),
   ],
+
+  afterBody: [
+    Component.MMJourneyNav(), // New component at the very end of the content
+  ]
 }

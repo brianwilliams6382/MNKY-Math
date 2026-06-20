@@ -23,9 +23,7 @@ aliases: []
 permalink:
 journeys:
 ---
-### Performance Theater
-
-## Definition
+## Performance Theater
 
 **Performance Theater is the appearance of meaningful action, accountability, learning, care, or change without the underlying system conditions that would make the performance real.**
 
@@ -47,11 +45,11 @@ But the system does not meaningfully learn, change, respond, or redistribute pow
 
 Performance Theater is not always intentional deception. Sometimes people are sincerely participating in rituals the system has made visible, measurable, and defensible. The problem is that the ritual becomes the evidence of progress, even when the underlying condition remains unchanged.
 
-## In plain language
+### In plain language
 
 Performance Theater is when the system looks like it is doing the right thing, but the performance replaces the real work.
 
-## Why it matters
+### Why it matters
 
 Performance Theater matters because systems often learn to protect appearances faster than they learn to improve conditions.
 
@@ -69,7 +67,7 @@ The better question is often:
 
 > **_Did this action change the system, or only display that the system knows what change is supposed to look like?_**
 
-## MNKY Math usage
+### MNKY Math usage
 
 Performance Theater helps explain why systems can look active while remaining functionally unchanged.
 

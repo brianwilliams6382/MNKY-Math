@@ -23,7 +23,7 @@ aliases: []
 permalink:
 journeys:
 ---
-### System-shaped Behavior
+## System-shaped Behavior
 
 **System-shaped behavior** is behavior influenced by the incentives, constraints, signals, defaults, pressures, and feedback loops of the system surrounding it.  
   

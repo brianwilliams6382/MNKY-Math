@@ -23,7 +23,7 @@ aliases: []
 permalink:
 journeys:
 ---
-### Metric-Outcome Gap  
+## Metric-Outcome Gap  
   
 A **metric-outcome gap** is the distance between what a metric appears to show and the fuller outcome or meaning it is being used to represent.  
   

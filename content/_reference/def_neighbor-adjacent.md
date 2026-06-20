@@ -23,7 +23,7 @@ aliases: []
 permalink:
 journeys:
 ---
-### Adjacent neighbor
+## Adjacent neighbor
 
 An **Adjacent neighbor** shares useful territory with MNKY Math, but is not central to the framework.  
   

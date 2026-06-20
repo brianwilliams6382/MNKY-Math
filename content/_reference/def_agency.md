@@ -23,7 +23,7 @@ aliases: []
 permalink:
 journeys:
 ---
-### Agency
+## Agency
 
 **Agency is the capacity to notice, choose, act, and affect what happens next.**
 

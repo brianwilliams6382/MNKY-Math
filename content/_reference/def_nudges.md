@@ -21,7 +21,7 @@ aliases: []
 permalink:
 journeys:
 ---
-### Nudge
+## Nudge
 
 A **nudge** is a small design choice that influences behavior without directly forcing a decision or removing options.
 

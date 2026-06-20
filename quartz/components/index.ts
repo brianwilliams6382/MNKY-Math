@@ -1,5 +1,6 @@
 import MMPageTitle from "./MMPageTitle"
 import MMReadTime from "./MMReadTime"
+import MMJourneyNav from "./MMJourneyNav"
 import MMFooter from "./MMFooter"
 import MMSidebarFooter from "./MMSidebarFooter"
 import Content from "./pages/Content"
@@ -31,6 +32,7 @@ import ConditionalRender from "./ConditionalRender"
 export {
   ArticleTitle,
   MMPageTitle,
+  MMJourneyNav,
   MMFooter,
   MMSidebarFooter,
   MMReadTime,

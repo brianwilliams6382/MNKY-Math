@@ -23,7 +23,7 @@ aliases: []
 permalink:
 journeys:
 ---
-### Feedback Loops
+## Feedback Loops
 
 **A feedback loop is a cycle where the output of a system returns as information that influences what happens next.**
 

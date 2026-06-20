@@ -20,6 +20,7 @@ socialImage: ""
 aliases: []
 permalink:
 journeys:
+ - {j_id: "first-walk", j_name: "First Walk", j_seq: 1, j_desc: "Once you see how a simple game can shape behavior, it becomes harder not to ask what the larger systems around us are teaching too."}
 ---
 
 ## An early system
@@ -82,9 +83,7 @@ So the “thing produced” is never only the thing.
 
 Continue to [[mm_our-why|Why MNKY Math]] to understand why this lens exists.
 
-
-<div class="page-flow-nav"> <div class="flow-prev"> ← Previous<br>[[/index|Home]] </div> <div class="flow-next"> Next →<br>[[mm_our-why|Why MNKY Math]] </div> </div>
-
+---
 _Other useful paths:_
 
 To learn how to wander without getting lost, visit [[mm_garden|The MNKY Math Garden]].

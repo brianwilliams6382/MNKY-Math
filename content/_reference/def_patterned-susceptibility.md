@@ -22,6 +22,6 @@ aliases: []
 permalink:
 journeys:
 ---
-### Patterned Susceptibility
+## Patterned Susceptibility
 
 **Patterned Susceptibility** is the idea that human beings are individually different but biologically similar enough that systems can reliably shape behavior through recurring pressures, rewards, defaults, signals, constraints, and friction.

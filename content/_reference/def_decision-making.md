@@ -23,7 +23,7 @@ aliases: []
 permalink:
 journeys:
 ---
-### Decision-Making
+## Decision-Making
 
 **Decision-making is the process of selecting a response, action, or direction from available or perceived options.**
 

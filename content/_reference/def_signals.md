@@ -23,7 +23,7 @@ aliases: []
 permalink:
 journeys:
 ---
-### Signals  
+## Signals  
   
 **Signals** are information, cues, prompts, measures, messages, or patterns that draw attention and influence behavior inside a system.  
   

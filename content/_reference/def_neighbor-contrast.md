@@ -23,7 +23,7 @@ aliases: []
 permalink:
 journeys:
 ---
-### Contrast neighbor
+## Contrast neighbor
 
 A **Contrast neighbor** clarifies MNKY Math by showing what it is not, what it questions, or where it extends beyond another idea.  
   

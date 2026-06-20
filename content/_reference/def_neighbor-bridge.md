@@ -23,7 +23,7 @@ aliases: []
 permalink:
 journeys:
 ---
-### Bridge neighbor
+## Bridge neighbor
 
 A **Bridge neighbor** helps readers enter MNKY Math through a more familiar idea, practice, discipline, or framework.  
   

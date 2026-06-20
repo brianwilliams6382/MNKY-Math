@@ -20,6 +20,7 @@ socialImage: ""
 aliases: []
 permalink:
 journeys:
+ - {j_id: "first-walk", j_name: "First Walk", j_seq: 8, j_desc: "Different pages do different kinds of work. These differences are called content types."}
 ---
 # Our Content Types
 
@@ -145,5 +146,3 @@ For internal content management, each reference page uses a short prefix. That p
 >_Prefix:_ <span style="font-family: var(--codeFont); color: var(--darkgraymm); font-size: 0.85rem;">map_</span><br><br>
 >Map pages may be used when a relationship between ideas needs more explanation than Graph View can provide.<br><br>Graph View shows that pages are connected.<br><br>A map page can explain why the connection matters.<br><br>
 
-
-<div class="page-flow-nav"> <div class="flow-prev"> ← Previous<br>[[mm_garden|Exploring the Garden]] </div> <div class="flow-next"> Next →<br>[[mm_readers|Reader Modes]] </div> </div>

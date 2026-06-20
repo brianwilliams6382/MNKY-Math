@@ -23,7 +23,7 @@ aliases: []
 permalink:
 journeys:
 ---
-### Low-win System
+## Low-win System
 
 A **low-win system** is a system where most available choices produce some form of loss, compromise, friction, or harm.
 

@@ -8,7 +8,7 @@ signatureCode:
 contentSection:
   - base
 contentType:
-  - concept
+  - index
 growth_stage:
 readerMode:
 fm_level:

@@ -23,7 +23,7 @@ aliases: []
 permalink:
 journeys:
 ---
-### Composite Metric
+## Composite Metric
 
 A **composite metric** is a measurement that combines multiple underlying measures into a single score, index, rating, or signal. A useful simplified definition may be to think of it as a many-to-one measurement that compresses multiple signals into a single signal.
   

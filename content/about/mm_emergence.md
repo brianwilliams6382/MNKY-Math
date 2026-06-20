@@ -18,6 +18,7 @@ socialImage: ""
 aliases: []
 permalink:
 journeys:
+ - {j_id: "first-walk", j_name: "First Walk", j_seq: 3, j_desc: "MNKY emerged out of a contradiction many people will recognize."}
 ---
 ## A casual beginning
 
@@ -92,8 +93,7 @@ That is where MNKY began.
 
 > Not as a brand. **As a moment of recognition.**
 
-
-<div class="page-flow-nav"> <div class="flow-prev"> ← Previous<br>[[mm_our-why|Origin Story]] </div> <div class="flow-next"> Next →<br>[[/about/mm_mechanics/index|How MNKY Math Works]] </div> </div>
+---
 
 _Other useful paths:_
 

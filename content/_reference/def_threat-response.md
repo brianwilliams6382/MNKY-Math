@@ -23,7 +23,7 @@ aliases: []
 permalink:
 journeys:
 ---
-### Threat Response  
+## Threat Response  
   
 A **threat response** is a protective reaction triggered when a person or system interprets a signal as danger, loss, exposure, punishment, or harm.  
   

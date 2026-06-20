@@ -23,7 +23,7 @@ aliases: []
 permalink:
 journeys:
 ---
-### Waterfall
+## Waterfall
 
 **Waterfall is a sequential approach to work where stages move in a planned order, usually from requirements to design, execution, testing, and delivery.**
 
@@ -35,11 +35,11 @@ It can work well when the problem is stable, requirements are clear, dependencie
 
 But Waterfall becomes risky when it is applied to dynamic systems where feedback arrives late, assumptions remain untested, and adaptation is treated as failure rather than learning.
 
-## In plain language
+### In plain language
 
 Waterfall is a way of working where the plan moves step by step, and each stage is expected to be mostly complete before the next one begins.
 
-## Why it matters
+### Why it matters
 
 Waterfall matters because many organizations still think in Waterfall patterns even when they use Agile language.
 

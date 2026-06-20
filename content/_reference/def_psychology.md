@@ -23,7 +23,7 @@ aliases: []
 permalink:
 journeys:
 ---
-### Psychology
+## Psychology
 
 **Psychology is the study of mind, behavior, emotion, perception, motivation, learning, and human response.**
 
@@ -39,11 +39,11 @@ One person may experience a metric as guidance. Another may experience it as thr
 
 Psychology helps MNKY Math account for this variation.
 
-## In plain language
+### In plain language
 
 Psychology is the study of how people think, feel, interpret, react, learn, and behave.
 
-## Why it matters
+### Why it matters
 
 Psychology matters because systems shape behavior through people.
 
@@ -61,7 +61,7 @@ The better question is often:
 
 > **_How did this system condition meet this human pattern?_**
 
-## MNKY Math usage
+### MNKY Math usage
 
 MNKY Math uses psychology to avoid treating behavior as purely rational, purely individual, or purely system-determined.
 

@@ -8,6 +8,7 @@ signatureCode:
 contentSection:
   - foundations
 contentType:
+  - index
 readerMode:
 fm_level:
 description: ""

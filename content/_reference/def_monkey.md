@@ -23,7 +23,7 @@ aliases: []
 permalink:
 journeys:
 ---
-### Monkey
+## Monkey
 
 In MNKY Math, the **monkey** is the automatic human participant inside the system.
 

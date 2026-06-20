@@ -8,6 +8,7 @@ signatureCode:
 contentSection:
   - neighborhood
 contentType:
+  - index
 readerMode:
 fm_level:
 description: ""

@@ -21,6 +21,7 @@ socialImage: ""
 aliases: []
 permalink:
 journeys:
+ - {j_id: "first-walk", j_name: "First Walk", j_seq: 7, j_desc: "A map and manual of how to navigate the MNKY Math garden."}
 ---
 # The MNKY Math Garden  
   
@@ -302,5 +303,3 @@ Wander, but notice what connects.
 
 That is part of the practice.
 
-
-<div class="page-flow-nav"> <div class="flow-prev"> ← Previous<br>[[about/mm_mechanics/index|How MNKY Math Works]] </div> <div class="flow-next"> Next →<br>[[mm_content|Our Content Types]] </div> </div>
