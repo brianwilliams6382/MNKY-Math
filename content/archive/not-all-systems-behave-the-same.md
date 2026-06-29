@@ -1,0 +1,248 @@
+---
+draft: false
+enableToc: true
+readTimeMM: true
+explorerHide: false
+title: Not All Systems Behave the Same
+signatureCode: V01C1.M24
+contentSection:
+  - archive
+contentType:
+  - essay
+growth_stage:
+readerMode:
+fm_level:
+description: ""
+socialDescription: ""
+mmShort:
+tags: []
+date:
+last_reviewed:
+socialImage: ""
+linkedinURL:
+aliases: []
+permalink:
+journeys:
+---
+
+# Not All Systems Behave the Same
+
+Systems are easier to recognize once you know what to look for.
+
+But seeing them isn’t enough.
+
+Because not all systems behave the same way.
+
+Some are predictable.
+
+Some are stable — until they’re not.
+
+Some change as they operate.
+
+If you treat them all the same, you misread what’s happening.
+
+And when you misread the system, you misread the outcome.
+
+## Three Ways Systems Behave
+
+Once you start paying attention, most systems fall into three patterns.<br><br>
+
+<img src="/static/icon_precision.png" style="display: inline-block; width: 1.1em; height: 1.1em; vertical-align: -0.15em; margin: 0 0.15em; object-fit: contain;" alt="description" /> <span style="text-decoration: underline; font-size: 1.15rem">**Precision Systems**</span><br>
+<span style="color: var(--tertiarymm); font-size: 0.85rem;">_Stable conditions. Repeatable inputs. Predictable outcomes._</span>
+![[/static/system_precision.webp]]
+
+These are the most predictable.
+
+Inputs are known.
+
+Steps are defined.
+
+Outputs are consistent.
+
+If the same inputs go in, the same outputs come out.
+
+Think:
+
+- a calculation
+- a machine performing a fixed task
+- a tightly controlled assembly step
+
+Variation is minimal.
+
+When something changes, it’s usually because something broke.
+
+These systems don’t adapt.
+
+> They execute.
+
+<br>
+
+<img src="/static/icon_dynamic.png" style="display: inline-block; width: 1.1em; height: 1.1em; vertical-align: -0.15em; margin: 0 0.15em; object-fit: contain;" alt="description" /> <span style="text-decoration: underline; font-size: 1.15rem">**Dynamic Precision Systems**</span><br>
+<span style="color: var(--tertiarymm); font-size: 0.85rem;">_Moderate variability. Patterns shift over time. Requires ongoing calibration._</span>
+![[/static/system_dynamic.webp]]
+
+These systems are still structured.
+
+But they operate in conditions that shift.
+
+Inputs vary.
+
+Conditions change.
+
+Adjustments are made.
+
+But within limits.
+
+The system is designed to absorb variation and still produce a consistent outcome.
+
+Think:
+
+- a factory managing fluctuating demand
+- traffic flow adjusting to volume and conditions
+- operations responding to changing inputs
+
+The structure remains.
+
+> The system flexes.
+
+<br>
+
+<img src="/static/icon_adaptive.png" style="display: inline-block; width: 1.1em; height: 1.1em; vertical-align: -0.15em; margin: 0 0.15em; object-fit: contain;" alt="description" />  <span style="text-decoration: underline; font-size: 1.15rem">**Adaptive Systems**</span><br>
+<span style="color: var(--tertiarymm); font-size: 0.85rem;"> _High variability. Emergent behavior. Continuously evolving._ </span>
+![[/static/system_adaptive.webp]]
+
+These systems don’t just adjust.
+
+They learn.
+
+Behavior changes based on feedback.
+
+Patterns evolve.
+
+Outcomes are less predictable.
+
+What worked before may not work again.
+
+Think:
+
+- social behavior
+- markets
+- learning environments
+- the way people respond over time
+
+The system is not just executing.
+
+> It is changing itself.
+
+<br>
+
+## Systems Don’t Exist in Isolation
+
+Most systems aren’t just one type.
+
+They are layered.
+
+➡️ A system that appears to be an <span style="text-decoration: underline;">Adaptive System</span> at one level can contain <span style="text-decoration: underline;">Precision Systems</span> within it.
+
+➡️ And <span style="text-decoration: underline;">Precision Systems</Span> often exist inside environments that are constantly changing.
+
+A factory is a good example.
+
+At the macro level, it behaves like a <span style="text-decoration: underline;">Dynamic Precision System</span> — adjusting to demand, inputs, and conditions.
+
+But inside it are <span style="text-decoration: underline;">Precision Systems</span>:
+
+- A machine performing the same task
+- A fixed sequence of steps
+- A repeatable calculation
+
+The same is true in reverse.
+
+Something that appears highly adaptive — like social behavior or markets — often relies on underlying <span style="text-decoration: underline;">Precision Systems</span>:
+
+- Rules
+- Protocols
+- Mechanisms that don’t change
+
+This is where the definition of a system comes back into view:
+
+<span class="mm-callout-emoji" style="--emoji: ' ';">**Systems within systems, within systems.**</span>
+
+What changes is not whether a system exists.
+
+It’s how it behaves at the level you’re observing.
+
+
+## Why this Matters
+
+If you apply the wrong expectations to a system, things start to feel off.
+
+👉 You expect consistency from something that adapts.
+
+👉 You expect flexibility from something that executes.
+
+And when the outcome doesn’t match the expectation…
+
+It feels like failure.
+
+> But often, it’s just mismatch.
+
+A simple way to tell the difference
+
+Ask:
+
+- Is this system executing…
+- adjusting…
+- or learning?
+
+That question alone will get you closer to what’s actually happening and the type of system you are observing.
+
+
+## What to hang with
+
+Not all systems behave the same.
+
+Know which one you’re in.
+
+
+A quick test
+
+In “What Do We Mean By System”, we established a simple rule:
+
+If it repeats, it’s a system.
+
+Same situation. Three variations.
+
+Version A
+
+A cat presses a button.
+A treat is dispensed.
+It happens the same way every time.
+
+Version B
+
+A cat meows.
+A treat is sometimes given.
+Over time, both the cat and the owner adjust their behavior.
+
+Version C
+
+A cat meows.
+Sometimes it works.
+Sometimes it doesn’t.
+
+Sometimes the treat is accepted.
+Sometimes it’s rejected.
+
+The cat starts trying something different..
+
+- - - - - 
+
+What kind of system is each?
+
+There’s a MNKY Math take on this in the comments — see how it compares to yours.
+
+- - - - - 
+
+Reference: What Do We Mean by System (MNKY Math)
+

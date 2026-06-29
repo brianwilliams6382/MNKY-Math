@@ -1,17 +1,25 @@
-# Quartz v4
-
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
-
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
-
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
-
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+# MNKY Math  
+  
+MNKY Math is a public digital garden exploring how systems shape behavior, decisions, and outcomes.  
+  
+This repository contains the source files for mnkymath.com, built with Quartz.  
+  
+The site is not presented as software documentation or a conventional open-source project. It is a working body of writing, definitions, frameworks, notes, and review material.  
+  
+## Site  
+  
+Visit: https://mnkymath.com  
+  
+## Built with Quartz  
+  
+This site is built using Quartz. Quartz source, structure, and tooling remain subject to their original project terms.  
+  
+## Content and reuse  
+  
+Unless otherwise noted, the writing, frameworks, definitions, and MNKY Math-specific material in this repository are copyright Brian Williams / MNKY Math.  
+  
+Reuse terms are being evaluated. Please do not republish, remix, or train on MNKY Math content without permission.  
+  
+## Contact  
+  
+For questions, feedback, or permission requests, use the contact path listed on mnkymath.com.

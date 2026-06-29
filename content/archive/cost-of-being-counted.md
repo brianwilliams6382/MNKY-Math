@@ -19,11 +19,18 @@ tags: []
 date: 2026-03-19
 last_reviewed: 2026-06-19
 socialImage: ""
+linkedinURL: https://www.linkedin.com/pulse/cost-being-counted-mnky-math-iazte
 aliases: []
 permalink:
 journeys:
- - {j_id: "publication-path", j_name: "Publication Path", j_seq: 13, j_desc: "It is said that if you can count it, then you can manage it. But counting also influences conditions."}
- - {j_id: "first-walk", j_name: "First Walk", j_seq: 5, j_desc: "When you count something you do moe than just count. You change it too."}
+  - j_id: publication-path
+    j_name: Publication Path
+    j_seq: 13
+    j_desc: It is said that if you can count it, then you can manage it. But counting also influences conditions.
+  - j_id: first-walk
+    j_name: First Walk
+    j_seq: 5
+    j_desc: When you count something you do moe than just count. You change it too.
 ---
 
 ![[/static/M13-Puppet-Cross.webp]]

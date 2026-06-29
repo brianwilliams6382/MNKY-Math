@@ -19,10 +19,14 @@ tags: []
 date: 2026-02-13
 last_reviewed: 2026-06-17
 socialImage: ""
+linkedinURL: https://www.linkedin.com/pulse/plan-promise-mnky-math-ikd9e
 aliases: []
 permalink:
 journeys:
- - {j_id: "publication-path", j_name: "Publication Path", j_seq: 7, j_desc: "A plan is not a promise, but it often becomes one when no one is looking."}
+  - j_id: publication-path
+    j_name: Publication Path
+    j_seq: 7
+    j_desc: A plan is not a promise, but it often becomes one when no one is looking.
 ---
 ![[/static/M7-The-Offer.webp]]
 

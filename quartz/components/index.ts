@@ -3,6 +3,8 @@ import MMReadTime from "./MMReadTime"
 import MMJourneyNav from "./MMJourneyNav"
 import MMFooter from "./MMFooter"
 import MMSidebarFooter from "./MMSidebarFooter"
+import MMLinkedInBridge from "./MMLinkedInBridge"
+import MMLinkedInFooter from "./MMLinkedInFooter"
 import Content from "./pages/Content"
 import TagContent from "./pages/TagContent"
 import FolderContent from "./pages/FolderContent"
@@ -36,6 +38,8 @@ export {
   MMFooter,
   MMSidebarFooter,
   MMReadTime,
+  MMLinkedInBridge,
+  MMLinkedInFooter,
   Content,
   TagContent,
   FolderContent,

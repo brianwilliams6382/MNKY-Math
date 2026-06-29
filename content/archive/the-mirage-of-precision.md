@@ -19,10 +19,14 @@ tags: []
 date: 2026-01-23
 last_reviewed: 2026-06-17
 socialImage: ""
+linkedinURL: https://www.linkedin.com/pulse/mirage-precision-when-nps-scores-dont-add-up-mnky-math-4odwe
 aliases: []
 permalink:
 journeys:
- - {j_id: "publication-path", j_name: "Publication Path", j_seq: 4, j_desc: "Begin to see what the system becomes when the metric becomes the goal."}
+  - j_id: publication-path
+    j_name: Publication Path
+    j_seq: 4
+    j_desc: Begin to see what the system becomes when the metric becomes the goal.
 ---
 
 ![[/static/M4-NPS.webp]]
@@ -117,8 +121,8 @@ The healthiest systems use metrics as tools for noticing, not trophies for winni
 
 ## Two thoughts to hang with
 
-When was the last time a number changed the way your team felt about their work?
-How do you balance math and meaning in the metrics you use?
+- When was the last time a number changed the way your team felt about their work?
+- How do you balance math and meaning in the metrics you use?
 
 
 ---

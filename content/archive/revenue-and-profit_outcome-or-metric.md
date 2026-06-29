@@ -19,10 +19,14 @@ tags: []
 date: 2026-03-10
 last_reviewed: 2026-06-17
 socialImage: ""
+linkedinURL: https://www.linkedin.com/pulse/revenue-profit-outcome-metric-mnky-math-zpkre
 aliases: []
 permalink:
 journeys:
- - {j_id: "publication-path", j_name: "Publication Path", j_seq: 11, j_desc: "As variables, Revenue and Profit demonstrate how meaning shapes or re-shapes how the system operates."}
+  - j_id: publication-path
+    j_name: Publication Path
+    j_seq: 11
+    j_desc: As variables, Revenue and Profit demonstrate how meaning shapes or re-shapes how the system operates.
 ---
 ![[/static/M11-Drink-Swirl.webp]]
 # Revenue & Profit: Outcome or Metric

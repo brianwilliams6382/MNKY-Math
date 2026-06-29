@@ -17,6 +17,7 @@ tags: []
 date:
 last_reviewed:
 socialImage: ""
+linkedinURL:
 aliases: []
 permalink:
 journeys:

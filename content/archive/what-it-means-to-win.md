@@ -19,10 +19,14 @@ tags: []
 date: 2026-01-20
 last_reviewed: 2026-06-17
 socialImage: ""
+linkedinURL: https://www.linkedin.com/pulse/what-means-win-mnky-math-a4efe
 aliases: []
 permalink:
 journeys:
- - {j_id: "publication-path", j_name: "Publication Path", j_seq: 3, j_desc: "How you define winning shapes the system and how you win."}
+  - j_id: publication-path
+    j_name: Publication Path
+    j_seq: 3
+    j_desc: How you define winning shapes the system and how you win.
 ---
 
 ![[/static/M3-Win.webp]]
@@ -91,7 +95,7 @@ Once a definition of winning is set, behavior follows. Tradeoffs are accepted. C
 
 It does make it consequential.
 
-## A Reframe to Hang with
+## A reframe to hang with
 
 Instead of asking:
 

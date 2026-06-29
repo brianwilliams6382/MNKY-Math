@@ -376,7 +376,7 @@ blockquote {
 .mm-callout-clean {
   display: block !important;
   font-family: var(--bodyFont) !important;
-  font-size: 1.05rem !important;
+  font-size: 1.0rem !important;
   color: var(--dark) !important;
   line-height: 1.6 !important;
   font-weight: inherit !important;
@@ -458,6 +458,184 @@ blockquote {
 [data-theme="dark"] .mm-callout-mmemoji-loop::before {
   background-image: url("file/quartz/static/callouts/loop-dark.svg") !important;
 }
+
+/* --- ENGINE 1: THE CHALLENGE LAYER --- */
+.callout[data-callout="mmchallenge"] {
+  --color:#ac8a3a !important; /* Branded blue accent for the left edge */
+  --bg: #baae9141 !important; /* Soft gray wash */
+  --border: #baae91 !important; /* Branded blue accent for the left edge */
+  
+  border: none !important; /* Strips all borders */
+  border-left: 6px solid var(--border) !important; /* Branded blue accent for the left edge */
+  border-radius: 8px !important; /* Softens the corners for a modern look */
+  background-color: var(--bg) !important; /* Soft gray wash */
+  padding-top: 0.2rem !important;
+  padding-left: 1.0rem !important;
+  padding-right: 1.0rem !important;
+  padding-bottom: 0.2rem !important;
+  margin: 1.0rem 0 !important;
+
+  .callout-title {
+    font-family: var(--headerFont) !important;
+    font-size: 1.2rem !important;
+    font-weight: 700 !important;
+    color: var(--color) !important; 
+    margin-bottom: 0.0rem !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 0.4rem !important; /* Precise breathing room between icon and text */
+    
+    .callout-icon, .fold, svg { display: none !important; }
+  }
+
+  .callout-content {
+    font-family: var(--bodyFont) !important;
+    font-size: 1.0rem !important;
+    line-height: 1.6 !important;
+    color: #1b1a1a !important; /* Rich charcoal reading text */
+    padding-left: 0 !important; 
+    margin: 0 !important;
+  }
+}
+
+  /* 2. Absolute Dark Mode Lock (Using your inspector's exact saved-theme token) */
+  :root[saved-theme="dark"] .callout[data-callout="mmchallenge"] {
+    background-color: var(--lightgray) !important; /* Keeps the container background frozen */
+
+    .callout-title {
+      color: #5D7DB7 !important; /* Keeps the title text blue */
+    }
+
+    .callout-content {
+      color: #1b1a1a !important; /* Keeps the paragraph text charcoal */
+    }
+  }
+
+/* --- ENGINE 2: THE SEQUENCE BRIDGE --- */
+.mm-sequence-bridge {
+  display: block !important;
+  margin: 2.5rem 0 1.5rem 0 !important;
+  font-family: var(--bodyFont) !important;
+  font-size: 0.98rem !important;
+  line-height: 1.55 !important;
+  padding-left: 2.5rem !important; /* Deep indent so text wraps underneath the icon trail */
+  position: relative !important;
+
+  /* The Monkey Footprint / Progress Trail Icon Anchor */
+  &::before {
+    content: "🐾" !important; /* Injects a clean, multi-step trail */
+    position: absolute !important;
+    left: 0 !important;
+    top: 0.1rem !important;
+    font-size: 1.2rem !important;
+    letter-spacing: -0.1em !important; /* Pulls the steps tight together */
+  }
+
+  strong {
+    color: var(--dark) !important; /* Branded blue focus */
+  }
+}
+
+/* --- ENGINE 3: THE PATHWAY DETOUR SYSTEM 'Also part of...' --- */
+.callout[data-callout="mmpath"] {
+  --color:var(--dark) !important; /* Branded blue accent for the left edge */
+  --bg: var(--light) !important; 
+  --border: #baae91 !important; /* Branded blue accent for the left edge */
+  
+  border: none !important;
+  background-color: var(--bg) !important;
+  padding: 0.0rem 1.25rem !important;
+  border-radius: 6px !important;
+  width:90% !important;
+  margin-left: 1.0rem !important;
+  margin-top: 0.5rem !important;
+  margin-bottom: 1.5rem !important;
+
+  .callout-title {
+    font-family: var(--headerFont) !important;
+    font-size: 1.05rem !important;
+    font-weight: 600 !important;
+    margin-top: -0.5rem !important;
+    margin-bottom: -1.0rem !important;
+    color: var(--dark) !important;
+    
+    .callout-icon, .fold, svg { display: none !important; }
+  }
+
+  .callout-content {
+    font-family: var(--bodyFont) !important;
+    font-size: 0.96rem !important;
+    line-height: 1.5 !important;
+    color: var(--dark) !important;
+    margin-top: 0.5rem !important;
+  }
+}
+
+/* --- ENGINE 4: THE REFERENCE ATTRIBUTION LAYER --- */
+.callout[data-callout="mmref"] {
+  border: none !important;
+  /* Top and bottom dashed borders to isolate the citations elegantly */
+  border-radius: 2px !important;
+  border-bottom: 1px dashed var(--gray) !important;
+  background-color: var(--light) !important; 
+  padding-left: 0.50rem !important;
+  padding-right: 1.0rem !important;
+  margin: 2.0rem 0.5rem !important;
+  
+  .callout-title {
+    font-family: var(--headerFont) !important;
+    font-size: 1.2rem !important;
+    letter-spacing: 0.12em !important;
+    font-weight: 700 !important;
+    color: var(--dark)!important; 
+    margin-top: -0.50rem !important;
+    margin-bottom: -1.0rem !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 0.4rem !important; /* Precise breathing room between icon and text */
+    
+    .callout-icon, .fold, svg { display: none !important; }
+  }
+
+  .callout-content {
+    font-family: var(--bodyFont) !important;
+    font-size: 0.92rem !important;
+    line-height: 1.5 !important;
+    color: var(--gray) !important;
+
+    ul {
+      list-style-type: disc !important;
+      padding-left: 1.25rem !important;
+      margin-top: 0.5rem !important;
+      li {
+        margin-bottom: 0.0rem !important;
+        display: list-item !important;
+      }
+    }
+  }
+}
+
+/* ─── MNKY MATH INLINE CUSTOM EMOJI ─── */
+.mm-inline-mnky {
+  display: inline-block !important;
+  width: 1.1em !important;
+  height: 1.1em !important;
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  vertical-align: -0.15em !important;
+  margin: 0 0.15em !important;
+
+  /* Universal/Light fallback baseline */
+  background-image: url("/static/icon.png") !important;
+
+  /* Dark mode inside Quartz's ecosystem */
+  :root[data-theme="dark"] & {
+    /* If you ever want a neon/white variant for dark mode, it goes here */
+    background-image: url("/static/icon.png") !important; 
+  }
+}
+
 
 /* ==========================================================================
    5. PRINT OPTIMIZATION
@@ -734,7 +912,9 @@ body[data-slug$="index"] {
 .mm-journey-wrapper {
   margin-top: 2.5rem !important;
   margin-bottom: 1.5rem !important;
-  width: 100% !important;
+  width: 70% !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
 }
 
 .mm-journey-card {
@@ -742,8 +922,8 @@ body[data-slug$="index"] {
   animation: mmJourneyCardInserted 0.001s !important;
   
   flex-direction: column !important;
-  background-color: #f7e08e !important;
-  border: 1px solid var(--gray) !important;
+  background-color: #ebe8ee !important;
+  border: 1px solid #d8c8e8 !important;
   border-radius: 6px !important;
   padding: 1.25rem !important;
   align-items: stretch !important;
@@ -751,13 +931,13 @@ body[data-slug$="index"] {
   .journey-header {
     text-align: left !important;
     margin-bottom: 1.25rem !important;
-    border-bottom: 1px dashed #D7AC0F !important;
+    border-bottom: 1px dashed #797083 !important;
     padding-bottom: 0.6rem !important;
 
     /* Style for the running context sentence */
     .journey-status-text {
       font-size: 0.8rem !important;
-      color: #6B5607 !important;
+      color: #4c3469 !important;
       text-transform: none !important;
     }
     
@@ -799,7 +979,7 @@ body[data-slug$="index"] {
 
     .nav-label {
       font-size: 0.8rem !important;
-      color: #6B5607 !important;
+      color: #4c3469 !important;
       text-transform: lowercase !important;
       margin-bottom: 0.2rem !important;
     }
@@ -819,14 +999,14 @@ body[data-slug$="index"] {
     .nav-meta {
       font-family: var(--codeFont) !important;
       font-size: 0.7rem !important;
-      color: #6B5607 !important;
+      color: #4c3469 !important;
       margin-top: 0.25rem !important;
     }
 
     .nav-disabled {
       font-family: var(--codeFont) !important;
       font-size: 0.75rem !important;
-      color: #6B5607 !important;
+      color: #4c3469 !important;
       opacity: 0.8 !important;
       font-style: italic !important;
     }

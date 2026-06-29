@@ -20,7 +20,6 @@ socialImage: ""
 aliases: []
 permalink:
 journeys:
- - {j_id: "first-walk", j_name: "First Walk", j_seq: 1, j_desc: "Once you see how a simple game can shape behavior, it becomes harder not to ask what the larger systems around us are teaching too."}
 ---
 
 ## An early system

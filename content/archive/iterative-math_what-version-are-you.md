@@ -19,10 +19,14 @@ tags: []
 date: 2026-03-14
 last_reviewed: 2026-06-17
 socialImage: ""
+linkedinURL: https://www.linkedin.com/pulse/iterative-math-i-what-version-you-running-mnky-math-rtobe
 aliases: []
 permalink:
 journeys:
- - {j_id: "publication-path", j_name: "Publication Path", j_seq: 12, j_desc: "We aren't just surrounded systems. We are systems too."}
+  - j_id: publication-path
+    j_name: Publication Path
+    j_seq: 12
+    j_desc: We aren't just surrounded systems. We are systems too.
 ---
 
 ![[/static/M12-MNKY-Versioning.webp]]

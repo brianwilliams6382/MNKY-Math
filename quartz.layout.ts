@@ -17,7 +17,8 @@ export const defaultContentPageLayout: PageLayout = {
       rootName: "",
       }),    
     Component.TagList(),
-        Component.MMReadTime(),
+    Component.MMReadTime(),
+    Component.MMLinkedInBridge(),
   ],
   left: [
     Component.MMPageTitle(),
@@ -82,6 +83,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
 
   afterBody: [
+    Component.MMLinkedInFooter(), // New component at the very end of the content
     Component.MMJourneyNav(), // New component at the very end of the content
   ]
 }

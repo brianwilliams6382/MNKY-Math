@@ -19,10 +19,14 @@ tags: []
 date: 2026-01-28
 last_reviewed: 2026-06-17
 socialImage: ""
+linkedinURL: https://www.linkedin.com/pulse/how-attention-math-follows-us-public-space-mnky-math-ej4me
 aliases: []
 permalink:
 journeys:
- - {j_id: "publication-path", j_name: "Publication Path", j_seq: 5, j_desc: "Public space is no longer just a stage. It is becoming something that notices and records."}
+  - j_id: publication-path
+    j_name: Publication Path
+    j_seq: 5
+    j_desc: Public space is no longer just a stage. It is becoming something that notices and records.
 ---
 
 ![[/static/M5-Billboards.webp]]

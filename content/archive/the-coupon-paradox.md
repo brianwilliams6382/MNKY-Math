@@ -19,11 +19,18 @@ tags: []
 date:
 last_reviewed:
 socialImage: ""
+linkedinURL: https://www.linkedin.com/pulse/coupon-paradox-mnky-math-lfjye
 aliases: []
 permalink:
 journeys:
- - {j_id: "publication-path", j_name: "Publication Path", j_seq: 1, j_desc: "Coupons are a familiar entry into systems thinking."}
- - {j_id: "first-walk", j_name: "First Walk", j_seq: 4, j_desc: "Coupons entice an outcome you didn't plan. That's monkey."}
+  - j_id: publication-path
+    j_name: Publication Path
+    j_seq: 1
+    j_desc: Coupons are a familiar entry into systems thinking.
+  - j_id: first-walk
+    j_name: First Walk
+    j_seq: 4
+    j_desc: Coupons entice an outcome you didn't plan. That's monkey.
 ---
 
 
@@ -85,21 +92,15 @@ In those cases, selection isn’t a trap. It’s a signal of intent.
 
 The assumption behind many loyalty designs is subtle:
 
-Requiring action deepens engagement.
-
-Selection establishes commitment.
-
-Effort strengthens loyalty.
+-> Requiring action deepens engagement.<br>-> Selection establishes commitment.<br>-> Effort strengthens loyalty.
 
 Sometimes that’s true.
 
 But for everyday purchases, the unglamorous defaults like detergent, paper towels, or toothpaste, loyalty often works differently.
 
-It’s built on predictability.
+It’s built on predictability.<br>On reliability.<br>On relationship.
 
-On reliability.
-
-On knowing that the system isn’t waiting for you to slip.
+On knowing, or at least feeling, that the system isn’t waiting for you to slip.
 
 When multiple seller options offer similar prices and availability, convenience tends to win. Over time, the place that requires the least vigilance becomes the default. Not because it demanded attention, but because it earned trust or simply made things easier.
 
@@ -111,7 +112,7 @@ It’s that many systems still profit more from missed intent than from sustaine
 
 Digital tools are capable of honoring what customers consistently do. They already recognize patterns. The question is how that knowledge is used, to reduce effort, or to monetize it.
 
-And that choice says more about a system’s priorities than any loyalty slogan ever could.
+==And that choice says more about a system’s priorities than any loyalty slogan ever could.==
 
 ## A Quiet Contrast
 

@@ -19,10 +19,14 @@ tags: []
 date: 2026-01-14
 last_reviewed: 2026-06-17
 socialImage: ""
+linkedinURL: https://www.linkedin.com/pulse/employee-engagement-mnky-math-662ue
 aliases: []
 permalink:
 journeys:
- - {j_id: "publication-path", j_name: "Publication Path", j_seq: 2, j_desc: "The Annual Employee Engagement survey is another system many of us encounter but rarely think of as a system."}
+  - j_id: publication-path
+    j_name: Publication Path
+    j_seq: 2
+    j_desc: The Annual Employee Engagement survey is another system many of us encounter but rarely think of as a system.
 ---
 ![[/static/M2-All-Hands.webp]]
 

@@ -3,7 +3,7 @@ draft: false
 enableToc: true
 readTimeMM: true
 explorerHide: false
-title: Why MNKY Math
+title: Why This Needed a Name
 signatureCode: V00C0.M6
 contentSection:
   - archive
@@ -19,13 +19,17 @@ tags: []
 date: 2026-02-04
 last_reviewed: 2026-06-17
 socialImage: ""
+linkedinURL: https://www.linkedin.com/pulse/why-mnky-math-mnky-math-yk6oe
 aliases: []
 permalink:
 journeys:
- - {j_id: "publication-path", j_name: "Publication Path", j_seq: 6, j_desc: "The meaning behind our name."}
+  - j_id: publication-path
+    j_name: Publication Path
+    j_seq: 6
+    j_desc: The meaning behind our name.
 ---
 ![[/static/M6-Tornado-Work.webp]]
-# Why MNKY Math
+# Why This Needed a Name
 
 Most systems don’t announce themselves.
 
@@ -63,15 +67,17 @@ It’s about the moment when a number stops being an indicator and starts becomi
 
 Because none of us operate outside these systems.
 
-A MNKY is someone under influence. And that applies to each and every person: Frontline workers. Managers. Executives. Designers. Analysts. Leaders. Doctors. Politicians. 
+A monkey is someone under influence. And that applies to each and every person: Frontline workers. Managers. Executives. Designers. Analysts. Leaders. Doctors. Politicians. 
 
 > Everyone.
 
 Because we all exist and move through structures we didn’t fully design. In fact, we’re often co-habiting multiple systems at the same time: the apps on our phones, the messages that reach us across countless channels, the roles we play at work… and even at home.
 
-In that sense, we’re all MNKY — because some system is always working to influence outcomes, and we adapt to those systems, often without realizing it.
+In that sense, we’re all monkey — because some system is always working to influence outcomes, and we adapt to those systems, often without realizing it.
 
-## Being MNKY doesn’t mean being powerless.
+MNKY is about bringing recognition to that influence.
+
+### _Being MNKY doesn’t mean being powerless._
 
 It means being human inside a system.
 

@@ -18,7 +18,7 @@ function MMReadTime({ fileData, displayClass }: QuartzComponentProps) {
 
   return (
     <div className={`mm-read-time ${displayClass ?? ""}`}>
-      <p style={{ fontSize: "0.85rem", color: "var(--gray)", margin: "0" }}>
+      <p style={{ fontSize: "0.87rem", color: "var(--gray)", margin: "0" }}>
         {stats} min read
       </p>
     </div>

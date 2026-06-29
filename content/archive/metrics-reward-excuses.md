@@ -19,10 +19,14 @@ tags: []
 date: 2026-03-04
 last_reviewed: 2026-06-17
 socialImage: ""
+linkedinURL: https://www.linkedin.com/pulse/when-metrics-reward-continuity-insight-mnky-math-ex7he
 aliases: []
 permalink:
 journeys:
- - {j_id: "publication-path", j_name: "Publication Path", j_seq: 10, j_desc: "Too much emphasis on a metric can alter the conditions that made the metric meaningful in the first place."}
+  - j_id: publication-path
+    j_name: Publication Path
+    j_seq: 10
+    j_desc: Too much emphasis on a metric can alter the conditions that made the metric meaningful in the first place.
 ---
 
 ![[/static/M10-Timeless-Train-Station.webp]]

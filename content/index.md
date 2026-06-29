@@ -51,7 +51,9 @@ MNKY Math exists to make those patterns visible — so we can better understand 
 
 Not sure why this matters or where to begin?
 
-Begin with a [[archive/musical-chairs|story]].
+Begin with a [[archive/musical-chairs|story]].<br><Br><br>
+
+<span class="mm-inline-mnky"></span> Or [[first-walk|Start Here with a First Walk]], <br>a curated path touching who we are, what we do, and tips for exploring our _digital garden_.
 
 ---
 
@@ -59,8 +61,8 @@ Begin with a [[archive/musical-chairs|story]].
 
 MNKY Math is meant to be explored as an expansive [[mm_garden|garden]], not consumed as a feed.
 
-You can navigate using the Explorer in the left panel for a more traditional path, such as entering the [[archive/index|Archive]] to browse published pieces, or follow linked concepts as they appear throughout the text. 
+You can navigate using the [[mm_garden#Explorer|Explorer]] in the left panel for a more traditional path, such as entering the [[archive/index|Archive]] to browse published pieces, or follow linked concepts as they appear throughout the text. 
 
-The Graph View offers another way in — showing how ideas connect across the garden.
+The [[mm_garden#Graph View|Graph View]] offers another way in — showing how ideas connect across the garden.
 
 For the deeper story [[about/mm_emergence|behind the name]], the lens, and the work, read [[mm_our-why|Why MNKY Math]].

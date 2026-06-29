@@ -19,10 +19,14 @@ tags: []
 date: 2026-02-15
 last_reviewed: 2026-06-17
 socialImage: ""
+linkedinURL: https://www.linkedin.com/pulse/plan-promise-where-you-stand-matters-mnky-math-rhiye
 aliases: []
 permalink:
 journeys:
- - {j_id: "publication-path", j_name: "Publication Path", j_seq: 8, j_desc: "A plan's meaning is subjective, context is often dictated by where you stand."}
+  - j_id: publication-path
+    j_name: Publication Path
+    j_seq: 8
+    j_desc: A plan's meaning is subjective, context is often dictated by where you stand.
 ---
 ![[/static/M8-The-Receiver.webp]]
 # Plan or Promise? Where You Stand Matters
