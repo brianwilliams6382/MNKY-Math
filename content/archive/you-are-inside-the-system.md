@@ -23,10 +23,6 @@ linkedinURL: https://www.linkedin.com/pulse/you-inside-system-mnky-math-ufrbe
 aliases: []
 permalink:
 journeys:
-  - j_id: publication-path
-    j_name: Publication Path
-    j_seq: 14
-    j_desc: This essay explores how system incentives and structure quietly influence what you do, even when you don’t agree with them.
 ---
 
 # You Are Inside the System
@@ -214,11 +210,10 @@ And if that’s true, then the next question becomes harder to ignore:
 
 What, exactly, is the system shaping you and others to become?
 
-<br><br><br>
-➕
-
-_If the system is shaping behavior… over time, [[what-the-system-rewards-you-become|you become what the system rewards.]]_
+<br>
 
 
+<br>
+<p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>If the system is shaping behavior… over time, [[what-the-system-rewards-you-become|you become what the system rewards.]]</p>
 
 

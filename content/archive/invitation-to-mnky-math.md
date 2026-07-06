@@ -23,10 +23,6 @@ linkedinURL: https://www.linkedin.com/pulse/why-mnky-math-mnky-math-yk6oe
 aliases: []
 permalink:
 journeys:
-  - j_id: publication-path
-    j_name: Publication Path
-    j_seq: 6
-    j_desc: The meaning behind our name.
 ---
 ![[/static/M6-Tornado-Work.webp]]
 # Why This Needed a Name
@@ -159,3 +155,6 @@ You become a different kind of MNKY by noticing where you are, your role in the 
 That’s the math worth hanging with.
 
 
+
+<br>
+<p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>Plans are meant to express intent, not obligation. Over time, [[plan-or-promise|language can turn plans into promises]] — reshaping expectations, accountability and trust inside orgs.</p>

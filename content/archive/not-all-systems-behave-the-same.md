@@ -16,8 +16,8 @@ description: ""
 socialDescription: ""
 mmShort:
 tags: []
-date:
-last_reviewed:
+date: 2026-05-06
+last_reviewed: 2026-07-01
 socialImage: ""
 linkedinURL:
 aliases: []
@@ -33,31 +33,24 @@ But seeing them isn’t enough.
 
 Because not all systems behave the same way.
 
-Some are predictable.
-
-Some are stable — until they’re not.
-
-Some change as they operate.
+Some are predictable.<br>Some are stable — until they’re not.<br>Some change as they operate.
 
 If you treat them all the same, you misread what’s happening.
 
 And when you misread the system, you misread the outcome.
 
+---
 ## Three Ways Systems Behave
 
 Once you start paying attention, most systems fall into three patterns.<br><br>
 
-<img src="/static/icon_precision.png" style="display: inline-block; width: 1.1em; height: 1.1em; vertical-align: -0.15em; margin: 0 0.15em; object-fit: contain;" alt="description" /> <span style="text-decoration: underline; font-size: 1.15rem">**Precision Systems**</span><br>
+<img src="/static/icon_precision.png" style="display: inline-block; width: 1.75em; height: 1.75em; vertical-align: -0.5em; margin: 0 0.15em; object-fit: contain;" alt="Precision Systems icon" /> <span style="text-decoration: underline; font-size: 1.15rem">**Precision Systems**</span><br>
 <span style="color: var(--tertiarymm); font-size: 0.85rem;">_Stable conditions. Repeatable inputs. Predictable outcomes._</span>
 ![[/static/system_precision.webp]]
 
 These are the most predictable.
 
-Inputs are known.
-
-Steps are defined.
-
-Outputs are consistent.
+Inputs are known.<br>Steps are defined.<br>Outputs are consistent.
 
 If the same inputs go in, the same outputs come out.
 
@@ -77,7 +70,7 @@ These systems don’t adapt.
 
 <br>
 
-<img src="/static/icon_dynamic.png" style="display: inline-block; width: 1.1em; height: 1.1em; vertical-align: -0.15em; margin: 0 0.15em; object-fit: contain;" alt="description" /> <span style="text-decoration: underline; font-size: 1.15rem">**Dynamic Precision Systems**</span><br>
+<img src="/static/icon_dynamic.png" style="display: inline-block; width: 1.75em; height: 1.75em; vertical-align: -0.5em; margin: 0 0.15em; object-fit: contain;" alt="Dynamic Precisions Systems icon" /> <span style="text-decoration: underline; font-size: 1.15rem">**Dynamic Precision Systems**</span><br>
 <span style="color: var(--tertiarymm); font-size: 0.85rem;">_Moderate variability. Patterns shift over time. Requires ongoing calibration._</span>
 ![[/static/system_dynamic.webp]]
 
@@ -85,11 +78,7 @@ These systems are still structured.
 
 But they operate in conditions that shift.
 
-Inputs vary.
-
-Conditions change.
-
-Adjustments are made.
+Inputs vary.<br>Conditions change.<br>Adjustments are made.
 
 But within limits.
 
@@ -107,7 +96,7 @@ The structure remains.
 
 <br>
 
-<img src="/static/icon_adaptive.png" style="display: inline-block; width: 1.1em; height: 1.1em; vertical-align: -0.15em; margin: 0 0.15em; object-fit: contain;" alt="description" />  <span style="text-decoration: underline; font-size: 1.15rem">**Adaptive Systems**</span><br>
+<img src="/static/icon_adaptive.png" style="display: inline-block; width: 1.75em; height: 1.75em; vertical-align: -0.5em; margin: 0 0.15em; object-fit: contain;" alt="Adaptive Systems icon" />  <span style="text-decoration: underline; font-size: 1.15rem">**Adaptive Systems**</span><br>
 <span style="color: var(--tertiarymm); font-size: 0.85rem;"> _High variability. Emergent behavior. Continuously evolving._ </span>
 ![[/static/system_adaptive.webp]]
 
@@ -115,11 +104,7 @@ These systems don’t just adjust.
 
 They learn.
 
-Behavior changes based on feedback.
-
-Patterns evolve.
-
-Outcomes are less predictable.
+Behavior changes based on feedback.<br>Patterns evolve.<br>Outcomes are less predictable.
 
 What worked before may not work again.
 
@@ -136,6 +121,7 @@ The system is not just executing.
 
 <br>
 
+---
 ## Systems Don’t Exist in Isolation
 
 Most systems aren’t just one type.
@@ -172,7 +158,7 @@ What changes is not whether a system exists.
 
 It’s how it behaves at the level you’re observing.
 
-
+---
 ## Why this Matters
 
 If you apply the wrong expectations to a system, things start to feel off.
@@ -197,52 +183,53 @@ Ask:
 
 That question alone will get you closer to what’s actually happening and the type of system you are observing.
 
-
+---
 ## What to hang with
 
 Not all systems behave the same.
 
 Know which one you’re in.
 
+<br>
 
-A quick test
+> [!mmchallenge]+ Challenge
+> In “_What Do We Mean By System_”, we established a simple rule:
+>
+>If it repeats, it’s a system.
+>
+>Same situation. Three variations.
+>
+>Version A
+>
+>A cat presses a button.
+>A treat is dispensed.
+>It happens the same way every time.
+>
+>Version B
+>
+>A cat meows.
+>A treat is sometimes given.
+>Over time, both the cat and the owner adjust their behavior.
+>
+>Version C
+>
+>A cat meows.
+>Sometimes it works.
+>Sometimes it doesn’t.
+>
+>Sometimes the treat is accepted.
+>Sometimes it’s rejected.
+>
+>The cat starts trying something different..
+>
+>- - - - - 
+>
+>What kind of system is each?<br><br>
+>The companion discussion on LinkedIn includes the **MNKY Math take** and is where the conversation continues.<br><br>
 
-In “What Do We Mean By System”, we established a simple rule:
 
-If it repeats, it’s a system.
+> [!mmref]+ Reference:
+> - _[[what-do-we-mean-by-system|What Do We Mean by System]]_ (MNKY Math)
 
-Same situation. Three variations.
-
-Version A
-
-A cat presses a button.
-A treat is dispensed.
-It happens the same way every time.
-
-Version B
-
-A cat meows.
-A treat is sometimes given.
-Over time, both the cat and the owner adjust their behavior.
-
-Version C
-
-A cat meows.
-Sometimes it works.
-Sometimes it doesn’t.
-
-Sometimes the treat is accepted.
-Sometimes it’s rejected.
-
-The cat starts trying something different..
-
-- - - - - 
-
-What kind of system is each?
-
-There’s a MNKY Math take on this in the comments — see how it compares to yours.
-
-- - - - - 
-
-Reference: What Do We Mean by System (MNKY Math)
+<p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>Once we recognize that systems behave differently, the next question becomes: [[where-the-system-begins-and-ends|Where does the system actually begin — and end?]]</p>
 

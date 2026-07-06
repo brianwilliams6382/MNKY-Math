@@ -27,7 +27,7 @@ journeys:
 
 A **Deep neighbor** connects with MNKY Math at a structural, philosophical, or foundational level.  
   
-Deep neighbors may not be familiar entry points for most readers.  
+Deep neighbors may not be familiar entry points for most people.  
   
 They may come from philosophy, complex systems, cybernetics, sociology, psychology, organizational theory, anthropology, ethics, or other fields that examine how people, systems, meaning, and behavior interact.  
   

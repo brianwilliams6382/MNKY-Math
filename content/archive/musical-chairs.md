@@ -85,7 +85,7 @@ Continue to [[mm_our-why|Why MNKY Math]] to understand why this lens exists.
 ---
 _Other useful paths:_
 
-To learn how to wander without getting lost, visit [[mm_garden|The MNKY Math Garden]].
+To learn how to wander without getting lost, visit [[mm_exploring-the-garden|The MNKY Math Garden]].
 
 To see what drives this work — and what MNKY Math hopes it helps produce — visit [[about/mm_drivers/index|What Drives Us]].
 

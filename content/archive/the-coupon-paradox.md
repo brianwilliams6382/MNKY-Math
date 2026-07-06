@@ -16,17 +16,13 @@ description: ""
 socialDescription: ""
 mmShort:
 tags: []
-date:
-last_reviewed:
+date: 2026-01-11
+last_reviewed: 2026-06-05
 socialImage: ""
 linkedinURL: https://www.linkedin.com/pulse/coupon-paradox-mnky-math-lfjye
 aliases: []
 permalink:
 journeys:
-  - j_id: publication-path
-    j_name: Publication Path
-    j_seq: 1
-    j_desc: Coupons are a familiar entry into systems thinking.
   - j_id: first-walk
     j_name: First Walk
     j_seq: 4
@@ -121,3 +117,6 @@ Some systems ask us to prove our loyalty at each transaction.
 Others recognize it once.
 
 And then remember us each time.
+
+<br>
+<p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>Where we shop isn't the only place where systems try to measure loyalty. The workplace has its own version—and it raises many of the same questions through [[employee-enagagement|employee engagement]].</p>

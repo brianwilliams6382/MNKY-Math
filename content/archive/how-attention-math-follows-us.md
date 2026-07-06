@@ -23,10 +23,6 @@ linkedinURL: https://www.linkedin.com/pulse/how-attention-math-follows-us-public
 aliases: []
 permalink:
 journeys:
-  - j_id: publication-path
-    j_name: Publication Path
-    j_seq: 5
-    j_desc: Public space is no longer just a stage. It is becoming something that notices and records.
 ---
 
 ![[/static/M5-Billboards.webp]]
@@ -134,3 +130,7 @@ Whether or not that assumption holds true is a question worth sitting with.
 What changes when attention is no longer assumed, but measured?
 
 And how differently do we move through public space once we realize the environment is paying attention back?
+
+
+<br>
+<p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>By now you should be seeing how we touch many systems throughout our day. This is [[invitation-to-mnky-math|why MNKY Math exists]] to offer orientation — not answers — inside those systems.</p>

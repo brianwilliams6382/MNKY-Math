@@ -23,10 +23,6 @@ linkedinURL: https://www.linkedin.com/pulse/plan-promise-mnky-math-ikd9e
 aliases: []
 permalink:
 journeys:
-  - j_id: publication-path
-    j_name: Publication Path
-    j_seq: 7
-    j_desc: A plan is not a promise, but it often becomes one when no one is looking.
 ---
 ![[/static/M7-The-Offer.webp]]
 
@@ -127,3 +123,7 @@ They suffer from **plans that quietly turned into something else**.
 ---
 
 The story doesn't end here, because [[plan-or-promise_where-you-stand-matters|where you stand matters]].
+
+
+<br>
+<p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>A plan’s meaning can differ by where you stand. When strategy and execution interpret plans differently, [[plan-or-promise_where-you-stand-matters|alignment strains and promises emerge unintentionally]].</p>

@@ -23,10 +23,6 @@ linkedinURL: https://www.linkedin.com/pulse/when-metrics-reward-continuity-insig
 aliases: []
 permalink:
 journeys:
-  - j_id: publication-path
-    j_name: Publication Path
-    j_seq: 10
-    j_desc: Too much emphasis on a metric can alter the conditions that made the metric meaningful in the first place.
 ---
 
 ![[/static/M10-Timeless-Train-Station.webp]]
@@ -177,3 +173,6 @@ The more important distinction is not whether targets are met, but whether devia
 Sometimes, that distinction is the only space learning has left.
 
 
+
+<br>
+<p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>Revenue and profit can describe what happened or shape what happens next. [[revenue-and-profit_outcome-or-metric|When those roles collapse, constraint migrates and strain spreads]].</p>

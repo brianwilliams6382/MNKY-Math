@@ -8,6 +8,7 @@ signatureCode:
 contentSection:
   - neighborhood
 contentType:
+  - n_Deep
 growth_stage:
 readerMode:
 fm_level:

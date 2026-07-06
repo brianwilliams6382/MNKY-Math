@@ -23,10 +23,6 @@ linkedinURL: https://www.linkedin.com/pulse/when-metric-replaces-meaning-mnky-ma
 aliases: []
 permalink:
 journeys:
-  - j_id: publication-path
-    j_name: Publication Path
-    j_seq: 16
-    j_desc: Metrics are meant to guide decisions—but what happens when they become the goal?
 ---
 
 # When the Metric Replaces the Meaning
@@ -125,8 +121,6 @@ When the number becomes the goal, the meaning begins to fade.
 
 And once it fades far enough… the system can no longer tell the difference.
 
-<br><br><br>
-➕
-
-_What happens when everything [[when-signals-become-noise|looks like it’s working… but nothing actually is]]?_
-
+<br><br>
+<br>
+<p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>As systems scale, signals degrade. Learn [[when-signals-become-noise|how over-measurement, overlapping metrics, and system complexity turn meaningful data into noise]] — and what that costs.</p>

@@ -23,10 +23,6 @@ linkedinURL: https://www.linkedin.com/pulse/fixing-interface-instead-system-mnky
 aliases: []
 permalink:
 journeys:
-  - j_id: publication-path
-    j_name: Publication Path
-    j_seq: 19
-    j_desc: Clean dashboards don’t fix broken systems. When surface improvements replace structural change, problems persist—just harder to see and easier to ignore.
 ---
 
 # Fixing the Interface Instead of the System
@@ -144,10 +140,7 @@ And credibility isn’t fixed by improving the interface or by making the signal
 It’s restored by realigning the system to what’s actually happening.
 
 It’s fixed by making it true again.
-<br>
-<br>
-<br>
-➕
+<br><br>
 
-_[[when-non-compliance-is-rational|What happens when the system keeps improving how things look… but not what they are?]]_
-
+<br>
+<p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>When systems create friction, people route around them. [[when-non-compliance-is-rational|Non-compliance isn’t defiance—it’s adaptation]], revealing where design and reality no longer align.</p>

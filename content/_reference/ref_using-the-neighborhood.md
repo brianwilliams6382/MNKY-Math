@@ -30,7 +30,7 @@ MNKY Math did not appear in isolation. It sits near many theories, disciplines, 
   
 Neighborhood pages help clarify those relationships.  
   
-They are not meant to be exhaustive summaries, academic literature reviews, or endorsements. They are orientation notes. Their purpose is to help readers understand how another idea touches MNKY Math, where it overlaps, where it differs, and why the relationship matters.  
+They are not meant to be exhaustive summaries, academic literature reviews, or endorsements. They are orientation notes. Their purpose is to help understand how another idea touches MNKY Math, where it overlaps, where it differs, and why the relationship matters.  
   
 ## What counts as a neighbor?  
   
@@ -64,11 +64,11 @@ Close neighbors help show where MNKY Math belongs.
   
 ### - ==Bridge neighbor==  
   
-A bridge neighbor helps readers enter MNKY Math through something more familiar.  
+A bridge neighbor helps one enter MNKY Math through something more familiar.  
   
-These ideas may not fully overlap with MNKY Math, but they give readers a useful doorway. A bridge neighbor often connects a common framework, workplace method, or widely recognized concept to the deeper patterns MNKY Math explores.  
+These ideas may not fully overlap with MNKY Math, but they give you a useful doorway. A bridge neighbor often connects a common framework, workplace method, or widely recognized concept to the deeper patterns MNKY Math explores.  
   
-Bridge neighbors help readers get oriented.  
+Bridge neighbors help you to orient to MNKY Math.  
   
 ### - ==Adjacent neighbor==  
   
@@ -90,7 +90,7 @@ Contrast neighbors help sharpen the edges.
   
 A deep neighbor connects to MNKY Math at a more structural or philosophical level.  
   
-These ideas may be less familiar to general readers, but they help illuminate the deeper architecture beneath MNKY Math: how people make meaning, how systems shape perception, how behavior emerges, how agency is formed or constrained, and how outcomes become normalized.  
+These ideas may be less familiar to most people, but they help illuminate the deeper architecture beneath MNKY Math: how people make meaning, how systems shape perception, how behavior emerges, how agency is formed or constrained, and how outcomes become normalized.  
   
 Deep neighbors help reveal the roots.  
 
@@ -105,7 +105,7 @@ The Relationship map is not meant to be complete. It is a small orientation tool
   
 The closest twin is the most similar nearby idea.  
   
-This does not mean the two ideas are identical. It means they share enough territory that comparing them helps the reader understand both more clearly.  
+This does not mean the two ideas are identical. It means they share enough territory that comparing them helps you to understand both more clearly.  
   
 ### > Clarifying contrast  
   
@@ -117,7 +117,7 @@ Sometimes the best way to understand what something is, is to place it beside so
   
 Mostly shaped by points to a major influence, source, or underlying discipline.  
   
-This helps readers understand where the neighbor comes from, what shaped its assumptions, or what larger tradition it belongs to.  
+This helps you understand where the neighbor comes from, what shaped its assumptions, or what larger tradition it belongs to.  
   
 ### > Helps explain  
   

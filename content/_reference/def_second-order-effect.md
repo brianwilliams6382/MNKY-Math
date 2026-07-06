@@ -39,11 +39,7 @@ An outcome can become a new condition.
 
 That new condition can then shape behavior, decisions, incentives, expectations, and future outcomes.
 
-The question is not only:
+The question is not only: **What happened?**
 
-> What happened?
-
-The better question is:
-
-> What did that outcome make more likely next?
+A MNKY also asks: **_What did that outcome make more likely next?_**
 

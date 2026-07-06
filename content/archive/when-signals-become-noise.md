@@ -23,10 +23,6 @@ linkedinURL: https://www.linkedin.com/pulse/when-signals-become-noise-mnky-math-
 aliases: []
 permalink:
 journeys:
-  - j_id: publication-path
-    j_name: Publication Path
-    j_seq: 17
-    j_desc: As systems scale, signals degrade. Learn how over-measurement, overlapping metrics, and system complexity turn meaningful data into noise—and what that costs.
 ---
 
 # When Signals Become Noise
@@ -137,7 +133,4 @@ Once it starts reflecting the system instead… clarity becomes confidence witho
 <br>
 <br>
 <br>
-➕
-
-_[[the-system-that-cried-wolf|What happens when the signal becomes noise?]]_
-
+<p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>When everything is urgent, nothing is trusted. Explore how [[the-system-that-cried-wolf|excessive alerts and false signals erode credibility, slow response, and reshape behavior]].</p>

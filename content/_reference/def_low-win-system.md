@@ -10,12 +10,13 @@ contentSection:
 contentType:
   - definition
 growth_stage:
+  - seed
 readerMode:
 fm_level:
 description: ""
 socialDescription: ""
 mmShort:
-tags: []
+tags:
 date:
 last_reviewed: 2026-05-29
 socialImage: ""

@@ -37,11 +37,7 @@ Sometimes the system treats it as acceptable because the primary metric, target,
 
 Collateral effects matter because they reveal what else the system is producing while it produces the thing it was designed to produce.
 
-The question is not only:
+The question is not only: **Did the system get the result?**
 
-> Did the system get the result?
-
-The better question is:
-
-> What else did the system produce while getting it?
+A MNKY also asks: **_What else did the system produce while getting it?_**
 

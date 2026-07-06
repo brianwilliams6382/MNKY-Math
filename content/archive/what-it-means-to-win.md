@@ -14,7 +14,7 @@ readerMode:
 fm_level:
 description: ""
 socialDescription: ""
-mmShort:
+mmShort: When teams share a field but not a scoreboard, outcomes mislead. A reflection on how leaders define winning; and why metrics don’t tell the full story.
 tags: []
 date: 2026-01-20
 last_reviewed: 2026-06-17
@@ -23,10 +23,6 @@ linkedinURL: https://www.linkedin.com/pulse/what-means-win-mnky-math-a4efe
 aliases: []
 permalink:
 journeys:
-  - j_id: publication-path
-    j_name: Publication Path
-    j_seq: 3
-    j_desc: How you define winning shapes the system and how you win.
 ---
 
 ![[/static/M3-Win.webp]]
@@ -109,3 +105,7 @@ There’s a more revealing question underneath:
 Because if two teams both achieved what they set out to do, the scoreboard may be telling only part of the story.
 
 And sometimes, the most important differences aren’t in how the game is played — but in how victory is defined.
+
+
+<br>
+<p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>Once we've decided what winning looks like, the next challenge is [[the-mirage-of-precision|knowing whether we're actually measuring it.]]</p>

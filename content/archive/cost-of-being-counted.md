@@ -23,10 +23,6 @@ linkedinURL: https://www.linkedin.com/pulse/cost-being-counted-mnky-math-iazte
 aliases: []
 permalink:
 journeys:
-  - j_id: publication-path
-    j_name: Publication Path
-    j_seq: 13
-    j_desc: It is said that if you can count it, then you can manage it. But counting also influences conditions.
   - j_id: first-walk
     j_name: First Walk
     j_seq: 5
@@ -247,3 +243,6 @@ What are you counting that shapes others?
 
 What is counting you — without you choosing it?
 
+
+<br>
+<p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>We next explore [[you-are-inside-the-system|how system incentives and structure quietly influence what you do]], even when you don’t agree with them.</p>

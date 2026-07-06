@@ -23,10 +23,6 @@ linkedinURL: https://www.linkedin.com/pulse/stand-somewhere-purpose-mnky-math-sy
 aliases: []
 permalink:
 journeys:
-  - j_id: publication-path
-    j_name: Publication Path
-    j_seq: 22
-    j_desc: You don't escape systems. You choose how you stand within them.
 ---
 
 ![[/static/M22-Stand-Somewhere.webp]]
@@ -266,3 +262,6 @@ And whether you realize it or not — others orient around it.
 
 Including you.
 
+
+<br>
+<p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>Before we can decide where to stand, we need a shared understanding of what we're standing inside. That begins with a simple question: [[what-do-we-mean-by-system|What do we mean by system?]]</p>

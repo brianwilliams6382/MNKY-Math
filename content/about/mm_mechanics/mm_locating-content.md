@@ -3,7 +3,7 @@ draft: false
 enableToc: true
 readTimeMM: true
 explorerHide: false
-title: Our Content Types
+title: Locating Content
 signatureCode:
 contentSection:
 contentType:
@@ -22,7 +22,7 @@ permalink:
 journeys:
  - {j_id: "first-walk", j_name: "First Walk", j_seq: 8, j_desc: "Different pages do different kinds of work. These differences are called content types."}
 ---
-# Our Content Types
+# Locating Content
 
 MNKY Math is organized as a garden, not a single stream of posts.
 
@@ -32,7 +32,7 @@ Some pages explore ideas. Some stabilize concepts. Some connect MNKY Math to nei
 
 These differences are called **content types**.
 
-Content types help readers understand what kind of page they are looking at, how that page is meant to be used, and where it belongs in the larger garden.
+Content types help you understand what kind of page you are looking at, how that page is meant to be used, and where it belongs in the larger garden.
 
 They also help MNKY Math stay organized as it develops, expands, and clarifies.
 
@@ -61,7 +61,7 @@ The Archive is where ideas are explored before they become stable parts of the f
 > Essays are developed pieces of writing that explore an idea, pattern, tension, or claim. <br><br>An essay usually has a point of view. It may introduce a lens, challenge a common assumption, connect multiple ideas, or show how a system shapes behavior and outcomes. <br><br>Essays are one of the primary ways MNKY Math develops in public.<br><br>
 
 > [!info]- Stories  
-> Stories use narrative, scene, or lived experience to help readers enter an idea. <br><br>A story may not explain the entire framework directly. Instead, it gives the reader something concrete to stand inside before moving toward the larger pattern. <br><br>Stories are useful when an idea needs to be felt before it can be fully named. <br><br>
+> Stories use narrative, scene, or lived experience to help you enter an idea. <br><br>A story may not explain the entire framework directly. Instead, it gives you something concrete to stand inside before moving toward the larger pattern. <br><br>Stories are useful when an idea needs to be felt before it can be fully named. <br><br>
 
 > [!info]- Case studies  
 > Case studies apply MNKY Math to a specific system, situation, organization, product, policy, practice, or event. <br><br>A case study is more than an example. It looks at how parts of a system interact and what those interactions produce. <br><br>Case studies help show how MNKY Math can be used to examine real-world behavior, outcomes, incentives, tradeoffs, and unintended effects.<br><br>
@@ -91,9 +91,9 @@ Foundation pages may still evolve, but they are meant to become durable referenc
 
 Neighbor pages do not claim that MNKY Math invented everything it touches. They help show what MNKY Math is learning from, building near, borrowing from, contrasting with, or extending beyond.
 
-The Neighborhood helps readers understand the surrounding intellectual terrain.
+The Neighborhood helps you to understand the surrounding intellectual terrain.
 
-> [!info]- Neighbors  
+> [!info]- Neighbor  
 > Neighbors are related concepts, fields, theories, frameworks, or patterns that help position MNKY Math. <br><br>A neighbor may be close to MNKY Math, adjacent to it, useful as a bridge, helpful as a contrast, or connected at a deeper structural level. <br><br>Neighbor pages help clarify what MNKY Math shares with existing ideas and where MNKY Math’s lens begins to differ. <br><br>The goal is not to create a complete encyclopedia. The goal is to make the surrounding territory easier to see.<br><br>
 
 ---
@@ -101,18 +101,18 @@ The Neighborhood helps readers understand the surrounding intellectual terrain.
 
 [[tools/index|Tools]] are where MNKY Math becomes usable.
 
-A tool helps readers apply the framework to a situation, conversation, decision, system, design problem, leadership question, or pattern they are trying to understand.
+A tool helps you apply the framework to a situation, conversation, decision, system, design problem, leadership question, or pattern they are trying to understand.
 
 Tools are not meant to create false precision. They are meant to structure attention, improve questions, support clearer judgment, and make system-shaped behavior easier to work with.
 
 > [!info]- Diagnostics  
-> Diagnostics help readers examine a system, situation, pattern, behavior, outcome, or condition more clearly. <br><br>A diagnostic may use questions, prompts, checklists, decision paths, or interpretive steps. <br><br>The purpose is not always to produce a score. The purpose is to reveal what may be happening. <br><br>A question set is one possible form of diagnostic. <br><br>
+> Diagnostics help examine a system, situation, pattern, behavior, outcome, or condition more clearly. <br><br>A diagnostic may use questions, prompts, checklists, decision paths, or interpretive steps. <br><br>The purpose is not always to produce a score. The purpose is to reveal what may be happening. <br><br>A question set is one possible form of diagnostic. <br><br>
 
 > [!info]- Guides  
-> Guides help readers move through a practice, process, or application of MNKY Math. <br><br>A guide may include steps, prompts, examples, worksheets, planning questions, facilitation notes, or templates. <br><br>Guides are useful when the reader is not only trying to understand an idea, but use it.<br><br>
+> Guides help you move through a practice, process, or application of MNKY Math. <br><br>A guide may include steps, prompts, examples, worksheets, planning questions, facilitation notes, or templates. <br><br>Guides are useful when you are not only trying to understand an idea, but trying use it as well. Because "use" is one of the best ways to establish understanding.<br><br>
 
 > [!info]- Scorecards  
-> Scorecards help readers evaluate something across multiple dimensions. <br><br>A scorecard may be used to examine a system, practice, decision, outcome, meeting, metric, tool, or organizational pattern. <br><br>In MNKY Math, a scorecard should not pretend that the score is the whole truth. <br><br>A good scorecard structures attention. It helps people see where a system may be strong, fragile, distorted, incomplete, or misaligned. <br><br>
+> Scorecards help evaluate something across multiple dimensions. <br><br>A scorecard may be used to examine a system, practice, decision, outcome, meeting, metric, tool, or organizational pattern. <br><br>In MNKY Math, a scorecard should not pretend that the score is the whole truth. <br><br>A good scorecard structures attention. It helps people see where a system may be strong, fragile, distorted, incomplete, or misaligned. <br><br>
 
 ---
 ## Reference  
@@ -132,7 +132,7 @@ For internal content management, each reference page uses a short prefix. That p
 > [!info]-Definition
 >_Prefix:_ <span style="font-family: var(--codeFont); color: var(--darkgraymm); font-size: 0.85rem;">def_</span> <br><br>
   >A Definition page clarifies important terms, concepts, and labels used throughout MNKY Math.<br><br>
->They are usually short and are often designed to work well in previews, so readers can get context without leaving the page they are reading.<br><br>
+>They are usually short and are often designed to work well in previews, so you can get context without leaving the page you are reading.<br><br>
   
 > [!info]-Reference  
 >_Prefix:_ <span style="font-family: var(--codeFont); color: var(--darkgraymm); font-size: 0.85rem;">ref_</span> <br><br>

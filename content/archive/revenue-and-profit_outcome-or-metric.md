@@ -23,10 +23,6 @@ linkedinURL: https://www.linkedin.com/pulse/revenue-profit-outcome-metric-mnky-m
 aliases: []
 permalink:
 journeys:
-  - j_id: publication-path
-    j_name: Publication Path
-    j_seq: 11
-    j_desc: As variables, Revenue and Profit demonstrate how meaning shapes or re-shapes how the system operates.
 ---
 ![[/static/M11-Drink-Swirl.webp]]
 # Revenue & Profit: Outcome or Metric
@@ -243,4 +239,7 @@ Sometimes, restoring dimensionality is what allows the real bottleneck to surfac
 And that widening is where better decisions begin.
 
 
+
+<br>
+<p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>Revenue and profit don't exist in isolation. They emerge from assumptions, definitions, and decisions that evolve over time. [[iterative-math_what-version-are-you|So do we.]]</p>
 

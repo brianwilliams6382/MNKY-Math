@@ -1,6 +1,6 @@
 ---
 draft: false
-enableToc: true
+enableToc: false
 readTimeMM: false
 explorerHide: true
 title: Coxswain

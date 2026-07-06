@@ -96,7 +96,10 @@ export const defaultListPageLayout: PageLayout = {
       rootName: "",
       }),
     Component.MMReadTime(),
-    Component. ArticleTitle(),
+    Component.ArticleTitle(),
+    Component.MMIndexFiltered({ allFiles: [], displayClass: "mm-filtered-index" }),
+    Component.MMIndexArchive({ allFiles: [], displayClass: "mm-archive-index-container" }),
+    Component.MMIndexSimple({ allFiles: [], displayClass: "mm-simple-index-container" }),
     ],
   left: [
     Component.MMPageTitle(),
@@ -159,7 +162,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.Backlinks(),
   ],
 
-  afterBody: [
-    Component.MMJourneyNav(), // New component at the very end of the content
+  afterBody: [    
+    Component.MMJourneyNav(), 
   ]
 }

@@ -23,10 +23,6 @@ linkedinURL: https://www.linkedin.com/pulse/when-non-compliance-rational-mnky-ma
 aliases: []
 permalink:
 journeys:
-  - j_id: publication-path
-    j_name: Publication Path
-    j_seq: 20
-    j_desc: When systems create friction, people route around them. Non-compliance isn’t defiance—it’s adaptation, revealing where design and reality no longer align.
 ---
 
 ## When Non-Compliance Is Rational
@@ -162,16 +158,11 @@ Non-compliance isn’t failure.
 
 It’s feedback.
 
-<br><br><br>
-➕
+<br><br>
 
-_What happens when the system corrects the behavior… instead of the cause?_
+> [!mmref]+ Reference:
+> - _Alarm fatigue in healthcare — The Joint Commission, ECRI Institute_
+> - _Cybersecurity alert fatigue — IBM, Cisco_
+> - _Data breach notification fatigue — Federal Trade Commission, General Data Protection Regulation_
 
----
-
-_References worth exploring_
-
-- _Alarm fatigue in healthcare — The Joint Commission, ECRI Institute_
-- _Cybersecurity alert fatigue — IBM, Cisco_
-- _Data breach notification fatigue — Federal Trade Commission, General Data Protection Regulation_
-
+<p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>[[tradeoffs-you-refuse-to-see|What happens when the system corrects the behavior… instead of the cause?]]</p>

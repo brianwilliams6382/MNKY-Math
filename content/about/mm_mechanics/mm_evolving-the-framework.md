@@ -3,7 +3,7 @@ draft: false
 enableToc: true
 readTimeMM: true
 explorerHide: false
-title: Our Content Stages
+title: Evolving the Framework
 signatureCode:
 contentSection:
 contentType:
@@ -22,7 +22,7 @@ permalink:
 journeys:
 ---
 
-# Content Stages
+# Evolving the Framework
 
 MNKY Math develops in public.
 
@@ -30,15 +30,15 @@ That means not every page has the same level of maturity, certainty, or structur
 
 Some ideas are raw. Some are forming. Some are stable enough to support other work. Some become major organizing ideas. Others are eventually absorbed, replaced, or set aside after the framework learns from them.
 
-Content stages help make that visible.
+Content stages help make that visible. 
 
 They show where an idea appears to be in its current development, not how important it is forever.
 
-A seed can become a canopy.
+- A seed can become a canopy.
 
-A canopy can still be revised.
+- A canopy can still be revised.
 
-An idea can be composted without being erased.
+- An idea can be composted without being erased.
 
 The stages are not a ranking system.
 
@@ -83,7 +83,7 @@ They invite testing, tuning, and better language.
 
 A **sapling** is a structured concept or thesis with definition, examples, and early uses.
 
-It has enough shape that readers can begin to understand what it means and how it might be applied.
+It has enough shape so together we can begin to understand what it means and how it might be applied.
 
 A sapling may include links to related pages, examples from Archive pieces, early diagnostic questions, or connections to other concepts.
 
@@ -121,7 +121,7 @@ Other pages may grow beneath it, branch from it, or use it as a central orientat
 
 A canopy may connect essays, concepts, tools, definitions, neighbors, and maps.
 
-Canopy ideas are useful because they help readers see larger patterns across the framework.
+Canopy ideas are useful because they help us to see larger patterns across the framework.
 
 They provide shade, structure, and connection.
 
@@ -158,19 +158,19 @@ Content stages are not promises that a page will never change.
 
 They are signals.
 
-They help readers understand whether a page is raw, forming, structured, stable, organizing, paused, or absorbed.
+They help you understand whether a page is raw, forming, structured, stable, organizing, paused, or absorbed.
 
 Because MNKY Math develops in public, the stage of a page may change over time.
 
-An idea may grow from seed to seedling to sapling.
+- An idea may grow from seed to seedling to sapling.
 
-A sapling may become rooted.
+- A sapling may become rooted.
 
-A rooted idea may become canopy.
+- A rooted idea may become canopy.
 
-A dormant idea may return.
+- A dormant idea may return.
 
-A composted idea may continue feeding the garden through newer language, stronger concepts, or better structure.
+- A composted idea may continue feeding the garden through newer language, stronger concepts, or better structure.
 
 The point is not to freeze the work.
 

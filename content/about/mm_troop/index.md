@@ -24,8 +24,14 @@ permalink:
 journeys:
 ---
   
-MNKY Math is not meant to be a closed framework.  
-  
+MNKY Math is not meant to be a closed framework.
+
+**_It is a collaborative laboratory._**
+
+The best systemic insights often come from the intersection of different industries, roles, disciplines, and lived experiences.
+
+That is why the Troop matters: more people noticing more systems from more positions creates better seeing.
+
 It is meant to keep evolving because the systems shaping our lives keep changing.  
   
 New technologies appear.  
@@ -38,7 +44,7 @@ That means MNKY Math has to keep being tested, challenged, tuned, and adapted.
   
 > **The Troop is the living side of MNKY Math.**
   
-It is the people who notice patterns, test ideas, challenge language, contribute examples, and help the framework stay responsive to the systems shaping our lives.  
+It is the MNKYs who notice patterns, test ideas, challenge language, contribute examples, and help the framework stay responsive to the systems shaping our lives.  
   
 ## How people participate in MNKY Math 
   
@@ -70,10 +76,11 @@ That is the heart of [[mm_better_participation|better participation]] in the sys
   
 ## Paths into the Troop  
   
-If you are curious but not sure where you fit, start with [[mm_reader-modes|Mirroring, Modeling, and Mastering]].  
+If you are curious but not sure where you fit, start with [[mm_reading-modes|Mirroring, Modeling, and Mastering]].  
   
 If you want to follow, contribute, challenge, or connect more directly, visit [[about/mm_troop/mm_become_a_mnky|Become a MNKY]].  
   
 If you want to see what this work is trying to strengthen in people and systems, visit [[about/mm_drivers/index|What Drives Us]].
 
 ---
+

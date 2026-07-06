@@ -1,6 +1,6 @@
 ---
 draft: false
-enableToc: false
+enableToc: true
 readTimeMM: false
 explorerHide: true
 title: Measurement

@@ -8,7 +8,7 @@ signatureCode:
 contentSection:
   - neighborhood
 contentType:
-  - concept
+  - n_Close
 readerMode:
   - mastering
 fm_level:

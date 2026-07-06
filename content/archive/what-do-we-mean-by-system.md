@@ -16,14 +16,17 @@ description: ""
 socialDescription: ""
 mmShort:
 tags: []
-date:
-last_reviewed:
+date: 2026-05-04
+last_reviewed: 2026-07-01
 socialImage: ""
 linkedinURL: https://www.linkedin.com/company/mnky-math
 aliases: []
 permalink:
 journeys:
- - {j_id: "first-walk", j_name: "First Walk", j_seq: 1, j_desc: "Once you see how a simple game can shape behavior, it becomes harder not to ask what the larger systems around us are teaching too."}
+  - j_id: first-walk
+    j_name: First Walk
+    j_seq: 1
+    j_desc: Once you see how a simple game can shape behavior, it becomes harder not to ask what the larger systems around us are teaching too.
 ---
 
 
@@ -31,15 +34,15 @@ journeys:
 
 You’ve heard the word before.
 
-> _System._
+> **_System_**
 
 It shows up everywhere.
 
-- Business systems.
-- Education systems.
-- Healthcare systems.
-- Belief systems.
-- Operating systems.
+- Business systems
+- Education systems
+- Healthcare systems
+- Belief systems
+- Operating systems
 
 We use the word constantly.
 
@@ -47,9 +50,9 @@ But rarely stop to define it.
 
 Because not everything structured is a system.
 
-- A checklist isn’t a system.
-- A tool isn’t a system.
-- A policy isn’t a system.
+A checklist isn’t a system.<br>
+A tool isn’t a system.<br>
+A policy isn’t a system.
 
 Even a process — on its own — isn’t quite a system.
 
@@ -79,11 +82,11 @@ And it is — but not because machines exist.
 
 It becomes a system through interaction:
 
-- Materials arrive.
-- Workflows sequence tasks.
-- Machines process inputs.
-- People make decisions.
-- Constraints shape flow.
+- Materials arrive
+- Workflows sequence tasks
+- Machines process inputs
+- People make decisions
+- Constraints shape flow
 
 What matters is not any single step.
 
@@ -91,18 +94,18 @@ It’s how they connect.
 
 When those interactions stabilize, something emerges:
 
-<span class="mm-callout-emoji" style="--emoji: ' ';">A consistent output.</span>
+<span class="mm-callout-emoji" style="--emoji: ' ';">**A consistent output.**</span>
 
-➡️ Volume.<br>
-➡️ Quality.<br>
-➡️ Defects.<br>
-➡️ Delays.<br>
+➡️ Volume<br>
+➡️ Quality<br>
+➡️ Defects<br>
+➡️ Delays<br>
 
 These outcomes are not random.
 
 <span style="text-decoration: underline;">They are produced.</span>
 
-This is the core insight behind works like “The Goal” — that bottlenecks, flow, and throughput are not isolated problems, <span style="text-decoration: underline;">but properties of the system itself</span>.
+This is the core insight behind works like “The Goal” — that bottlenecks, flow, and throughput are not isolated problems, but properties of the system itself.
 
 And the factory doesn’t stand alone.
 
@@ -127,8 +130,7 @@ Now consider something less obvious.
 
 It doesn’t look like a system in the traditional sense.
 
-There are no assembly lines.
-
+There are no assembly lines.<br>
 No physical outputs.
 
 But the same conditions apply.
@@ -150,8 +152,8 @@ So behavior adjusts.
 
 For some, that shows up in what gets posted.
 
-- How it’s said.
-- When it’s shared.
+- **_How_** it’s said.
+- **_When_** it’s shared.
 
 For others, it looks quieter.
 
@@ -166,21 +168,17 @@ Because the system doesn’t just respond to what you say.
 
 > **It responds to what you do.**
 
-→ What you pause on.
+→ What you pause on.<br>→ What you replay.<br>→ What you scroll past without finishing.
 
-→ What you replay.
+➖ ➖ ➖
 
-→ What you scroll past without finishing.
-
-➖
-
-Even when you think you’re not choosing — _the system is learning from what you don’t resist_.
+Even when you think you’re not choosing — **_the system is learning from what you don’t resist_.**
 
 And over time, something shifts.
 
 Not just behavior.
 
-<span class="mm-callout-emoji" style="--emoji: ' ';">**==Preference.==**</span>
+<span class="mm-callout-emoji" style="--emoji: ' ';">**==Preference==**</span>
 
 What holds attention begins to define what feels interesting.
 
@@ -202,7 +200,7 @@ Whether you post or not doesn’t change this.
 
 > Because participation isn’t defined by contribution. **It’s defined by interaction.**
 
-And over time, it becomes harder to tell where your preferences end…
+And over time, it becomes harder to tell where your [[def_preference|preferences]] end…
 
 …where the system’s preferences begin,
 
@@ -215,11 +213,11 @@ And over time, it becomes harder to tell where your preferences end…
 
 Once you see systems this way, a pattern becomes clear:
 
-➡️ If something keeps happening. <span style="text-decoration: underline;">It is being produced.</span>
+☝️ If something keeps happening. <span style="text-decoration: underline;">It is being produced.</span>
 
 Not by chance. Not by isolated decisions.
 
-<span class="mm-callout-emoji" style="--emoji: ' ';">**By a system.**</span>
+<span class="mm-callout-emoji" style="--emoji: ' ';">👍 **By a system.**</span>
 
 And systems don’t operate at the level of individual components.
 
@@ -239,11 +237,11 @@ Not what is documented.
 
 <span class="mm-callout-emoji" style="--emoji: ' ';">**What is produced.**</span>
 
-Once you see it… you start noticing systems everywhere.
+Once you see it… you start noticing systems everywhere. 
 
 Including the ones shaping you.
 
-Some of which you don’t experience as systems at all.
+Some of which you don’t experience as systems at all, like in [[musical-chairs|musical chairs]].
 
 Even the ones that feel like you.
 
@@ -254,7 +252,7 @@ If it keeps happening, it’s not random — **==it’s a system.==**
 
 <br>
 
-> [!mmchallenge]+ ... a MNKY Math challenge
+> [!mmchallenge]+ Challenge
 >- A cat meows incessantly.<br>
 >- A treat is given.<br>
 >- The cat quiets.<br>
@@ -269,9 +267,5 @@ If it keeps happening, it’s not random — **==it’s a system.==**
 > [!mmref]+ _Reference_
 > - The Goal (Eliyahu M. Goldratt)
 
-<p class="mm-sequence-bridge"><strong>To continue to the next stop in our publishing sequence</strong><br>Now that we have a general definition of what a system is we can begin to interpret why [[not-all-systems-behave-the-same|systems often differ in how they behave]].</p>
+<p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>Recognizing a system is only the beginning. The next step is understanding [[not-all-systems-behave-the-same|why different systems behave in different ways]].</p>
 
-> [!mmpath]- This essay is also part of...
-> sample text<br>
-> sample text<br>
-> sample text<br>

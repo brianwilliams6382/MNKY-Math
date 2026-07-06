@@ -4,7 +4,7 @@ enableToc: true
 readTimeMM: true
 explorerHide: false
 title: The System That Cried Wolf
-signatureCode: V00C0.m18
+signatureCode: V00C0.M18
 contentSection:
   - archive
 contentType:
@@ -23,10 +23,6 @@ linkedinURL: https://www.linkedin.com/pulse/system-cried-wolf-mnky-math-xccve
 aliases: []
 permalink:
 journeys:
-  - j_id: publication-path
-    j_name: Publication Path
-    j_seq: 18
-    j_desc: When everything is urgent, nothing is trusted. Explore how excessive alerts and false signals erode credibility, slow response, and reshape behavior.
 ---
 
 ## The System That Cried Wolf
@@ -66,7 +62,7 @@ Some exist because something matters.
 
 And in systems, those signals often look like metrics.
 
-➡️ Dashboards.<br> ➡️ Alerts.<br> ➡️ Reports.
+➡️ Dashboards.<br>➡️ Alerts.<br>➡️ Reports.
 
 And just like the doorbell — They only work if you believe them.
 
@@ -136,7 +132,4 @@ It fades into the background.
 <br>
 <br>
 <br>
-➕
-
-_What happens when [[fixing-the-interface-instead-of-the-system|the system keeps signaling… but no one is listening?]]_
-
+<p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>Clean dashboards don’t fix broken systems. So what happens when [[fixing-the-interface-instead-of-the-system|the system keeps signaling… but no one is listening?]]</p>

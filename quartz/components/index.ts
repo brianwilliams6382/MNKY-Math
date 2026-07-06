@@ -1,6 +1,9 @@
 import MMPageTitle from "./MMPageTitle"
 import MMReadTime from "./MMReadTime"
 import MMJourneyNav from "./MMJourneyNav"
+import MMIndexFiltered from "./MMIndexFiltered"
+import MMIndexArchive from "./MMIndexArchive"
+import MMIndexSimple from "./MMIndexSimple"
 import MMFooter from "./MMFooter"
 import MMSidebarFooter from "./MMSidebarFooter"
 import MMLinkedInBridge from "./MMLinkedInBridge"
@@ -35,6 +38,9 @@ export {
   ArticleTitle,
   MMPageTitle,
   MMJourneyNav,
+  MMIndexArchive,
+  MMIndexFiltered,
+  MMIndexSimple,
   MMFooter,
   MMSidebarFooter,
   MMReadTime,

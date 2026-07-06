@@ -23,10 +23,6 @@ linkedinURL: https://www.linkedin.com/pulse/mirage-precision-when-nps-scores-don
 aliases: []
 permalink:
 journeys:
-  - j_id: publication-path
-    j_name: Publication Path
-    j_seq: 4
-    j_desc: Begin to see what the system becomes when the metric becomes the goal.
 ---
 
 ![[/static/M4-NPS.webp]]
@@ -124,12 +120,10 @@ The healthiest systems use metrics as tools for noticing, not trophies for winni
 - When was the last time a number changed the way your team felt about their work?
 - How do you balance math and meaning in the metrics you use?
 
+<br>
 
----
+> [!mmref]+ Reference:
+> - Reichheld, Fred. “The One Number You Need to Grow.” Harvard Business Review, December 2003
+> - Bain & Company, Net Promoter System Overview: https://www.netpromotersystem.com
 
-_Resources_
-
-- Reichheld, Fred. “The One Number You Need to Grow.” Harvard Business Review, December 2003
-- Bain & Company, Net Promoter System Overview: https://www.netpromotersystem.com
-
-
+<p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>If a metric can change how people behave, what happens when something that was [[how-attention-math-follows-us|never meant to measure begins influencing too]]?</p>

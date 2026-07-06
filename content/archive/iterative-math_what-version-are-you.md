@@ -23,10 +23,6 @@ linkedinURL: https://www.linkedin.com/pulse/iterative-math-i-what-version-you-ru
 aliases: []
 permalink:
 journeys:
-  - j_id: publication-path
-    j_name: Publication Path
-    j_seq: 12
-    j_desc: We aren't just surrounded systems. We are systems too.
 ---
 
 ![[/static/M12-MNKY-Versioning.webp]]
@@ -182,3 +178,6 @@ A single question can begin the next iteration.
 **What version are you running?**
 
 
+
+<br>
+<p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>What gets counted shapes behavior. This explores how metrics influence choices — and [[cost-of-being-counted|what happens when counting begins to define you]].</p>

@@ -14,7 +14,7 @@ readerMode:
 fm_level:
 description: ""
 socialDescription: ""
-mmShort:
+mmShort: Engagement surveys and performance reviews aim to measure connection, but often end up shaping behavior instead. A reflection on metrics, trust, and compliance.
 tags: []
 date: 2026-01-14
 last_reviewed: 2026-06-17
@@ -23,10 +23,6 @@ linkedinURL: https://www.linkedin.com/pulse/employee-engagement-mnky-math-662ue
 aliases: []
 permalink:
 journeys:
-  - j_id: publication-path
-    j_name: Publication Path
-    j_seq: 2
-    j_desc: The Annual Employee Engagement survey is another system many of us encounter but rarely think of as a system.
 ---
 ![[/static/M2-All-Hands.webp]]
 
@@ -121,3 +117,8 @@ And when metrics start measuring loyalty to the metric itself, something fundame
 ## A Quiet Question
 
 Are your engagement and performance systems measuring connection… or compliance?
+
+
+
+<br>
+<p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>Organizations measure what they believe matters. But before deciding how to measure success, we should probably ask a simpler question: [[what-it-means-to-win|What does winning actually look like?]]</p>

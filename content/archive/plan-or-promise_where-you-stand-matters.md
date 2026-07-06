@@ -23,10 +23,6 @@ linkedinURL: https://www.linkedin.com/pulse/plan-promise-where-you-stand-matters
 aliases: []
 permalink:
 journeys:
-  - j_id: publication-path
-    j_name: Publication Path
-    j_seq: 8
-    j_desc: A plan's meaning is subjective, context is often dictated by where you stand.
 ---
 ![[/static/M8-The-Receiver.webp]]
 # Plan or Promise? Where You Stand Matters
@@ -147,4 +143,7 @@ Once you see the planets, the confusion starts to make sense.
 **And once it makes sense, it becomes much harder to pretend it isn’t there.**
 
 
+
+<br>
+<p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>When results shift and time compresses, correlation often fills the gap. A look at [[causation-or-correlation|how explanations form under pressure — and how they quietly shape decisions.]]</p>
 

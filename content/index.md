@@ -26,6 +26,7 @@ journeys:
 
 ![[/static/home_chairs.webp]]
 
+MNKY Math exists to inspire _systems awareness_.
 
 We are surrounded by systems that shape what we notice, reward, repeat, avoid, and eventually accept as normal.
 
@@ -43,15 +44,17 @@ That matters because systems do not only produce outcomes. They train behavior.
 
  <span class="mm-callout-emoji" style="--emoji: ' ';">**And today's systems are shaping people faster than people can see.**</span>
 
-Sometimes the numbers look right while the system is teaching the wrong things.
+A system can appear to be working while quietly teaching people to notice, repeat, or protect the wrong things.
 
-MNKY Math exists to make those patterns visible — so we can better understand how systems shape us, how we participate in them, and how that participation changes what happens next.
+MNKY Math strives to make those patterns visible — so we can better understand how systems shape us, how we participate in them, and who a system is working for.
 
-<span class="mm-callout-emoji" style="--emoji: '  ';">**Because how we produce something becomes part of what we produce.**</span>
+Because...
+
+<span class="mm-callout-emoji" style="--emoji: '  ';">**● Your experience inside systems matters.<br>● How we produce something becomes part of what we produce.**</span>
 
 Not sure why this matters or where to begin?
 
-Begin with a [[archive/musical-chairs|story]].<br><Br><br>
+Begin with a [[archive/musical-chairs|story]].<br><br><br>
 
 <span class="mm-inline-mnky"></span> Or [[first-walk|Start Here with a First Walk]], <br>a curated path touching who we are, what we do, and tips for exploring our _digital garden_.
 
@@ -59,10 +62,10 @@ Begin with a [[archive/musical-chairs|story]].<br><Br><br>
 
 ## How to explore
 
-MNKY Math is meant to be explored as an expansive [[mm_garden|garden]], not consumed as a feed.
+MNKY Math is meant to be explored as an expansive [[mm_exploring-the-garden|garden]], not consumed as a feed.
 
-You can navigate using the [[mm_garden#Explorer|Explorer]] in the left panel for a more traditional path, such as entering the [[archive/index|Archive]] to browse published pieces, or follow linked concepts as they appear throughout the text. 
+You can navigate using the [[mm_exploring-the-garden#Explorer|Explorer]] in the left panel for a more traditional path, such as entering the [[archive/index|Archive]] to browse published pieces, or follow linked concepts as they appear throughout the text. 
 
-The [[mm_garden#Graph View|Graph View]] offers another way in — showing how ideas connect across the garden.
+The [[mm_exploring-the-garden#Graph View|Graph View]] offers another way in — showing how ideas connect across the garden.
 
 For the deeper story [[about/mm_emergence|behind the name]], the lens, and the work, read [[mm_our-why|Why MNKY Math]].

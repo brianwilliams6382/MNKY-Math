@@ -14,7 +14,7 @@ readerMode:
 fm_level:
 description: ""
 socialDescription: ""
-mmShort: "Selected content to help new visitors orient to and begin their discovery of MNKY Math."
+mmShort: Selected content to help new visitors orient and begin their discovery of MNKY Math.
 tags: []
 date: 2026-06-19
 last_reviewed: 2026-06-19
@@ -22,7 +22,10 @@ socialImage: ""
 aliases: []
 permalink:
 journeys:
- - {j_id: "first-walk", j_name: "First Walk", j_seq: 0, j_desc: "Start here if you are new to MNKY Math and want a guided way into the thinking, the structure, and the garden." }
+  - j_id: first-walk
+    j_name: First Walk
+    j_seq: 0
+    j_desc: Start here if you are new to MNKY Math and want a guided way into the thinking, the structure, and the garden.
 ---
 
 # Start with a First Walk

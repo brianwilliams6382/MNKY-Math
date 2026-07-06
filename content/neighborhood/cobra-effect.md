@@ -8,7 +8,7 @@ signatureCode:
 contentSection:
   - neighborhood
 contentType:
-  - concept
+  - n_Bridge
 readerMode:
   - mastering
 fm_level:

@@ -1,8 +1,8 @@
 ---
 draft: false
 enableToc: true
-readTimeMM: true
-explorerHide: false
+readTimeMM: false
+explorerHide: true
 title: Friction
 signatureCode:
 contentSection:

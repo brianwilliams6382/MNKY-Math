@@ -636,6 +636,180 @@ blockquote {
   }
 }
 
+/* ─── MNKY MATH INLINE BANANA EMOJI ─── */
+.mm-inline-banana {
+  display: inline-block !important;
+  width: 1.1em !important;
+  height: 1.1em !important;
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  vertical-align: -0.15em !important;
+  margin: 0 0.15em !important;
+
+  /* Universal/Light fallback baseline */
+  background-image: url("/static/mm_banana.png") !important;
+
+  /* Dark mode inside Quartz's ecosystem */
+  :root[data-theme="dark"] & {
+    /* If you ever want a neon/white variant for dark mode, it goes here */
+    background-image: url("/static/mm_banana.png") !important; 
+  }
+}
+
+/* --- MM UNIFIED CATALOG INDEX LAYOUTS --- */
+
+.mm-index-catalog-wrapper {
+  margin-top: 1.5rem !important;
+  margin-bottom: 2.5rem !important;
+}
+
+.mm-index-row {
+  margin-bottom: 0.8rem !important; /* Forces your exact 1/2 line vertical space rule */
+}
+
+.mm-index-title-link {
+  font-family: var(--headerFont) !important;
+  font-size: 1.1rem !important;
+  font-weight: 600 !important;
+  color: var(--tertiary) !important;
+  text-decoration: none !important;
+  padding-left: 0.9rem !important;
+  
+  &:hover {
+    text-decoration: underline !important;
+  }
+}
+
+.mm-index-summary {
+  font-family: var(--bodyFont) !important;
+  font-size: 0.9rem !important;
+  line-height: 1.4 !important;
+  color: var(--gray) !important; /* Muted reading gray for secondary descriptions */
+  margin-top: 0.15rem !important;
+  margin-bottom: 0 !important;
+  padding-left: 0.9rem !important;
+}
+
+/* --- MM INDEX ARCHIVE ENGINE MASTER LAYOUTS --- */
+
+.mm-archive-header-zone {
+  margin-top: 0.60rem !important;
+  margin-bottom: 2.0rem !important;
+  border-top: 3px solid var(--gray) !important;
+  border-bottom: 1px none !important;
+  padding-bottom: 1.2rem !important;
+  
+  /* Flexbox matrix maps out the title and stats inline together smoothly */
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 0.3rem !important;
+}
+
+.mm-archive-master-title {
+  font-family: var(--headerFont) !important;
+  font-size: 1.7rem !important;
+  font-weight: 800 !important;
+  text-transform: uppercase;
+  letter-spacing: 0.3rem;
+  color: var(--dark) !important;
+  margin: 0.8rem 0rem 0rem 0rem !important;
+  line-height: 1.05 !important;
+}
+
+.mm-archive-dashboard-meta {
+  font-family: var(--bodyFont) !important;
+  font-size: 0.85rem !important;
+  font-weight: 600 !important;
+  color: #5D7DB7 !important; /* Premium brand blue metrics */
+  text-transform: capitalize;
+  letter-spacing: 0.05rem;
+  padding-left: 0.1rem !important;
+}
+
+.mm-archive-list-wrapper {
+  margin-top: 1.0rem !important;
+  margin-bottom: 4.0rem !important;
+}
+
+.mm-archive-item-block {
+  margin-bottom: 1.8rem !important;
+}
+
+.mm-archive-title-link {
+  font-family: var(--headerFont) !important;
+  font-size: 1.15rem !important;
+  font-weight: 600 !important;
+  color: var(--tertiary) !important;
+  text-decoration: none !important;
+
+  &:hover {
+    color: #5D7DB7 !important;
+    text-decoration: underline !important;
+  }
+}
+
+.mm-archive-meta-line {
+  font-family: var(--bodyFont) !important;
+  font-size: 0.82rem !important;
+  font-weight: 500;
+  letter-spacing: 0.04rem;
+  text-transform: uppercase;
+  color: var(--gray) !important;
+  margin-top: 0.2rem !important;
+  margin-bottom: 0.35rem !important;
+  padding-left: 0.8rem !important;
+}
+
+.mm-meta-divider {
+  color: #5D7DB7 !important;
+  font-weight: bold;
+  margin: 0 0.5rem !important;
+}
+
+.mm-archive-summary {
+  font-family: var(--bodyFont) !important;
+  font-size: 0.88rem !important;
+  line-height: 1.45 !important;
+  color: var(--gray) !important;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding-left: 0.8rem !important;
+}
+
+/* --- MM UNIVERSAL SIMPLE INDEX LAYOUTS --- */
+
+.mm-simple-list-wrapper {
+  margin-top: 1.5rem !important;
+  margin-bottom: 3.0rem !important;
+}
+
+.mm-simple-index-row {
+  margin-bottom: 0.8rem !important; /* Calibrated 1/2 line vertical grid space */
+}
+
+.mm-simple-title-link {
+  font-family: var(--headerFont) !important;
+  font-size: 1.15rem !important;
+  font-weight: 700 !important;
+  color: var(--tertiary) !important;
+  text-decoration: none !important;
+
+  &:hover {
+    color: #5D7DB7 !important; /* Branded blue focus highlight on hover */
+    text-decoration: underline !important;
+  }
+}
+
+.mm-simple-summary {
+  font-family: var(--bodyFont) !important;
+  font-size: 0.9rem !important;
+  line-height: 1.4 !important;
+  color: var(--gray) !important; /* Neutral reading tone for descriptions */
+  margin-top: 0.15rem !important;
+  margin-bottom: 0 !important;
+  padding-left: 0.9rem !important;
+}
 
 /* ==========================================================================
    5. PRINT OPTIMIZATION

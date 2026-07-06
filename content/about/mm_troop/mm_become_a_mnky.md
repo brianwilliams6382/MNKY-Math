@@ -24,38 +24,32 @@ journeys:
 ---
 # Become a MNKY  
   
-Becoming a MNKY does not mean accepting a doctrine or joining a fixed program.  
-  
-It means beginning to practice a different kind of participation.  
-  
-For some people, that starts with mirroring: noticing whether the lens reflects something they have already felt or observed.  
-  
-For others, it becomes modeling: using MNKY Math language to understand real systems, decisions, incentives, metrics, and tradeoffs.  
-  
-For a smaller group, it may become mastering: helping tune, challenge, extend, and apply the framework itself.  
-  
-There is no required path.  
-  
+Becoming a MNKY does not mean accepting a doctrine, joining a fixed program, or agreeing with every idea in MNKY Math.
+
+It means beginning to practice a different kind of participation.<br><br>
+
+<span class="mm-callout-clean;" style="color: var(--darkgraymm); font-size: 1.2rem; font-weight: bold;">☝️ A MNKY notices systems.<br><br>✌️ A MNKY asks what those systems are teaching.<br><br>👌 A MNKY looks for the behavior being trained, the outcomes being protected or distorted, the tradeoffs being hidden, and the _agency being expanded or reduced_.</span>
+<br><br><br>
+That practice may begin quietly.
+
+For some people, it starts with [[mm_reading-modes#> Mirroring|mirroring]]: noticing that a page reflects something they have already felt, seen, or experienced.
+
+For others, it becomes [[mm_reading-modes#> Modeling|modeling]]: using MNKY Math language to understand real systems, decisions, incentives, metrics, tradeoffs, and second-order effects.
+
+For a smaller group, it may become [[mm_reading-modes#> Mastering|mastering]]: helping tune, challenge, extend, and apply the framework itself.
+
+There is no required path.
+
 But there is an invitation.
 
 ---
-## Follow the work  
-  
-The best place to follow MNKY Math publicly is on LinkedIn.  
-  
-MNKY Math is not currently built around a newsletter, inbox campaign, or private funnel.  
-  
-LinkedIn is the primary public distribution and awareness channel for new essays, site updates, framework notes, and emerging ideas.  
-  
-If you want to know when new content is published, following the MNKY Math LinkedIn page is the simplest path.  
-  
-[Follow MNKY Math on LinkedIn](https://www.linkedin.com/company/mnky-math)
-  
 ## Ways to participate  
   
 You do not need to be an expert to participate.  
   
-MNKY Math is built from lived observation as much as formal theory. If you notice how a system shapes behavior, if you have seen a metric distort meaning, if you have worked inside a low-win system, or if you have language for something MNKY Math has not yet named clearly enough, that may be useful.  
+MNKY Math is built from lived observation as much as formal theory. 
+
+If you notice how a system shapes behavior, if you have seen a [[when-the-metric-replaces-the-meaning|metric distort meaning]], if you have worked inside a [[def_low-win-system|low-win system]], or if you have language for something MNKY Math has not yet named clearly enough, that may be useful.  
   
 A few ways to contribute:  
   
@@ -70,50 +64,58 @@ A few ways to contribute:
   
 The most useful participation is specific.  
   
-Not just:  
+Not just, "I agree. "<br>Or, "I disagree." 
   
-> I agree.  
+But participation that challenges, deepens, and sharpens the MNKY Math framework.
+
+We are interested in what holds up, what breaks down, what feels incomplete, what becomes clearer, and what real systems reveal when these ideas meet practice.
+
+Useful participation might sound like:
   
-Or:  
-  
-> I disagree.  
-  
-But:  
-  
-> This reminded me of a system I worked inside.  
-  
-> This concept helped name something I had felt but could not explain.  
-  
-> This idea seems incomplete because it misses this condition.  
-  
-> This example may fit your concept of agency inequality.  
-  
-> This phrase is close, but I think there is a clearer way to say it.  
+> - "_This reminded me of a system I worked inside._"
+> - "_This concept helped name something I had felt but could not explain._"
+> - "_This idea seems incomplete because it misses this condition._"
+> - "_This example may fit your concept of agency inequality._"
+> - "_This phrase is close, but I think there is a clearer way to say it._"
   
 MNKY Math does not need agreement as much as it needs useful friction, grounded examples, clearer language, and better seeing.  
-  
+
+---
 ## Contact  
   
 For now, the simplest way to connect is through LinkedIn.  
   
-You can follow the MNKY Math page, comment on public posts, or send a direct message with an example, suggestion, challenge, or question.  
-  
-A form may be added later for people who want to contribute examples, suggest Neighborhood entries, or participate more directly.  
-  
-Until then, LinkedIn is the main public doorway.  
-  
+You can [follow the MNKY Math page](https://www.linkedin.com/company/mnky-math), comment on public posts, or send a direct message with an example, suggestion, challenge, or question.
+
+LinkedIn is the primary public doorway for new essays, site updates, framework notes, and emerging ideas.
+
+If you want to know when new content is published, following the MNKY Math LinkedIn page is the simplest path.
+
+A form may later be added to the site for people who want to contribute examples, suggest Neighborhood entries, or participate more directly.
+
+Until then, LinkedIn is the main public doorway.
+
+---  
 ## The invitation  
   
 To become a MNKY is not to join a club or accept a doctrine.  
   
 It is to practice a different kind of participation.  
   
-To look at systems with more care.  
-To question outcomes without rejecting measurement.  
-To notice what behavior is being trained.  
-To protect agency where systems quietly reduce it.  
-To build, measure, and participate in ways we are willing to become.  
+🔎 To look at systems with more care.  
+🔎 To question outcomes without rejecting measurement.  
+🔎 To notice what behavior is being trained.  
+🔎 To protect agency where systems quietly reduce it.  
+🔎 To build, measure, and participate in ways we are willing to become.  
   
-MNKY Math is not asking everyone to see the same thing.  
-  
+MNKY Math is not asking everyone to see the same thing.
+
 It is inviting more people to look more carefully.
+
+To notice what they notice.<br>
+To name what they see.<br>
+To share what real systems have taught them.
+
+So the framework can become clearer.<br>
+So participation can become more conscious.<br>
+So there are more MNKYs in the World.

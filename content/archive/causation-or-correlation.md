@@ -23,10 +23,6 @@ linkedinURL: https://www.linkedin.com/pulse/causation-correlation-mnky-math-fu5k
 aliases: []
 permalink:
 journeys:
-  - j_id: publication-path
-    j_name: Publication Path
-    j_seq: 9
-    j_desc: Correlation and causation aren’t opposing forces. They’re different stages of learning.
 ---
 ![[/static/M9-Apple-Shadow.webp]]
 
@@ -144,4 +140,7 @@ They’re different stages of learning.
 
 Trouble begins when we collapse one into the other too quickly… and forget that we ever did.
 
+
+<br>
+<p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>[[metrics-reward-excuses|Why smart, well-intentioned people keep doing things that no longer make sense]] — without blame, and without a checklist.</p>
 
