@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/about/mm_drivers/mm_tradeoff-visibility.md",
+                "file": "content/studies/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mm_tradeoff-visibility"
+              "title": "index"
             }
           }
         ]
@@ -185,9 +185,13 @@
   },
   "active": "ae235f226f38940a",
   "lastOpenFiles": [
+    "public/static/giscus/light.css",
+    "public/static/giscus/dark.css",
+    "public/static/giscus",
+    "content/index.md",
+    "content/about/mm_drivers/mm_tradeoff-visibility.md",
     "public/about/mm_drivers/mm_tradeoff-visibility.html",
     "content/about/mm_drivers/mm_system-sight.md",
-    "content/about/mm_drivers/mm_tradeoff-visibility.md",
     "content/about/mm_drivers/mm_outcome-literacy.md",
     "public/about/mm_emergence.html",
     "public/_reference/def_nudges.html",
@@ -205,12 +209,9 @@
     "public/_reference/def_adaptive-system-og-image.webp",
     "public/_reference/def_adaptive-system.html",
     "public/_reference/def_dynamic-precision-system-og-image.webp",
-    "public/_reference/def_dynamic-precision-system.html",
     "public/_reference/def_-og-image.webp",
-    "public/_reference/def_.html",
     "content/_reference/def_agency.md",
     "public/_reference/def_precision-system-og-image.webp",
-    "public/_reference/def_precision-system.html",
     "public/_reference/Untitled-og-image.webp",
     "content/about/mm_drivers/mm_conscious-participation.md",
     "content/about/mm_drivers/mm_agency-recovery.md",
@@ -230,7 +231,6 @@
     "content/about/mm_drivers/zz_old index.md",
     "content/about/mm_drivers/zz_mm_second-order-outcomes.md",
     "content/tools/guide_better-customer-experience.md",
-    "content/tools/guide_better-work-design.md",
     "Untitled.canvas"
   ]
 }
