@@ -8,7 +8,6 @@ signatureCode:
 contentSection:
   - _reference
 contentType:
-growth_stage:
 readerMode:
 fm_level:
 description: ""

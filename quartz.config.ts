@@ -56,44 +56,6 @@ const config: QuartzConfig = {
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
-      {
-        name: "GrowthStageToTags",
-        textTransform: (_ctx, src) => {
-          // We only modify markdown files that have a frontmatter block
-          if (typeof src === "string" && src.startsWith("---")) {
-            const parts = src.split("---");
-            if (parts.length >= 3) {
-        let frontmatterText = parts[1];
-        
-        // 1. Detect if growth_stage exists in the text block
-        if (frontmatterText.includes("growth_stage:")) {
-          // Robust regex pulls out single-line arrays [seedling] or multi-line values
-          const stageMatch = frontmatterText.match(/growth_stage:\s*([^\n]+)/);
-          
-          if (stageMatch && stageMatch[1]) {
-            let stageValue = stageMatch[1].trim()
-              .replace(/[\[\]\-\s"']/g, ""); // Strips brackets, quotes, dashes
-            
-            if (stageValue) {
-              // 2. Inject this value right into the standard tags array dynamically
-              if (frontmatterText.includes("tags:")) {
-                // If tags block already exists, append our stage to it
-                frontmatterText = frontmatterText.replace("tags:", `tags:\n  - ${stageValue}`);
-              } else {
-                // If no tags exist yet, create the block fresh
-                frontmatterText += `\ntags:\n  - ${stageValue}`;
-              }
-              
-              parts[1] = frontmatterText;
-              return parts.join("---");
-            }
-          }
-        }
-      }
-    }
-    return src;
-  }
-},
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "git", "filesystem"],
       }),

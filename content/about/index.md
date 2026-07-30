@@ -55,9 +55,13 @@ The way something is built can create habits, expectations, incentives, relation
 
 Those are not automatically wrong.
 
-But they are not neutral.
+**But they are not neutral.**
 
-MNKY Math begins from a different posture: develop the work in public, make the structure visible, expose the evolving language, and allow the framework to be tested, challenged, tuned, and adapted over time.
+MNKY Math begins from a different posture: 
+- develop the work in public, 
+- make the structure visible, 
+- expose the evolving language, and... 
+- allow the framework to be continuously tested, challenged, tuned, and adapted.
 
 That does not mean everything here is finished.
 
@@ -83,4 +87,10 @@ _Overviews of MNKY Math's operating structures with specific emphasis on:_
 The people side of MNKY Math.
 
 - [[mm_more-mnkys|The World needs more MNKYs]] - a call for more MNKYs
-- [[mm_become_a_mnky|Become a MNKY]] - what it means to be MNKY
+- [[mm_become-a-mnky|Become a MNKY]] - what it means to be MNKY
+- [[mm_connect-with-mnky-math|Connect with Us]] - ways to share and participate with us
+
+
+📁 <span class="mm-label" style="color: var(--darkgray);">**_Directory:_** </span>[[/about/mm_drivers/index|What Drives Us]]<br>
+A closer look at our "whys" and why these drive us.
+

@@ -9,7 +9,6 @@ contentSection:
   - _reference
 contentType:
   - definition
-growth_stage:
 readerMode:
 fm_level:
 description: ""
@@ -20,14 +19,14 @@ date: 2026-06-30
 last_reviewed: 2026-06-30
 socialImage: ""
 linkedinURL:
-aliases: []
+aliases:
 permalink:
 journeys:
 ---
 
 ## Preference
 
-A **preference** is a leaning toward one option, behavior, condition, object, experience, or outcome over another.
+A **preference** is a leaning toward one option, behavior, condition, object, experience, or outcome over another. Preference can also show up as <span style="text-decoration: underline;">ordinary</span> or <span style="text-decoration: underline;">personal choices</span>, choices that feel like your own.
 
 Preferences are often treated as personal, natural, and self-explanatory. 
 
@@ -39,7 +38,7 @@ A preference may come from temperament, personality, memory, comfort, identity, 
 -> Some may have been inherited.<br>
 -> Some may have been adopted.<br>
 
-Some may have been trained by the systems a person lives inside, works inside, buys from, scrolls through, or depends on.
+Some may have been trained by the systems a person lives inside, works inside, buys from, scrolls through, or depends on. Preferences can often form from automaticity, and systems can be very good at producing [[def_automaticity|automaticity]] — repetition that shapes behavior.
 
 Some preferences may also be shaped by [[def_interior-systems|interior systems]] such as attention, memory, emotion, nervous system response, habit, fatigue, reward sensitivity, and biological signals that make some choices feel easier, safer, more satisfying, or more urgent than others.
 

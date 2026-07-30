@@ -7,7 +7,6 @@ title: First-order and second-order effects
 signatureCode:
 contentSection:
 contentType:
-growth_stage:
 readerMode:
 fm_level:
 description: ""

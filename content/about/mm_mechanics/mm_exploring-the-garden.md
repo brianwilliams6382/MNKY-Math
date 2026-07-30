@@ -8,7 +8,6 @@ signatureCode:
 contentSection:
   - base
 contentType:
-growth_stage:
 readerMode:
 fm_level:
 description: ""
@@ -21,7 +20,10 @@ socialImage: ""
 aliases: []
 permalink:
 journeys:
- - {j_id: "first-walk", j_name: "First Walk", j_seq: 7, j_desc: "A map and manual of how to navigate the MNKY Math garden."}
+  - j_id: first-walk
+    j_name: First Walk
+    j_seq: 7
+    j_desc: A map and manual of how to navigate the MNKY Math garden.
 ---
 # The MNKY Math Garden  
   
@@ -31,7 +33,7 @@ A blog usually asks you to read what was published most recently.
   
 A garden asks you to follow what is connected.  
   
-That matters because MNKY Math is not only a sequence of articles. It is a growing map of relationships between systems, behavior, measurement, incentives, participation, and outcomes.  
+That matters because MNKY Math is not only a sequence of essays. It is a growing map of relationships between systems, behavior, measurement, incentives, participation, and outcomes.  
   
 Some pages are polished essays. Some are foundational concepts. Some are short definitions. Some are neighboring ideas from other fields. Some are early seeds that may grow over time.  
   
@@ -179,7 +181,7 @@ It returns a listing pages where your search terms appear, even if those terms a
 
 ☝️ Search looks for the words you enter, not necessarily the exact phrase.
 
-For example, searching for `I have a banana` may return pages that include that exact phrase, but it may also return pages where those words appear separately on the same page.
+For example, searching for `I have a banana` may return pages that include that exact phrase, but it may also return pages where a word appears separately on a page.
 
 ☝️ That makes Search especially useful when a word feels important, but you are not yet sure where it belongs in the framework.
 
@@ -223,6 +225,9 @@ Archive contains published essays and article-style pieces. These are often the 
 Foundations contains core concepts, theses, models, and language that MNKY Math uses repeatedly.
 
 These pages are more canonical than ordinary essays. They are where the framework becomes more stable.
+
+### [[journeys/index|Journeys]]
+Journeys are curated paths through the digital garden. When you begin a Journey a journey navigation card is added to the bottom of each stop along the journey path. This allows you to remain on the path.
 
 #### [[neighborhood/index|The Neighborhood]]
 The Neighborhood points to adjacent ideas, thinkers, fields, books, frameworks, and concepts that live near MNKY Math.

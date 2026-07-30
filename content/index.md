@@ -23,42 +23,64 @@ permalink: /
 journeys:
 ---
 
-
 ![[/static/home_chairs.webp]]
 
-MNKY Math exists to inspire _systems awareness_.
+## Today’s systems are shaping people... faster than people can see.
 
-We are surrounded by systems that shape what we notice, reward, repeat, avoid, and eventually accept as normal.
+Many systems do this by appropriating predictable participation.
 
-Many of these systems rely on predictable participation.
+They shape what we notice, reward, repeat, avoid, and accept as normal.
+
+Some systems work to make life easier.<br>Some work to learn about us.<br>Some work to direct us.<br>
+> Some work best when their influence feels like ordinary choice.
+
+And some exercise each of these... and more.
+
+## Systems exist to produce outcomes.
+
+Sometimes you benefit from the outcome. <br>Sometimes you help produce the outcome.
+
+<span style="font-size: 1.5rem;">👋 </span><span style="font-family: var(--body); color: var(--darkgray); font-style: italic; font-size: 1.05rem; letter-spacing: 0.03rem; padding-left: 0.09rem; text-decoration: underline;">Sometimes you are part of the outcome.</span>
+
+But systems do not only produce outcomes.
+
+They train behavior.
+
+That is why MNKY Math looks.
+
+## MNKY Math exists to inspire _systems awareness_.
+
+Some systems are obvious: workplaces, policies, platforms, markets, dashboards.
+
+Others are harder to see because they do not announce themselves as systems. 
+
+They may be designed, embedded, normalized, or experienced in ways that make them hard to identify.
+
+They feel like [[def_preference|ordinary choices]].<br><br>
 
 MNKY Math explores the hidden relationships between _systems_, _behavior_, and _outcomes_, because...
 
 > **[[mm_more-mnkys|The World needs more MNKYs]]**
 
-Some systems are obvious: workplaces, policies, platforms, markets, dashboards.
-
-Others are harder to see because they feel like ordinary choices.
-
-That matters because systems do not only produce outcomes. They train behavior.
-
- <span class="mm-callout-emoji" style="--emoji: ' ';">**And today's systems are shaping people faster than people can see.**</span>
-
 A system can appear to be working while quietly teaching people to notice, repeat, or protect the wrong things.
 
-MNKY Math strives to make those patterns visible — so we can better understand how systems shape us, how we participate in them, and who a system is working for.
+MNKY Math strives to make those patterns visible — so we can better understand how systems shape us, how we participate in them, and **_who a system is actually working for_**.
 
 Because...
 
-<span class="mm-callout-emoji" style="--emoji: '  ';">**● Your experience inside systems matters.<br>● How we produce something becomes part of what we produce.**</span>
+<span class="mm-callout-emoji" style="--emoji: '  ';">**● Your experience inside systems matters.<br>● What feels personal may also be systemic.**</span>
 
 Not sure why this matters or where to begin?
 
-Begin with a [[archive/musical-chairs|story]].<br><br><br>
+Begin with a [[archive/musical-chairs|story]]... 
 
-<span class="mm-inline-mnky"></span> Or [[first-walk|Start Here with a First Walk]], <br>a curated path touching who we are, what we do, and tips for exploring our _digital garden_.
+or [[first-walk|a First Walk]], a curated path through our _digital garden_.<br><br><br><br>
 
----
+
+<div class="mm-refrain-card mask-open phrase-six"></div>
+<div style="text-align: left; font-size: 0.88rem; font-weight: 800; letter-spacing: -0.01rem; color: var(--darkgray); transform: scaleY(1.25);  margin-left: 1.5rem; margin-top: 0.5rem; !important;">Most publishing asks people to follow the thinking<br> MNKY Math invites you to enter the thinking.</div> <div style="text-align: left; font-size: 0.88rem; font-weight: 800; letter-spacing: -0.01rem; color: var(--darkgray); transform: scaleY(1.25);  margin-left: 1.5rem; margin-top: 1.3rem; !important;">What you notice, question, and challenge is not outside the work.<br> It is part of how the work gets clearer.</div>
+<div style="text-align: left; font-size: 0.88rem; font-weight: 800; letter-spacing: -0.01rem; color: var(--darkgraymm); transform: scaleY(1.25);  margin-left: 1.5rem; margin-top: 1.3rem; !important;">Share what you are seeing with <a href="/about/mm_troop/mm_connect-with-mnky-math" style="text-decoration: none; display: inline-block;">The Troop</a>.</div>
+<br><br>
 
 ## How to explore
 

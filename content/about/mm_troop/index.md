@@ -9,7 +9,6 @@ contentSection:
   - base
 contentType:
   - index
-growth_stage:
 readerMode:
 fm_level:
 description: ""
@@ -72,13 +71,13 @@ The Troop is not about becoming a follower.
   
 It is about recovering agency and learning to participate with more awareness in the systems you live inside, work inside, use, serve, shape, and help create.
   
-That is the heart of [[mm_better_participation|better participation]] in the systems that surround you.
+That is the heart of [[mm_conscious-participation|better participation]] in the systems that surround you.
   
 ## Paths into the Troop  
   
 If you are curious but not sure where you fit, start with [[mm_reading-modes|Mirroring, Modeling, and Mastering]].  
   
-If you want to follow, contribute, challenge, or connect more directly, visit [[about/mm_troop/mm_become_a_mnky|Become a MNKY]].  
+If you want to follow, contribute, challenge, or connect more directly, visit [[mm_become-a-mnky|Become a MNKY]].  
   
 If you want to see what this work is trying to strengthen in people and systems, visit [[about/mm_drivers/index|What Drives Us]].
 

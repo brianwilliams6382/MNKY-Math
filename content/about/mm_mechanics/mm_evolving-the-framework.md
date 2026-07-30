@@ -7,7 +7,6 @@ title: Evolving the Framework
 signatureCode:
 contentSection:
 contentType:
-growth_stage:
 readerMode:
 fm_level:
 description: ""

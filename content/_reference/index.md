@@ -9,7 +9,6 @@ contentSection:
   - _reference
 contentType:
   - index
-growth_stage:
 readerMode:
 fm_level:
 description: ""

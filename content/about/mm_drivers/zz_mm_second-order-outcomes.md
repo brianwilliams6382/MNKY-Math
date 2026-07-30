@@ -2,14 +2,13 @@
 draft: true
 enableToc: true
 readTimeMM: true
-explorerHide: false
+explorerHide: true
 title: Second-order Outcomes
 signatureCode:
 contentSection:
   - base
 contentType:
   - concept
-growth_stage:
 readerMode:
 fm_level:
 description: ""

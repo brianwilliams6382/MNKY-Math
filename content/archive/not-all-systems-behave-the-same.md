@@ -9,13 +9,13 @@ contentSection:
   - archive
 contentType:
   - essay
-growth_stage:
 readerMode:
 fm_level:
 description: ""
 socialDescription: ""
 mmShort:
-tags: []
+tags:
+  - agency
 date: 2026-05-06
 last_reviewed: 2026-07-01
 socialImage: ""
@@ -193,38 +193,32 @@ Know which one you’re in.
 <br>
 
 > [!mmchallenge]+ Challenge
-> In “_What Do We Mean By System_”, we established a simple rule:
+> In “_What Do We Mean By System_”, we established a simple rule:<br><br>
+>If it repeats, it’s a system.<br><br>
+>Same situation as before, a cat meows incessantly. Three variations.<br><br>
+>**Version A**<br>
+>● The cat presses a button.<br>
+>● A treat is dispensed.<br>
+>● It happens the same way every time.<br><br>
 >
->If it repeats, it’s a system.
+>**Version B**<br>
+>● The cat meows.<br>
+>● A treat is sometimes given.<br>
+>● Over time, both the cat and the owner adjust their behavior.<br><br>
 >
->Same situation. Three variations.
+>**Version C**<br>
+>● The cat meows.<br>
+>● Sometimes it works.<br>
+>● Sometimes it doesn’t.<br><br>
 >
->Version A
+>● Sometimes the treat is accepted.<br>
+>● Sometimes it’s rejected.<br><br>
 >
->A cat presses a button.
->A treat is dispensed.
->It happens the same way every time.
->
->Version B
->
->A cat meows.
->A treat is sometimes given.
->Over time, both the cat and the owner adjust their behavior.
->
->Version C
->
->A cat meows.
->Sometimes it works.
->Sometimes it doesn’t.
->
->Sometimes the treat is accepted.
->Sometimes it’s rejected.
->
->The cat starts trying something different..
+>●  The cat starts trying something different.<br><br>
 >
 >- - - - - 
 >
->What kind of system is each?<br><br>
+>**What kind of system is each?**<br><br>
 >The companion discussion on LinkedIn includes the **MNKY Math take** and is where the conversation continues.<br><br>
 
 

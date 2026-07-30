@@ -7,7 +7,6 @@ title: Locating Content
 signatureCode:
 contentSection:
 contentType:
-growth_stage:
 readerMode:
 fm_level:
 description: ""
@@ -20,7 +19,10 @@ socialImage: ""
 aliases: []
 permalink:
 journeys:
- - {j_id: "first-walk", j_name: "First Walk", j_seq: 8, j_desc: "Different pages do different kinds of work. These differences are called content types."}
+  - j_id: first-walk
+    j_name: First Walk
+    j_seq: 8
+    j_desc: Different pages do different kinds of work. These differences are called content types.
 ---
 # Locating Content
 
@@ -40,13 +42,16 @@ The easiest way to understand content types is by looking at the main areas of t
 
 Each directory has a different job:
 
-- **Archive:** where ideas are explored through writing and real-world noticing  
-- **Foundations:** where core MNKY Math ideas stabilize  
-- **The Neighborhood:** where related external concepts are positioned  
-- **Tools:** where the framework becomes usable  
+- **About:** where the project explains its purpose, structure, and ways to participate
+- **Archive:** where ideas are explored through writing and real-world noticing
+- **Studies:** where ideas, tools, and foundations are applied, tested, challenged, and tuned
+- **Journeys:** where selected pages are arranged into guided reading paths
+- **Foundations:** where core MNKY Math ideas stabilize
+- **Tools:** where the framework becomes usable
+- **The Neighborhood:** where related external concepts are positioned
 - **Reference:** where the garden gets support, context, and connective tissue
 
-Because each directory has a different job, each directory tends to use different kinds of pages.
+Because each directory has a different job, each directory tends to use different kinds of pages. This page focuses mainly on the directories where MNKY Math content is developed, applied, stabilized, connected, and supported.
 
 ---
 ## Archive
@@ -63,11 +68,53 @@ The Archive is where ideas are explored before they become stable parts of the f
 > [!info]- Stories  
 > Stories use narrative, scene, or lived experience to help you enter an idea. <br><br>A story may not explain the entire framework directly. Instead, it gives you something concrete to stand inside before moving toward the larger pattern. <br><br>Stories are useful when an idea needs to be felt before it can be fully named. <br><br>
 
-> [!info]- Case studies  
-> Case studies apply MNKY Math to a specific system, situation, organization, product, policy, practice, or event. <br><br>A case study is more than an example. It looks at how parts of a system interact and what those interactions produce. <br><br>Case studies help show how MNKY Math can be used to examine real-world behavior, outcomes, incentives, tradeoffs, and unintended effects.<br><br>
-
 > [!info]- Observations  
 > Observations capture something noticed in the world. <br><br>An observation may come from work, technology, customer behavior, organizational life, public systems, social patterns, or everyday experience. <br><br>Some observations may later become essays, case studies, tools, or Foundation concepts. Others remain useful as small pieces of evidence in the larger garden.<br><br>
+
+---
+## Studies
+
+[[studies/index|Studies]] is where MNKY Math holds ideas up to situations so they can be applied, tested, challenged, and tuned.
+
+A Study may examine a real system, a workplace pattern, a design choice, a public example, a tool application, or a recurring condition that helps make system-shaped behavior easier to see.
+
+Studies are more investigative than Archive pages.
+
+They do not only present an idea for exploration. They use situations to ask what the framework helps reveal, what it misses, what becomes clearer, and what may need to be refined.
+
+Studies help MNKY Math go deeper in the looking.
+
+They may support emerging Foundations, test existing Foundations, demonstrate Tools, or reveal where a tool or concept needs to be adjusted before it becomes more useful in practice.
+
+> [!info]- Retrospectives  
+> Retrospectives look backward at observed systems, patterns, outcomes, or conditions.
+> <br><br>
+> A Retrospective uses what has already happened, appeared, or been produced to ask what the system may have been teaching, rewarding, protecting, distorting, or making easier to repeat.
+> <br><br>
+> Retrospectives are useful when the evidence begins with observation rather than experiment.
+
+
+> [!info]- Applications  
+> Applications show MNKY Math concepts, Foundations, or Tools being used in a focused way.
+> <br><br>
+> An Application may be smaller than a Case Study. It helps demonstrate how a lens works, what a tool reveals, or where an idea needs to be tuned through practice.<br><br>
+
+
+---
+## Journeys
+
+[[journeys/index|Journeys]] are curated paths through MNKY Math.
+
+A Journey arranges selected pages into a suggested sequence so a reader can move through a theme, question, pattern, or part of the framework without needing to decide where to go after every page.
+
+Journeys do not replace the garden.
+
+They give the garden a path.
+
+Some Journeys introduce MNKY Math for the first time. Others may gather related essays, Foundations, Studies, Tools, Neighborhood pages, or definitions around a specific idea.
+
+A Journey is useful when the order of reading matters, when a topic has several connected parts, or when a reader wants a more guided way into the framework.
+
 
 ---
 ## Foundations
@@ -83,18 +130,6 @@ Foundation pages may still evolve, but they are meant to become durable referenc
 
 > [!info]- Theses  
 > Theses are central claims MNKY Math is willing to stand on. <br><br>A thesis does more than name an idea. It makes a claim about how systems, behavior, measurement, participation, agency, or outcomes work. <br><br>Theses help clarify the stance of the framework. <br><br>They may be challenged, revised, strengthened, or composted as MNKY Math develops, expands, and clarifies. <br><br>
-
----
-## The Neighborhood
-
-[[neighborhood/index|The Neighborhood]] is where MNKY Math sits near related ideas, fields, frameworks, theories, and bodies of work.
-
-Neighbor pages do not claim that MNKY Math invented everything it touches. They help show what MNKY Math is learning from, building near, borrowing from, contrasting with, or extending beyond.
-
-The Neighborhood helps you to understand the surrounding intellectual terrain.
-
-> [!info]- Neighbor  
-> Neighbors are related concepts, fields, theories, frameworks, or patterns that help position MNKY Math. <br><br>A neighbor may be close to MNKY Math, adjacent to it, useful as a bridge, helpful as a contrast, or connected at a deeper structural level. <br><br>Neighbor pages help clarify what MNKY Math shares with existing ideas and where MNKY Math’s lens begins to differ. <br><br>The goal is not to create a complete encyclopedia. The goal is to make the surrounding territory easier to see.<br><br>
 
 ---
 ## Tools
@@ -114,6 +149,19 @@ Tools are not meant to create false precision. They are meant to structure atten
 > [!info]- Scorecards  
 > Scorecards help evaluate something across multiple dimensions. <br><br>A scorecard may be used to examine a system, practice, decision, outcome, meeting, metric, tool, or organizational pattern. <br><br>In MNKY Math, a scorecard should not pretend that the score is the whole truth. <br><br>A good scorecard structures attention. It helps people see where a system may be strong, fragile, distorted, incomplete, or misaligned. <br><br>
 
+
+---
+## The Neighborhood
+
+[[neighborhood/index|The Neighborhood]] is where MNKY Math sits near related ideas, fields, frameworks, theories, and bodies of work.
+
+Neighbor pages do not claim that MNKY Math invented everything it touches. They help show what MNKY Math is learning from, building near, borrowing from, contrasting with, or extending beyond.
+
+The Neighborhood helps you to understand the surrounding intellectual terrain.
+
+> [!info]- Neighbor  
+> Neighbors are related concepts, fields, theories, frameworks, or patterns that help position MNKY Math. <br><br>A neighbor may be close to MNKY Math, adjacent to it, useful as a bridge, helpful as a contrast, or connected at a deeper structural level. <br><br>Neighbor pages help clarify what MNKY Math shares with existing ideas and where MNKY Math’s lens begins to differ. <br><br>The goal is not to create a complete encyclopedia. The goal is to make the surrounding territory easier to see.<br><br>
+
 ---
 ## Reference  
   
@@ -121,7 +169,7 @@ The Reference directory contains support pages used to clarify language, preserv
   
 Many reference pages are not meant to be read as primary essays. They often exist so links, previews, Search, backlinks, and Graph View have useful material to work with.  
   
-The Reference directory does not appear in Explorer, but reference pages can still appear through links, Search, breadcrumbs, backlinks, previews, and direct URLs.  
+**_==The Reference directory does not appear in Explorer==_**, but reference pages can still appear through links, Search, breadcrumbs, backlinks, previews, and direct URLs.  
 
 MNKY Math uses four main reference types: Definition, Reference, Source, and Map.
 

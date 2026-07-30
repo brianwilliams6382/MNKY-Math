@@ -9,14 +9,13 @@ contentSection:
   - foundations
 contentType:
   - concept
-growth_stage: canopy
 readerMode:
   - mastering
 fm_level:
 description: ""
 socialDescription: ""
 mmShort: Bananas are a MNKY Math symbol for what systems teach people to need, chase, protect, accept, or accumulate.
-tags: []
+tags:
 date: 2026-05-27
 last_reviewed: 2026-05-29
 socialImage: ""

@@ -7,7 +7,6 @@ title: Production Method Shapes Product Meaning
 signatureCode:
 contentSection:
 contentType:
-growth_stage: "[seed]"
 readerMode:
 fm_level:
 description: ""

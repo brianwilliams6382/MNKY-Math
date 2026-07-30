@@ -9,8 +9,6 @@ contentSection:
   - _reference
 contentType:
   - definition
-growth_stage:
-  - seed
 readerMode:
 fm_level:
 description: ""
@@ -26,7 +24,7 @@ journeys:
 ---
 ## Low-win System
 
-A **low-win system** is a system where most available choices produce some form of loss, compromise, friction, or harm.
+A **low-win system** is a system or choice within a system where most available choices produce some form of loss, compromise, friction, or harm.
 
 It does not mean there are no options.
 
@@ -46,13 +44,9 @@ A low-win system often makes people choose between things that should not be in 
 
 Low-win systems matter because they can make poor behavior look like personal failure when the deeper issue is the structure of the available choices.
 
-The question is not only:
+The question is not only: **Why did someone make that choice?**
 
-> Why did someone make that choice?
-
-The better question is:
-
-> What choices did the system make available, and what did each choice cost?
+The better question is: **_What choices did the system make available, and what did each choice cost?_**
 
 A low-win system does not erase responsibility.
 

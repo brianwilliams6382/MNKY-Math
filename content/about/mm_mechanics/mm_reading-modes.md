@@ -7,7 +7,6 @@ title: Reading Modes
 signatureCode:
 contentSection:
 contentType:
-growth_stage:
 readerMode:
 fm_level:
 description: ""
@@ -20,7 +19,10 @@ socialImage: ""
 aliases: []
 permalink:
 journeys:
- - {j_id: "first-walk", j_name: "First Walk", j_seq: 9, j_desc: "We believe our readers move through three core reading modes - mirroring, modeling and mastering."}
+  - j_id: first-walk
+    j_name: First Walk
+    j_seq: 9
+    j_desc: We believe our readers move through three core reading modes - mirroring, modeling and mastering.
 ---
 # Reading Modes
 

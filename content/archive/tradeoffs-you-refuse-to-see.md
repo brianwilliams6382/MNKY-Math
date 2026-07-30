@@ -9,7 +9,6 @@ contentSection:
   - archive
 contentType:
   - essay
-growth_stage:
 readerMode:
 fm_level:
 description: ""

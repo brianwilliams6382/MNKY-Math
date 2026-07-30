@@ -7,12 +7,17 @@ export default (() => {
         const container = document.querySelector(".mm-simple-index-container");
         if (!container) return;
 
-        // 1. Automatically detect the directory context from the browser URL path
-        // e.g., /foundations/ -> "foundations", /journeys/ -> "journeys"
-        const currentPathSegments = window.location.pathname.split("/").filter(Boolean);
-        const targetDirectory = currentPathSegments[0];
+        // 1. Get the full directory path of the current page
+        // e.g., /about/mm_drivers/index -> ["about", "mm_drivers"]
+        const pathSegments = window.location.pathname.split("/").filter(Boolean);
         
-        if (!targetDirectory) return;
+        // If we are on an index page, drop "index" or trailing slashes to get the target folder path
+        if (pathSegments[pathSegments.length - 1] === "index") {
+          pathSegments.pop();
+        }
+        
+        const targetFolderPath = pathSegments.join("/");
+        if (!targetFolderPath) return;
 
         // 2. Map raw Quartz file formats into a standardized catalog array
         const simpleCatalog = ${JSON.stringify(
@@ -23,12 +28,19 @@ export default (() => {
           }))
         )};
 
-        // 3. Filter for matching Directory and sort Alphabetically by title
+        // 3. Filter for files STRICTLY inside this specific folder track
         const filteredEntries = simpleCatalog
           .filter(item => {
-            const matchesDirectory = item.slug.startsWith(targetDirectory + "/");
             const isNotIndexPage = !item.slug.endsWith("/index");
-            return matchesDirectory && isNotIndexPage;
+            
+            // File must start with the target directory path
+            const isInTargetFolder = item.slug.startsWith(targetFolderPath + "/");
+            
+            // Extract path relative to target folder to ensure it is a direct child (no sub-subdirectories)
+            const relativePath = item.slug.replace(targetFolderPath + "/", "");
+            const isDirectChild = !relativePath.includes("/");
+
+            return isInTargetFolder && isNotIndexPage && isDirectChild;
           })
           .sort((a, b) => a.title.localeCompare(b.title));
 

@@ -9,7 +9,6 @@ contentSection:
   - _reference
 contentType:
   - definition
-growth_stage:
 readerMode:
 fm_level:
 description: ""
@@ -47,5 +46,5 @@ When that happens, people may begin optimizing the metric while weakening, ignor
   
 The key question is not only: **What does the metric show?**
   
-But also: **_==What outcome is this metric standing in for, and what might be missing from the signal?==_**
+But also: **_What outcome is this metric standing in for, and what might be missing from the signal?_**
 

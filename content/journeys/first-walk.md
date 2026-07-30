@@ -9,7 +9,6 @@ contentSection:
   - journeys
 contentType:
   - journey
-growth_stage:
 readerMode:
 fm_level:
 description: ""

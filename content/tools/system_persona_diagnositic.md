@@ -9,7 +9,6 @@ contentSection:
   - tools
 contentType:
   - diagnostic
-growth_stage:
 readerMode:
 fm_level:
 description: ""

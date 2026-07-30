@@ -8,7 +8,6 @@ signatureCode:
 contentSection:
   - base
 contentType:
-growth_stage:
 readerMode:
 fm_level:
 description: ""
@@ -60,6 +59,7 @@ A few ways to contribute:
 - Point to a situation where MNKY Math could be applied more carefully.  
 - Share how an essay, Foundation, or tool changed the way you saw a system.  
   
+---
 ## What kind of participation helps most?  
   
 The most useful participation is specific.  
@@ -79,21 +79,6 @@ Useful participation might sound like:
 > - "_This phrase is close, but I think there is a clearer way to say it._"
   
 MNKY Math does not need agreement as much as it needs useful friction, grounded examples, clearer language, and better seeing.  
-
----
-## Contact  
-  
-For now, the simplest way to connect is through LinkedIn.  
-  
-You can [follow the MNKY Math page](https://www.linkedin.com/company/mnky-math), comment on public posts, or send a direct message with an example, suggestion, challenge, or question.
-
-LinkedIn is the primary public doorway for new essays, site updates, framework notes, and emerging ideas.
-
-If you want to know when new content is published, following the MNKY Math LinkedIn page is the simplest path.
-
-A form may later be added to the site for people who want to contribute examples, suggest Neighborhood entries, or participate more directly.
-
-Until then, LinkedIn is the main public doorway.
 
 ---  
 ## The invitation  
@@ -119,3 +104,22 @@ To share what real systems have taught them.
 So the framework can become clearer.<br>
 So participation can become more conscious.<br>
 So there are more MNKYs in the World.
+
+---
+## Look like a MNKY
+
+When you do this, you begin to "look like a MNKY". 
+
+To "look like a MNKY" is not about appearance.
+
+It is about attention.
+
+A MNKY **_looks_** for what the system is teaching, what behavior is being trained, what outcomes are being protected or distorted, and where agency is being expanded or narrowed.<br><br>
+
+<div class="mm-refrain-card merch-patch-look phrase-seven"></div><br>
+
+---
+
+Have something to share?
+
+Visit [[mm_connect-with-mnky-math|Connect with Us]] for public and private ways to contact MNKY Math.

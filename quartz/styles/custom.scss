@@ -152,16 +152,16 @@ blockquote {
 .callout {
   border-radius: 8px;
   margin: 1.5rem 0;
-  border-left: 6px solid var(--secondary);
-  background-color: var(--lightgray); /* Soft background for contrast */
+  border-left: 6px solid var(--border);
 }
 
 /* --- Specific MNKY Math Callout Types --- */
 
 /* 1. The 'Info' */
 .callout[data-callout="info"] {
-  border-left-color: #4a90e2; /* A professional blue for 'Observations' */
-  background-color:#39689428; /* A very light, transparent version of your custom gray for subtlety */
+  --color: #4a90e2; 
+  --border: #4a90e2;
+  --bg:#39689428; /* A very light, transparent version of your custom gray for subtlety */
   .callout-title {
     color: #4a90e2;
     font-weight: 600;
@@ -170,8 +170,9 @@ blockquote {
 
 /* 2. The 'Example' (Modeling/Application) */
 .callout[data-callout="example"] {
-  border-left-color: #f5a623; /* An amber/warning color for 'System Signals' */
-  background-color: rgba(180, 172, 159, 0.05); 
+  --color: #f5a623; /* An amber/warning color for 'System Signals' */
+  --border: #f5a623;
+  --bg: rgba(180, 172, 159, 0.05); 
   .callout-title {
     color: #f5a623;
   }
@@ -179,25 +180,23 @@ blockquote {
 
 /* 3. The 'Important' (Mastering/Structural) */
 .callout[data-callout="important"] {
-  border-left-color: var(--tertiary); 
-  .callout-title {
-    font-family: "Zilla Slab", serif;
-  }
+  --color: var(--tertiary);
+  --border: var(--tertiary);
+  --bg: rgba(139, 89, 43, 0.401);    
 }
 
 /* 3. The 'Quote' (Mastering/Structural) */
 .callout[data-callout="quote"] {
-   background-color: rgba(127, 161, 126, 0.233); /* Soft, darker tint that adapts well */
-   border-left-color: var(--tertiary); /* A very light border to let the background color do the work */
-  .callout-content {
-    font-family: var(--bodyFont); /* Forces it to use your master site body font */
-    font-size: 1.05rem;           /* Slightly adjusted for presence */
-    color: var(--light);           /* Brings it closer to main text color */
-  }
-  .callout-title {
-    color: var(--tertiary);
-    font-family: var(--bodyFont);
-  }
+  --color: var(--tertiary);  
+  --bg: rgba(127, 161, 126, 0.233); /* Soft, darker tint that adapts well */
+  --border: var(--tertiary); /* A very light border to let the background color do the work */
+}
+
+/* 4. The 'Success' */
+.callout[data-callout="success"] {
+  --color: #05b241; /* A professional blue for 'Observations' */
+  --border: #297845;
+  --bg: #51906727; /* A very light, transparent version of your custom gray for subtlety */   
 }
 
 /* MNKY MATH STRUCTURAL LABEL DESIGN SYSTEM */
@@ -221,6 +220,36 @@ blockquote {
 
   margin-top: 0.15rem !important;               /* Pulls it slightly closer vertically to the label above it */
   margin-bottom: 0.85rem !important;            /* Standardizes the gap before the next relationship row */
+}
+
+/* --- MM TAG COMPONENT TUNING --- */
+
+/* Targets the individual tag pill containers */
+.tags a.tag-link {
+  font-family: var(--bodyFont) !important;
+  font-size: 0.8rem !important; /* Scaled down from default ~0.85rem */
+  font-weight: 600 !important;
+  text-transform: lowercase !important; 
+  letter-spacing: 0.03rem;
+  
+  /* Proportional padding contraction so the pills don't feel too bulky */
+  padding: 0.15rem 0.5rem !important; 
+  margin-right: 0.03rem !important;
+  margin-bottom: 0.4rem !important;
+  
+  border-radius: 4px !important; /* Hardens the rounded edges to match your clean UI */
+  transition: all 0.2s ease;
+
+  &:hover {
+    background-color: var(--highlight) !important; 
+    color: var(--tertiary) !important;
+  }
+}
+
+/* Adjusts the vertical margin spacing of the entire tag row */
+.tags {
+  margin-top: 0.4rem !important;
+  margin-bottom: 1.2rem !important;
 }
 
 /* TABLE OF CONTENTS TUNING */
@@ -614,6 +643,120 @@ blockquote {
     }
   }
 }
+
+/* --- MM MODULAR REFRAIN CONCEPT ENGINE --- */
+
+.mm-refrain-card {
+  display: flex !important;
+  align-items: center !important;
+  margin: 0.05rem 0 !important;
+  padding: 0.05rem 0 !important;
+  width: 100% !important;
+  min-height: 100px !important;
+
+  /* COLUMN 1: The Image Variable Container */
+  &::before {
+    content: "" !important;
+    flex-shrink: 0 !important;
+    width: 100px !important; /* Slightly increased to fit the detailed pin/patch dimensions */
+    height: 100px !important;
+    margin-right: 1.6em !important;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+  }
+
+  /* COLUMN 2: The Text Base & Vertical Separator Line */
+  &::after {
+    display: block !important;
+    padding-left: 1.6rem !important;
+    border-left: 3px solid var(--gray) !important; 
+    
+    font-family: var(--bodyFont) !important;
+    font-size: 1.45rem !important;
+    font-weight: 800 !important;
+    line-height: 1.15 !important;
+    letter-spacing: -0.02rem !important;
+    color: var(--dark) !important;
+    white-space: pre-line !important; 
+    transform:scaleY(1.18) !important; /* Slightly stretches the text vertically for better visual balance */
+    transform-origin: left center !important; /* Ensures the scaling effect is anchored to the top of the text block */
+  }
+}
+
+/* ==========================================================================
+   MOBILE & TABLET RESPONSIVE OVERRIDES
+   Activates automatically on screens narrower than Quartz's 768px tablet break
+   ========================================================================== */
+@media (max-width: 768px) {
+  .mm-refrain-card {
+    margin: 1.8rem 0 !important;
+    min-height: 85px !important;
+  }
+
+  /* Compresses the stamp footprint to maximize text width capacity */
+  .mm-refrain-card::before {
+    width: 85px !important;
+    height: 85px !important;
+    margin-right: 1.1rem !important; /* Pulls columns closer together */
+  }
+
+  /* Scales down typography bounds to stop awkward text wrapping loops */
+  .mm-refrain-card::after {
+    padding-left: 1.1rem !important;
+    font-size: 1.3rem !important; /* Calibrated down for comfortable mobile scans */
+    line-height: 1.2 !important;
+  }
+}
+
+/* ==========================================================================
+   VARIABLE MATRIX 1: IMAGE BACKGROUND SELECTORS
+   Ensure these 7 assets are saved under your root /quartz/static/ directory
+   ========================================================================== */
+
+/* The Core Stamp Variations */
+.mm-refrain-card.stamp-r0::before { background-image: url("/static/not_easy.png") !important; }
+.mm-refrain-card.stamp-r8::before       { background-image: url("/static/not_easy_r8.png") !important; }
+.mm-refrain-card.stamp-r348::before     { background-image: url("/static/not_easy_r348.png") !important; }
+
+/* The Blank Mask Variations */
+.mm-refrain-card.mask-full::before      { background-image: url("/static/not_easy_blank1.png") !important; }
+.mm-refrain-card.mask-open::before      { background-image: url("/static/not_easy_open_blank.png") !important; }
+
+/* The Tangible Merch Variations */
+.mm-refrain-card.merch-patch::before    { background-image: url("/static/not_easy_patch.png") !important; }
+.mm-refrain-card.merch-patch-look::before    { background-image: url("/static/mnky_look_patch.png") !important; }
+.mm-refrain-card.merch-pin::before      { background-image: url("/static/not_easy_pin.png") !important; }
+
+
+/* ==========================================================================
+   VARIABLE MATRIX 2: TEXT CONTENT SELECTORS
+   ========================================================================== */
+
+.mm-refrain-card.phrase-one::after {
+  content: "Simple on paper.\A Harder inside the system." !important;
+}
+
+.mm-refrain-card.phrase-two::after {
+  content: "The question may be simple.\A The participation rarely is." !important;
+}
+
+.mm-refrain-card.phrase-three::after {
+  content: "That is why practice matters." !important;
+}
+
+.mm-refrain-card.phrase-five::after {
+  content: "Systems Require Limits.\A Loops Require Clean Data." !important;
+}
+
+.mm-refrain-card.phrase-six::after {
+  content: "Built To Scale.\A Modified To Last." !important;
+}
+
+.mm-refrain-card.phrase-seven::after {
+  content: "Becoming MNKY begins with\A learning to look like a MNKY." !important;
+}
+
 
 /* ─── MNKY MATH INLINE CUSTOM EMOJI ─── */
 .mm-inline-mnky {

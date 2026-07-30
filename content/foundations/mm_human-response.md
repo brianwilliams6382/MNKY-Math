@@ -7,7 +7,6 @@ title: Human Response
 signatureCode:
 contentSection:
 contentType:
-growth_stage:
 readerMode:
 fm_level:
 description: ""

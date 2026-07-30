@@ -66,7 +66,7 @@ along with almost anything else you can think to name, **_==and many things you 
 - Scarcity changes behavior. 
 - Rewards change what feels worth doing. 
 
-And outcomes begin to feel personal even when the system helped produce them.
+And outcomes begin to feel personal <span style="text-decoration: underline;">even when the system helped produce them</span>.
 
 Musical chairs is simple enough to see this clearly.
 

@@ -9,7 +9,6 @@ contentSection:
   - _reference
 contentType:
   - definition
-growth_stage:
 readerMode:
 fm_level:
 description: ""
@@ -23,7 +22,7 @@ aliases: []
 permalink:
 journeys:
 ---
-## Collateral effect
+## Collateral Effect
 
 A **collateral effect** is an effect a system produces alongside its intended outcome.
 

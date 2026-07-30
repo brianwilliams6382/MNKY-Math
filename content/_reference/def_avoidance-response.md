@@ -9,7 +9,6 @@ contentSection:
   - _reference
 contentType:
   - definition
-growth_stage:
 readerMode:
 fm_level:
 description: ""
@@ -42,8 +41,10 @@ In MNKY Math, avoidance response matters because avoided information does not di
   
 It often moves elsewhere in the system.  
   
-The cost may show up later as delay, surprise, rework, distrust, escalation, failure, or distorted decision-making.  
+The cost may show up later as delay, surprise, rework, distrust, escalation, failure, or distorted decision-making. 
+
+If repeated often enough, an avoidance response can begin to act like [[def_automaticity|automaticity]]. When that happens, avoidance becomes more costly because the response can become faster than the understanding of why something is being avoided in the first place. 
   
 The key question is not only:  **What did someone avoid?**
   
-But also:  **_==What made avoidance feel safer than engagement?==_**
+But also:  **_What made avoidance feel safer than engagement?_**
