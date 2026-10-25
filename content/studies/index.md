@@ -8,6 +8,7 @@ signatureCode:
 contentSection:
   - studies
 contentType:
+  - index
 readerMode:
 fm_level:
 description: ""

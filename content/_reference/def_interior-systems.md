@@ -1,7 +1,7 @@
 ---
 draft: false
-enableToc: false
-readTimeMM: false
+enableToc: true
+readTimeMM: true
 explorerHide: true
 title: Interior Systems
 signatureCode:
@@ -26,7 +26,7 @@ journeys:
 
 ## Interior Systems
 
-**Interior systems** are the biological, emotional, cognitive, and learned processes inside a person that shape attention, interpretation, behavior, and choice.
+**Interior systems** are the biological, emotional, cognitive, and learned processes inside a person that shape attention, interpretation, expression, behavior, and choice.
 
 MNKY Math often examines external systems: workplaces, platforms, metrics, incentives, rules, tools, markets, and social conditions.
 
@@ -34,7 +34,7 @@ But behavior is not shaped by external systems alone.
 
 **People also carry interior systems.**
 
-These include memory, emotion, habit, stress response, needs, fatigue, attention, identity, bodily signals, reward sensitivity, threat response, learned response and the neurochemical processes that influence motivation, salience, comfort, avoidance, and desire.
+These include memory, emotion, habit, stress response, needs, fatigue, attention, identity, bodily signals, reward sensitivity, threat response, learned responses and neurochemical processes that influence motivation, salience, comfort, avoidance, and desire.
 
 In MNKY Math, Interior Systems matter because external systems do not act on neutral participants. This helps explain why the same external condition may produce different responses in different people.
 
@@ -52,7 +52,7 @@ Interior Systems help us to explain why.
 
 Interior Systems are the systems inside people that shape how they respond to the systems around them.
 
-It is produced through the interaction between:
+Behavior emerges through the interaction between:
 
 🔎 the system around the person<br>
 🔎 and the system inside the person

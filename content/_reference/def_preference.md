@@ -1,8 +1,8 @@
 ---
 draft: false
 enableToc: true
-readTimeMM: false
-explorerHide: false
+readTimeMM: true
+explorerHide: true
 title: Preference
 signatureCode:
 contentSection:

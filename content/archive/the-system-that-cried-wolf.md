@@ -61,7 +61,7 @@ Some exist because something matters.
 
 And in systems, those signals often look like metrics.
 
-➡️ Dashboards.<br>➡️ Alerts.<br>➡️ Reports.
+➡️ Dashboards<br>➡️ Alerts<br>➡️ Reports
 
 And just like the doorbell — They only work if you believe them.
 
@@ -85,18 +85,18 @@ The signal is still there.
 
 But it no longer elicits action.
 
-> Not because it’s wrong. Because it’s no longer believed.
+> Not because it’s wrong. Because it’s no longer believed, or seen as important.
 
 ---
 This is the shift most systems don’t see.
 
 They assume **==more signaling creates more awareness.==**
 
-➡️ More dashboards.<br>➡️ More alerts.<br>➡️ More reporting.
+➡️ More dashboards<br>➡️ More alerts<br>➡️ More reporting
 
 But frequency doesn’t create clarity.
 
-**_It creates desensitization._**
+**_It drives desensitization._**
 
 ---
 A signal that fires too often stops feeling urgent.
@@ -128,7 +128,6 @@ It fades into the background.
 
 > **And when that happens… even real problems start to look like noise.**
 
-<br>
-<br>
-<br>
+<hr data-end-marker />
+
 <p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>Clean dashboards don’t fix broken systems. So what happens when [[fixing-the-interface-instead-of-the-system|the system keeps signaling… but no one is listening?]]</p>

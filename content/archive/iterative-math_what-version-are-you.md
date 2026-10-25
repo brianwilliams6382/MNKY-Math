@@ -176,7 +176,6 @@ A single question can begin the next iteration.
 
 **What version are you running?**
 
+<hr data-end-marker />
 
-
-<br>
 <p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>What gets counted shapes behavior. This explores how metrics influence choices — and [[cost-of-being-counted|what happens when counting begins to define you]].</p>

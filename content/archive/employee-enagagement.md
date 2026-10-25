@@ -117,7 +117,6 @@ And when metrics start measuring loyalty to the metric itself, something fundame
 
 Are your engagement and performance systems measuring connection… or compliance?
 
+<hr data-end-marker />
 
-
-<br>
 <p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>Organizations measure what they believe matters. But before deciding how to measure success, we should probably ask a simpler question: [[what-it-means-to-win|What does winning actually look like?]]</p>

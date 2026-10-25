@@ -22,6 +22,7 @@ linkedinURL: https://www.linkedin.com/pulse/what-means-win-mnky-math-a4efe
 aliases: []
 permalink:
 journeys:
+- {j_id: "first-walk", j_name: "First Walk", j_seq: 8, j_desc: "What we call winning influences what we pursue, what we measure, and what we may be willing to sacrifice along the way."}
 ---
 
 ![[/static/M3-Win.webp]]
@@ -105,6 +106,6 @@ Because if two teams both achieved what they set out to do, the scoreboard may b
 
 And sometimes, the most important differences aren’t in how the game is played — but in how victory is defined.
 
+<hr data-end-marker />
 
-<br>
 <p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>Once we've decided what winning looks like, the next challenge is [[the-mirage-of-precision|knowing whether we're actually measuring it.]]</p>

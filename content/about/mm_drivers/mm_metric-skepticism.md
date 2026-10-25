@@ -47,6 +47,8 @@ It also asks: **What might it hide, distort, reward, or replace?**
 
 This is one of the core capacities MNKY Math strives to strengthen: **==the ability to use metrics without becoming captured by them==**.
 
+Because a metric is never an outcome; it is a distorted echo of a system in motion.
+
 ---
 
 ## What it is not

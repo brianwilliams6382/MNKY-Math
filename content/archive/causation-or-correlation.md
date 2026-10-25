@@ -139,7 +139,8 @@ They’re different stages of learning.
 
 Trouble begins when we collapse one into the other too quickly… and forget that we ever did.
 
+<hr data-end-marker />
 
-<br>
+
 <p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>[[metrics-reward-excuses|Why smart, well-intentioned people keep doing things that no longer make sense]] — without blame, and without a checklist.</p>
 

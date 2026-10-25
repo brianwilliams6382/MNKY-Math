@@ -1,0 +1,19 @@
+import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
+
+export const MMEssayEndMark: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
+  // Read signatureCode from frontmatter (e.g. signatureCode: "V01C1.M31")
+  const signatureCode = fileData.frontmatter?.signatureCode as string | undefined
+
+  // If no signatureCode exists in the note's frontmatter, skip rendering
+  if (!signatureCode) return null
+
+  return (
+    <div style={{ width: "100%", textAlign: "left" }}>
+      <span className="mm-signature-code">
+        ⋮⋮⋮ {signatureCode}
+      </span>
+    </div>
+  )
+}
+
+export default (() => MMEssayEndMark) satisfies QuartzComponentConstructor

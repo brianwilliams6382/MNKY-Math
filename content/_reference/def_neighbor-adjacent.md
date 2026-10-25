@@ -1,7 +1,7 @@
 ---
 draft: false
 enableToc: false
-readTimeMM: false
+readTimeMM: true
 explorerHide: true
 title: Adjacent Neighbor
 signatureCode:

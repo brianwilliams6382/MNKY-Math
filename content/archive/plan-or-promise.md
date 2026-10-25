@@ -119,10 +119,7 @@ Most organizations don’t suffer from broken promises.
 
 They suffer from **plans that quietly turned into something else**.
 
----
 
-The story doesn't end here, because [[plan-or-promise_where-you-stand-matters|where you stand matters]].
+<hr data-end-marker />
 
-
-<br>
-<p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>A plan’s meaning can differ by where you stand. When strategy and execution interpret plans differently, [[plan-or-promise_where-you-stand-matters|alignment strains and promises emerge unintentionally]].</p>
+<p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>The story doesn't end here. A plan’s meaning can differ by where you stand. When strategy and execution interpret plans differently, [[plan-or-promise_where-you-stand-matters|alignment strains and promises emerge unintentionally]].</p>

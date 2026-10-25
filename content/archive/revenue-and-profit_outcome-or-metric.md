@@ -235,10 +235,9 @@ Noticing when an outcome has quietly become an instruction is often enough to re
 
 Sometimes, restoring dimensionality is what allows the real bottleneck to surface.
 
-And that widening is where better decisions begin.
+And that widening is where better decisions can begin.
 
+<hr data-end-marker />
 
-
-<br>
 <p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>Revenue and profit don't exist in isolation. They emerge from assumptions, definitions, and decisions that evolve over time. [[iterative-math_what-version-are-you|So do we.]]</p>
 

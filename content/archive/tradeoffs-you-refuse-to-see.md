@@ -432,6 +432,6 @@ And sometimes… into us.
 
 They just wait — until they show up somewhere we didn’t think to look.
 
-<br>
-<br>
+<hr data-end-marker />
+
 <p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>Seeing the tradeoffs doesn’t remove them. [[stand-somewhere-on-purpose|It clarifies where you choose to stand]].</p>

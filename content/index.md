@@ -22,72 +22,103 @@ aliases: []
 permalink: /
 journeys:
 ---
+<h1 style="font-size: clamp(2.5rem, 5vw, 3.05rem); line-height: 1.05; margin-top: 1.5rem; margin-bottom: 1.15rem"> <span class="mm-masthead-rubik">Look Like A MNKY</span> </h1>
+<p style="
+  font-size: clamp(1.18rem, 2vw, 1.7rem);
+  letter-spacing: 0.015em;
+  margin-left: 1.2rem;
+  margin-bottom: 2.1rem;
+"><strong>
+  ... and stop being so predictably usable.
+</strong></p>
+What do you do when you need a child to do something?
 
-![[/static/home_chairs.webp]]
+You arrange the conditions toward the outcome you want.  
 
-## Today’s systems are shaping people... faster than people can see.
+_Though you may not always think of it that way._
 
-Many systems do this by appropriating predictable participation.
+- Maybe you want to avoid a candy meltdown at the grocery store, so you choose the checkout line without candy displays — even if the line is longer.<br><br>
 
-They shape what we notice, reward, repeat, avoid, and accept as normal.
+- Maybe you want the toys picked up, so you introduce an incentive: a reward for doing it, or a consequence for not doing it.<br><br>
 
-Some systems work to make life easier.<br>Some work to learn about us.<br>Some work to direct us.<br>
-> Some work best when their influence feels like ordinary choice.
+- Maybe you want <span style="color: var(--gray); font-style: italic;">(what? So you...)</span>
 
-And some exercise each of these... and more.
+In each case, the child still chooses.
 
-## Systems exist to produce outcomes.
+**But the conditions surrounding that choice are arranged by you.**
 
-Sometimes you benefit from the outcome. <br>Sometimes you help produce the outcome.
+➖
 
-<span style="font-size: 1.5rem;">👋 </span><span style="font-family: var(--body); color: var(--darkgray); font-style: italic; font-size: 1.05rem; letter-spacing: 0.03rem; padding-left: 0.09rem; text-decoration: underline;">Sometimes you are part of the outcome.</span>
+Now reverse your position.
 
-But systems do not only produce outcomes.
+People, organizations, and systems around you can do much the same thing.
 
-They train behavior.
+You still choose.
+
+But **_you choose inside conditions you didn't arrange_**.
+<br><br>
+## Systems shape conditions.
+
+That's one way systems work. They change what's available, rewarded, urgent, easy, or normal.
+
+Those conditions matter because they meet something already inside you: your preferences, habits, identity, and learned ideas about what can or should happen. 
+
+> Your choices still come from you.<br>_But they don't come from nowhere._
+
+When systems can reliably shape conditions, **_your predictability becomes usable_**.
+
+So if something outside of you can shape the conditions you encounter — and those conditions activate patterns already inside you — then how much of what shaped the resulting choice are you actually seeing?
 
 That is why MNKY Math looks.
 
-## MNKY Math exists to inspire _systems awareness_.
+To help you look like a MNKY too.
+<br><br>
+## MNKY Math exists to inspire a different kind of *systems awareness*.
 
-Some systems are obvious: workplaces, policies, platforms, markets, dashboards.
+We are not anti-system. We couldn't be. 
 
-Others are harder to see because they do not announce themselves as systems. 
+To be anti-system would be like being anti-oxygen.
 
-They may be designed, embedded, normalized, or experienced in ways that make them hard to identify.
+Like oxygen, systems surround us. We depend on them. We participate in them. We create them.
 
-They feel like [[def_preference|ordinary choices]].<br><br>
+Our concern is not systems.
 
-MNKY Math explores the hidden relationships between _systems_, _behavior_, and _outcomes_, because...
+**It is how easily an adult can become predictably usable without realizing it.**
 
-> **[[mm_more-mnkys|The World needs more MNKYs]]**
+With greater awareness, we can be more intentional about what we are *breathing in* — and what we are helping put back into a system. That is why MNKY Math looks more closely at the participant-system relationships we all live inside but rarely examine.
 
-A system can appear to be working while quietly teaching people to notice, repeat, or protect the wrong things.
+MNKY Math is for people living inside these systems, people responsible for them, and people designing them. Most thought leadership publishes the thinking and asks people to follow it. Instead, we develop the thinking in public through essays, observations, shared language, and evolving ideas. Because...
 
-MNKY Math strives to make those patterns visible — so we can better understand how systems shape us, how we participate in them, and **_who a system is actually working for_**.
+**MNKY Math doesn't allow the observer to pretend they stand outside the participant-system relationship.**
 
-Because...
-
-<span class="mm-callout-emoji" style="--emoji: '  ';">**● Your experience inside systems matters.<br>● What feels personal may also be systemic.**</span>
-
-Not sure why this matters or where to begin?
-
-Begin with a [[archive/musical-chairs|story]]... 
-
-or [[first-walk|a First Walk]], a curated path through our _digital garden_.<br><br><br><br>
-
-
-<div class="mm-refrain-card mask-open phrase-six"></div>
-<div style="text-align: left; font-size: 0.88rem; font-weight: 800; letter-spacing: -0.01rem; color: var(--darkgray); transform: scaleY(1.25);  margin-left: 1.5rem; margin-top: 0.5rem; !important;">Most publishing asks people to follow the thinking<br> MNKY Math invites you to enter the thinking.</div> <div style="text-align: left; font-size: 0.88rem; font-weight: 800; letter-spacing: -0.01rem; color: var(--darkgray); transform: scaleY(1.25);  margin-left: 1.5rem; margin-top: 1.3rem; !important;">What you notice, question, and challenge is not outside the work.<br> It is part of how the work gets clearer.</div>
-<div style="text-align: left; font-size: 0.88rem; font-weight: 800; letter-spacing: -0.01rem; color: var(--darkgraymm); transform: scaleY(1.25);  margin-left: 1.5rem; margin-top: 1.3rem; !important;">Share what you are seeing with <a href="/about/mm_troop/mm_connect-with-mnky-math" style="text-decoration: none; display: inline-block;">The Troop</a>.</div>
+We are all part of it, whether we choose to be or not.
 <br><br>
 
-## How to explore
+MNKY Math is an invitation for you to enter the thinking.
 
-MNKY Math is meant to be explored as an expansive [[mm_exploring-the-garden|garden]], not consumed as a feed.
+➡️ To challenge it. Test it. Help improve it.
+<br><br>
 
-You can navigate using the [[mm_exploring-the-garden#Explorer|Explorer]] in the left panel for a more traditional path, such as entering the [[archive/index|Archive]] to browse published pieces, or follow linked concepts as they appear throughout the text. 
+**The shared aim is simple:**
 
-The [[mm_exploring-the-garden#Graph View|Graph View]] offers another way in — showing how ideas connect across the garden.
+**🗹 see more of what is shaping us**  
+**🗹 help you see more of what is shaping you**
+<br><br>
 
-For the deeper story [[about/mm_emergence|behind the name]], the lens, and the work, read [[mm_our-why|Why MNKY Math]].
+---
+# Keep looking
+
+**[[musical-chairs|Begin with a story]]**  
+See the MNKY Math lens applied to something familiar.
+
+**[[first-walk|Take a First Walk]]**  
+Follow a curated path through the garden.
+
+**[[mm_exploring-the-garden|Explore the Garden]]**  
+Wander freely and follow the ideas that pull you.
+
+**[[mm_connect-with-mnky-math|Share what you're seeing]]**  
+Question it. Challenge it. Help the thinking get clearer.
+
+*Curious about the name, the lens, and the work? **[[mm_our-why|Why MNKY Math]]**
+

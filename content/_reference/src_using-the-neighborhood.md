@@ -2,7 +2,7 @@
 draft: false
 enableToc: true
 readTimeMM: true
-explorerHide: false
+explorerHide: true
 title: Using the Neighborhood
 signatureCode:
 contentSection:

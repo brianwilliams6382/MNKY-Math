@@ -176,6 +176,7 @@ And that alignment doesn’t require intent.
 
 It happens through repeated, unconscious calibration.
 
-<br><br><br>
+<hr data-end-marker />
+
 <p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>Metrics are meant to guide decisions — but what happens when they become the goal? A deep look at [[when-the-metric-replaces-the-meaning|how measurement can drift from purpose and distort outcomes]].</p>
 

@@ -130,6 +130,6 @@ What changes when attention is no longer assumed, but measured?
 
 And how differently do we move through public space once we realize the environment is paying attention back?
 
+<hr data-end-marker />
 
-<br>
 <p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>By now you should be seeing how we touch many systems throughout our day. This is [[invitation-to-mnky-math|why MNKY Math exists]] to offer orientation — not answers — inside those systems.</p>

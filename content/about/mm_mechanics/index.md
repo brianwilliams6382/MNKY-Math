@@ -21,7 +21,6 @@ socialImage: ""
 aliases: []
 permalink:
 journeys:
- - {j_id: "first-walk", j_name: "First Walk", j_seq: 6, j_desc: "Our operating structure, because how something is produced shapes what it becomes."}
 ---
 MNKY Math is intentionally not organized first as a funnel, newsletter, or monetization engine.
 

@@ -261,6 +261,6 @@ And whether you realize it or not — others orient around it.
 
 Including you.
 
+<hr data-end-marker />
 
-<br>
 <p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>Before we can decide where to stand, we need a shared understanding of what we're standing inside. That begins with a simple question: [[what-do-we-mean-by-system|What do we mean by system?]]</p>

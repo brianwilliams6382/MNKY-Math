@@ -1,7 +1,7 @@
 ---
 draft: false
-enableToc: false
-readTimeMM: false
+enableToc: true
+readTimeMM: true
 explorerHide: true
 title: Avoidance Response
 signatureCode:

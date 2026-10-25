@@ -24,8 +24,8 @@ permalink:
 journeys:
   - j_id: first-walk
     j_name: First Walk
-    j_seq: 1
-    j_desc: Once you see how a simple game can shape behavior, it becomes harder not to ask what the larger systems around us are teaching too.
+    j_seq: 3
+    j_desc: Before we can begin seeing systems around us, it helps to understand what makes something a system in the first place.
 ---
 
 
@@ -191,9 +191,8 @@ But the outcomes are consistent:
 
 - More time spent.
 - More return behavior.
-- More alignment with what the system <span style="text-decoration: underline;">surfaces</span>.
-
-And less of what it doesn’t.
+- More alignment with what the system shows you.
+- _Perhaps a growing feeling of need._
 
 Whether you post or not doesn’t change this.
 
@@ -249,7 +248,7 @@ Even the ones that feel like you.
 
 If it keeps happening, it’s not random — **==it’s a system.==**
 
-<br>
+<hr data-end-marker />
 
 > [!mmchallenge]+ Challenge
 >- A cat meows incessantly.<br>
@@ -263,8 +262,16 @@ If it keeps happening, it’s not random — **==it’s a system.==**
 >The companion discussion on LinkedIn includes the **MNKY Math take** and is where the conversation continues.<br><br>
 >
 
-> [!mmref]+ _Reference_
-> - The Goal (Eliyahu M. Goldratt)
 
 <p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>Recognizing a system is only the beginning. The next step is understanding [[not-all-systems-behave-the-same|why different systems behave in different ways]].</p>
+
+
+
+<div class="mm-sources-block" markdown="1"> 
+
+<span class="mm-sources-title">Sources:</span> 
+
+- The Goal (Eliyahu M. Goldratt)
+ 
+</div>
 

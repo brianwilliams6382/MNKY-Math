@@ -19,10 +19,6 @@ socialImage: ""
 aliases: []
 permalink:
 journeys:
-  - j_id: first-walk
-    j_name: First Walk
-    j_seq: 8
-    j_desc: Different pages do different kinds of work. These differences are called content types.
 ---
 # Locating Content
 
@@ -63,7 +59,7 @@ Archive pages are often more situated than Foundation pages. They may begin with
 The Archive is where ideas are explored before they become stable parts of the framework.
 
 > [!info]- Essays  
-> Essays are developed pieces of writing that explore an idea, pattern, tension, or claim. <br><br>An essay usually has a point of view. It may introduce a lens, challenge a common assumption, connect multiple ideas, or show how a system shapes behavior and outcomes. <br><br>Essays are one of the primary ways MNKY Math develops in public.<br><br>
+> Essays are developed pieces of writing that explore an idea, pattern, tension, or claim. <br><br>An essay usually has a point of view. It may introduce a lens, challenge a common assumption, connect multiple ideas, or show how a system shapes behavior and outcomes. <br><br>Essays are one of the primary ways MNKY Math thinks out loud in public. They allow ideas to be explored, challenged, revised, and connected before they become more stable parts of the framework.<br><br>
 
 > [!info]- Stories  
 > Stories use narrative, scene, or lived experience to help you enter an idea. <br><br>A story may not explain the entire framework directly. Instead, it gives you something concrete to stand inside before moving toward the larger pattern. <br><br>Stories are useful when an idea needs to be felt before it can be fully named. <br><br>

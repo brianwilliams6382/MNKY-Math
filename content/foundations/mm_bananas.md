@@ -16,6 +16,7 @@ description: ""
 socialDescription: ""
 mmShort: Bananas are a MNKY Math symbol for what systems teach people to need, chase, protect, accept, or accumulate.
 tags:
+  - seedling
 date: 2026-05-27
 last_reviewed: 2026-05-29
 socialImage: ""
@@ -53,6 +54,19 @@ Bananas are not only rewards. They are proxies for need, want, safety, status, s
 
 **A system shapes behavior partly by shaping what counts as a banana.**
 
+But a banana does not shape behavior by value alone.
+
+It becomes more behaviorally powerful when it connects with a familiar [[def_consequence-structure|consequence structure]] — a learned sense of what may happen if someone acts, waits, complies, resists, or does nothing.
+
+The banana provides the stake.
+
+The consequence structure helps make the possible gain, loss, protection, or cost legible.
+
+A system can then use both.
+
+It can place a banana inside a consequence structure a person already understands.
+
+
 Before calling something bananas, MNKY Math asks:
 
 What banana is being chased?  
@@ -60,6 +74,7 @@ What banana is being protected?
 What banana is being withheld?  
 What banana is being promised?  
 What banana is being mistaken for the real need?
+What consequence structure is making this banana meaningful?
 
 > [!example]Bananas... 
 > - represent the things systems teach us to chase, accept, value, protect, or dismiss — and the reminder that what looks irrational from one position may make sense from another. <br>

@@ -18,7 +18,7 @@ socialImage: ""
 aliases: []
 permalink:
 journeys:
- - {j_id: "first-walk", j_name: "First Walk", j_seq: 3, j_desc: "MNKY emerged out of a contradiction many people will recognize."}
+ - {j_id: "first-walk", j_name: "First Walk", j_seq: 5, j_desc: "MNKY emerged out of a contradiction many people will recognize."}
 ---
 ## A casual beginning
 
@@ -77,7 +77,7 @@ The monkey was not an insult.
 
 It was a recognition.
 
-A _monkey_ is what a system often asks us to become when it wants performance without reflection, when it wants compliance devoid of hesitation.
+A _[[def_monkey|monkey]]_ is what a system often asks us to become when it wants performance without reflection, when it wants compliance devoid of hesitation.
 
 But the word carried too much history and too much noise to hold the idea cleanly.
 
@@ -99,6 +99,6 @@ _Other useful paths:_
 
 To see the neighboring ideas, fields, and concepts that help shape MNKY Math, visit [[neighborhood/index|The Neighborhood]].  
   
-To explore the essays and applied observations where MNKY Math is being developed in public, visit [[archive/index|Archive]].  
+To explore the essays and applied observations where MNKY Math is thinks out loud and develops in public, visit [[archive/index|Archive]].  
   
 To learn how to participate, contribute, or stay connected as MNKY Math grows, visit [[about/mm_troop/index|The MNKY Math Troop]].

@@ -21,6 +21,8 @@ aliases:
 permalink:
 journeys:
 ---
+Whether you're just arriving or have already followed a few paths, this is a place to discover how MNKY Math works and where you might explore next.
+
 ## Growing in Public
 
 MNKY Math develops in public because the framework has to keep evolving with the world it is trying to understand.
@@ -58,7 +60,8 @@ Those are not automatically wrong.
 **But they are not neutral.**
 
 MNKY Math begins from a different posture: 
-- develop the work in public, 
+- think out loud in public,
+- develop the framework in public, 
 - make the structure visible, 
 - expose the evolving language, and... 
 - allow the framework to be continuously tested, challenged, tuned, and adapted.

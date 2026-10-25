@@ -32,7 +32,11 @@ MNKY Math is oriented toward three larger aims:<br><br>
 
 <span class="mm-callout-clean;" style="color: var(--darkgraymm); font-size: 1.3rem; font-weight: bold;">☝️ more durable outcomes,<br><br>✌️ better participation,<br><br>👌 and better design.</span><br>
 <br><br>
-These matter because systems do not only produce results.
+Seeing more does not give us complete control. But increased resolution can give us greater navigational control as participants — helping us see more clearly what is moving us, what we are moving, and what we might change about either.
+
+<div style="margin-left: 1.6rem;">Resolution helps us see more of the field.<br>Seeing more of the field gives us more ways to navigate it.</div>
+
+These aims matter because systems do not only produce results.
 
 They also train behavior, shape participation, distribute agency, and teach people what is worth repeating.
 
@@ -103,11 +107,11 @@ This is why MNKY Math strengthens capacities such as [[mm_design-conscience|desi
 ---
 ## The larger aim
 
-MNKY Math helps people see what systems are teaching — so we can build, measure, and participate in ways we are willing to become.
+MNKY Math helps people see what systems are directing — so we can build, measure, and participate in ways we are willing to become.
 
 Because how we produce something becomes part of what we produce.
 
-And what we produce becomes part of who we are.
+And what we produce becomes part of who we are and how we participate.
 
 - As people — or MNKYs.
 - As teams — or Troops.

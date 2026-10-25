@@ -1,7 +1,7 @@
 ---
 draft: false
 enableToc: false
-readTimeMM: false
+readTimeMM: true
 explorerHide: true
 title: Metric-Outcome Gap
 signatureCode:
@@ -24,9 +24,9 @@ journeys:
 ---
 ## Metric-Outcome Gap  
   
-A **metric-outcome gap** is the distance between what a metric appears to show and the fuller outcome or meaning it is being used to represent.  
+A **metric-outcome gap** is the distance between what a metric appears to show and the fuller outcome or meaning it is being used to represent. 
   
-The gap exists because a metric is never the whole outcome.  
+The gap exists because a metric is never an outcome; it is a distorted echo of a system in motion.  
   
 It is a signal, proxy, count, score, ratio, category, or [[def_composite-metric|composite metric]] selected to make some part of reality visible.  
   

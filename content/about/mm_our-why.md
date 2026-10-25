@@ -18,7 +18,6 @@ socialImage: ""
 aliases: []
 permalink:
 journeys:
-- {j_id: "first-walk", j_name: "First Walk", j_seq: 2, j_desc: "There is a little monkey in all of us. A deeper look at the meaning behind our name."}
 ---
 
 ## Why MNKY Math
@@ -112,7 +111,7 @@ Because this is where the system's steering becomes visible.
 
 ## Why MNKY
 
-There is a little monkey in all of us.
+There is a little [[def_monkey|monkey]] in all of us.
 
 The part that responds before it reflects. The part that reacts to the pressure or direction of the system's intent. The part that follows the reward, avoids the friction, accepts the default, chases the signal, or repeats the pattern because the system made our next move feel obvious — the part that chases the [[mm_bananas|bananas]].
 

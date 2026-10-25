@@ -16,7 +16,7 @@ socialDescription: ""
 mmShort:
 tags:
   - agency
-date: 2026-05-06
+date: 2026-05-11
 last_reviewed: 2026-07-01
 socialImage: ""
 linkedinURL:
@@ -190,7 +190,8 @@ Not all systems behave the same.
 
 Know which one you’re in.
 
-<br>
+<hr data-end-marker />
+
 
 > [!mmchallenge]+ Challenge
 > In “_What Do We Mean By System_”, we established a simple rule:<br><br>
@@ -221,9 +222,14 @@ Know which one you’re in.
 >**What kind of system is each?**<br><br>
 >The companion discussion on LinkedIn includes the **MNKY Math take** and is where the conversation continues.<br><br>
 
-
-> [!mmref]+ Reference:
-> - _[[what-do-we-mean-by-system|What Do We Mean by System]]_ (MNKY Math)
-
 <p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>Once we recognize that systems behave differently, the next question becomes: [[where-the-system-begins-and-ends|Where does the system actually begin — and end?]]</p>
+
+
+<div class="mm-sources-block" markdown="1"> 
+
+<span class="mm-sources-title">Sources:</span> 
+
+- _[[what-do-we-mean-by-system|What Do We Mean by System]]_ (MNKY Math)
+ 
+</div>
 

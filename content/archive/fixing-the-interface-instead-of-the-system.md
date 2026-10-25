@@ -139,7 +139,7 @@ And credibility isn’t fixed by improving the interface or by making the signal
 It’s restored by realigning the system to what’s actually happening.
 
 It’s fixed by making it true again.
-<br><br>
 
-<br>
+<hr data-end-marker />
+
 <p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>When systems create friction, people route around them. [[when-non-compliance-is-rational|Non-compliance isn’t defiance—it’s adaptation]], revealing where design and reality no longer align.</p>

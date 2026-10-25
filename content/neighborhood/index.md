@@ -30,7 +30,7 @@ It sits near existing theories, disciplines, methods, and practices that also st
 
 These pages are not exhaustive summaries. They are orientation notes: what the idea is, why it matters to MNKY Math, where it overlaps, where it differs, and where to go deeper.
 
-For more detail on how these pages are organized, see [[ref_using-the-neighborhood|Using the Neighborhood]].
+For more detail on how these pages are organized, see [[src_using-the-neighborhood|Using the Neighborhood]].
 
 ---
 ## INDEX

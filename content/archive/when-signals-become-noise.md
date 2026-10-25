@@ -40,7 +40,7 @@ A car horn is a signal. It jolts you to attention. You survey. You decide.
 
 ➡️ Until it’s constant (traffic). Then it becomes background. (And you turn up the radio.)
 
-The notification chimes of your smartphone are signals. At some point, frequency turns signal into something else.
+The notification chimes of your smartphone are signals. But at some point, frequency turns signal into something else.
 
 Signals offer safety.
 
@@ -54,9 +54,9 @@ Signals provide clarity.
 
 Many metrics operate the same way. They don’t just measure.<br>They signal.
 
-- What to notice.
-- When to act.
-- What matters.
+- What to notice
+- When to act
+- What matters
 
 NPS scores signal customer sentiment. Until they’re optimized… and stop reflecting it.
 
@@ -129,7 +129,6 @@ Once it starts reflecting the system instead… clarity becomes confidence witho
 
 > **And that’s when the system stops helping you see… _and starts helping you believe_.**
 
-<br>
-<br>
-<br>
+<hr data-end-marker />
+
 <p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>When everything is urgent, nothing is trusted. Explore how [[the-system-that-cried-wolf|excessive alerts and false signals erode credibility, slow response, and reshape behavior]].</p>

@@ -19,7 +19,8 @@ last_reviewed:
 socialImage: ""
 aliases: []
 permalink:
-journeys:
+journeys: 
+- {j_id: "first-walk", j_name: "First Walk", j_seq: 2, j_desc: "Once you see how a simple game can shape behavior, it becomes harder not to ask what the larger systems around us are teaching too."}
 ---
 
 ## An early system
@@ -64,7 +65,7 @@ along with almost anything else you can think to name, **_==and many things you 
 - Rules create constraints.
 - Signals shape timing. 
 - Scarcity changes behavior. 
-- Rewards change what feels worth doing. 
+- Incentives change what feels worth doing. 
 
 And outcomes begin to feel personal <span style="text-decoration: underline;">even when the system helped produce them</span>.
 

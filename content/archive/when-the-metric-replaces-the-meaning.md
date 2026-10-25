@@ -120,6 +120,6 @@ When the number becomes the goal, the meaning begins to fade.
 
 And once it fades far enough… the system can no longer tell the difference.
 
-<br><br>
-<br>
+<hr data-end-marker />
+
 <p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>As systems scale, signals degrade. Learn [[when-signals-become-noise|how over-measurement, overlapping metrics, and system complexity turn meaningful data into noise]] — and what that costs.</p>

@@ -19,10 +19,6 @@ socialImage: ""
 aliases: []
 permalink:
 journeys:
-  - j_id: first-walk
-    j_name: First Walk
-    j_seq: 9
-    j_desc: We believe our readers move through three core reading modes - mirroring, modeling and mastering.
 ---
 # Reading Modes
 

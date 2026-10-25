@@ -51,7 +51,7 @@ Not perfectly independent.
   
 But more aware of the systems shaping our behavior, more careful with measurement, more able to recover agency, and more willing to ask what the system is quietly teaching us to become.  
   
-Systems may reward monkeys.  
+Systems may reward [[def_monkey|monkeys]].  
   
 ### But the World needs MNKYs. And more of them. 
   
@@ -64,6 +64,10 @@ Systems may reward monkeys.
 ➡️ **==And protect agency where systems quietly try to reduce it.==**
 
 ---
+
+<div style="margin-left: 2rem; font-style: italic; color: var(--darkgraymm);">MNKY is agency offered, not taken.<br>
+Participation chosen, not extracted.<br>
+Outcome with awareness, not performance for approval.</div><br>
 
 [[mm_become-a-mnky|Becoming a MNKY]] simply means getting better at looking.
 

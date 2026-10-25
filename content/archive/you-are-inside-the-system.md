@@ -209,10 +209,8 @@ And if that’s true, then the next question becomes harder to ignore:
 
 What, exactly, is the system shaping you and others to become?
 
-<br>
+<hr data-end-marker />
 
-
-<br>
 <p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>If the system is shaping behavior… over time, [[what-the-system-rewards-you-become|you become what the system rewards.]]</p>
 
 

@@ -3,7 +3,7 @@ draft: false
 enableToc: true
 readTimeMM: true
 explorerHide: false
-title: Where the System Begins - and Ends
+title: Where the System Begins — and Ends
 signatureCode: V01C1.M25
 contentSection:
   - archive
@@ -15,7 +15,7 @@ description: ""
 socialDescription: ""
 mmShort:
 tags: []
-date: 2026-05-08
+date: 2026-05-21
 last_reviewed: 2026-07-01
 socialImage: ""
 linkedinURL:
@@ -222,8 +222,7 @@ The boundary is.
 
 👉 And the boundary is a choice.
 
-
-<br>
+<hr data-end-marker />
 
 > [!mmchallenge]+ Challenge
 > A team is missing deadlines.<br><br>
@@ -239,11 +238,20 @@ The boundary is.
 >
 >The companion discussion on LinkedIn includes the **MNKY Math take** and is where the conversation continues — see how it compares to yours.<br><br>
 
-
-> [!mmref]+ Reference:
-> - The [[5-whys|5 Whys method]] was developed within the early thinking that became the Toyota Production System, building on work associated with Sakichi Toyoda and later popularized by Taiichi Ohno as a practical approach to root-cause investigation.
-
 <p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>Once we've chosen a boundary, we still need a way to make sense of what we see. That's where [[math-is-how-we-try-to-make-sense-of-systems|math enters the picture]].</p>
+
+
+
+<div class="mm-sources-block" markdown="1"> 
+
+<span class="mm-sources-title">Sources:</span> 
+
+- The [5 Whys method](app://obsidian.md/5-whys) was developed within the early thinking that became the Toyota Production System, building on work associated with Sakichi Toyoda and later popularized by Taiichi Ohno as a practical approach to root-cause investigation.
+ 
+</div>
+
+
+
 
 > [!mmpath]+ This essay also connects to
 > - [[def_boundary-analysis|Boundary Analysis]], a MNKY Math definition<br>

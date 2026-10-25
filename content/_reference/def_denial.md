@@ -2,7 +2,7 @@
 draft: false
 enableToc: false
 readTimeMM: true
-explorerHide: false
+explorerHide: true
 title: Denial
 signatureCode:
 contentSection:

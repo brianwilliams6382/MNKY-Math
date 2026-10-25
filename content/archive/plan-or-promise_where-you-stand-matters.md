@@ -141,8 +141,7 @@ Once you see the planets, the confusion starts to make sense.
 
 **And once it makes sense, it becomes much harder to pretend it isn’t there.**
 
+<hr data-end-marker />
 
-
-<br>
 <p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>When results shift and time compresses, correlation often fills the gap. A look at [[causation-or-correlation|how explanations form under pressure — and how they quietly shape decisions.]]</p>
 

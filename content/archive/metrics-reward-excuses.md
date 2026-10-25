@@ -74,7 +74,7 @@ Over time, that asymmetry trains a hidden conclusion:
 
 This often leads to a quieter reason targets continue to be pushed even when they aren’t being met.
 
-Maintaining the metric means maintaining the pattern.
+☝️ Maintaining the metric means maintaining the pattern.
 
 The routines, cadences, and expectations around the target remain intact, even if the outcome doesn’t improve. Adjusting the metric would require revisiting assumptions, reworking plans, and disrupting established motion (and rewriting the story of why the metric matters). Holding the metric steady preserves rhythm and story — even if progress stalls.
 
@@ -87,7 +87,7 @@ The metric holds. The story is affirmed. The person is held to the target.
 
 Over time, an informal incentive structure forms.
 
-When the target is missed, the system demands an explanation quickly—often before anyone has taken time to consider conditions. And because the metric is treated as fixed, the explanation becomes the only lever available.
+When the target is missed, the system demands an explanation quickly — often before anyone has taken time to consider conditions. And because the metric is treated as fixed, the explanation becomes the only lever available.
 
 That’s where defensive reasoning gets trained.
 
@@ -98,7 +98,7 @@ A familiar loop appears:
 - a revised defense is offered
 - another counterpoint is applied
 
-The exchange continues until something “resolves.”<br>And too often, the resolution is managerial escalation — not because the worker is uniquely failing, but because the system has run out of moves.
+The exchange continues until something “resolves.” And too often, the resolution is managerial escalation — not because the worker is uniquely failing, but because the system has run out of moves.
 
 That’s how you end up with improvement plans that ask a person to move a lever that can’t be moved.
 
@@ -117,7 +117,7 @@ Once a metric becomes central, it starts anchoring the story around it.
 
 Eventually, the metric doesn’t just describe performance. It defines relevance.
 
-At that point, explanations aren’t evaluated on accuracy.<br>They’re evaluated on acceptability.
+At that point, explanations aren’t evaluated on accuracy.<br>-> They’re evaluated on acceptability.
 
 - Will this be tolerated?
 - Will it pass without resistance?
@@ -171,7 +171,6 @@ The more important distinction is not whether targets are met, but whether devia
 
 Sometimes, that distinction is the only space learning has left.
 
+<hr data-end-marker />
 
-
-<br>
 <p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>Revenue and profit can describe what happened or shape what happens next. [[revenue-and-profit_outcome-or-metric|When those roles collapse, constraint migrates and strain spreads]].</p>

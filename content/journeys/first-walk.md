@@ -41,71 +41,34 @@ You may just want a first walk.
 
 ## What this Journey is
 
-**First Walk** is a guided introduction to MNKY Math.
+**First Walk** is a guided introduction to MNKY Math and the thinking behind it.
 
-It is designed for new visitors who want to understand what MNKY Math is, how the site is organized, and how the thinking begins to work.
+You've already been invited to **Look like a MNKY**.
 
-This Journey does not show you everything.
+First Walk is a place to begin discovering what that might mean.
+
+MNKY Math explores the relationships between systems, behavior, and outcomes. These relationships show up in many places. A workplace. A consumer experience. A familiar game. A metric. A choice that didn't entirely feel like your own.
+
+Each can reveal something about the systems we move through every day.
+
+First Walk brings together a few of these observations and ideas, giving you a starting point for recognizing patterns and seeing how MNKY Math approaches them.
+
+This Journey doesn't show you everything.
 
 It gives you enough to begin.
 
-## Why this Journey exists
-
-MNKY Math explores the hidden relationships between systems, behavior, and outcomes.
-
-That kind of thinking can be entered from many directions. A workplace example. A consumer pattern. A metric. A phrase. A definition. A story. A question that will not leave you alone.
-
-The garden structure allows those ideas to connect.
-
-But before you wander, it helps to know what kind of place you are in.
-
-This Journey gives you a simple path through the first ideas, pages, and orientation points that help MNKY Math make sense.
-
 ## How to use this Journey
 
-Use the Journey card below to move from one stop to the next.
+Use the Journey Card below to move from one stop to the next.
 
-Each stop introduces part of MNKY Math’s thinking or part of the garden itself.
+As you follow this path, you'll encounter links to related ideas, definitions, articles, and neighboring concepts.
 
-You do not need to read quickly.
+If a link catches your attention, you can use the preview feature to explore the linked page without leaving your current stop. This lets you look sideways without losing the path forward.
 
-You do not need to understand everything the first time through.
-
-Just keep noticing what the pages ask you to see.
-
-## Staying on the path
-
-MNKY Math pages include links to related ideas, definitions, articles, and neighboring concepts.
-
-If a link catches your attention, you can use the preview feature to look at that page without leaving the current stop. This lets you look sideways without losing the path forward.
-
-If you open a linked page directly, you are stepping off the First Walk and into the wider garden. That is not a mistake. It is part of how MNKY Math works.
-
-You can use your browser’s back button to return to the Journey, or come back to this page and begin again.
-
-## What to notice
-
-As you move through this Journey, pay attention to a few recurring questions:
-
-What is the system producing?
-
-What behavior is the system teaching?
-
-What outcome is being mistaken for a metric?
-
-What is being optimized, and what is being ignored?
-
-Where does agency increase?
-
-Where does agency disappear?
-
-These are not questions you need to answer all at once.
-
-They are lenses.
-
-The purpose of this first walk is to help you begin putting them on.
+Opening a linked page directly takes you off the First Walk and into the wider garden. You can return using your browser's back button, or come back to this page to begin again.
 
 ## Begin
 
-Start by moving to the first stop in the Journey card below: **Musical Chairs**
+The first stop is just below.
 
+_Note:_ Each Journey Card appears at the very bottom of each page. Some pages may include additional footer content and details that you may need to scroll through to reach the exact bottom. On mobile devices, the Journey Card appears just above the Graph View.

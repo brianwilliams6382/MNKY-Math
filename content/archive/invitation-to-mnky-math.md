@@ -22,6 +22,7 @@ linkedinURL: https://www.linkedin.com/pulse/why-mnky-math-mnky-math-yk6oe
 aliases: []
 permalink:
 journeys:
+- {j_id: "first-walk", j_name: "First Walk", j_seq: 4, j_desc: "There's a little monkey in all of us. Discover what that means, why MNKY Math exists, and what we're inviting you to notice."}
 ---
 ![[/static/M6-Tornado-Work.webp]]
 # Why This Needed a Name
@@ -62,7 +63,7 @@ It’s about the moment when a number stops being an indicator and starts becomi
 
 Because none of us operate outside these systems.
 
-A monkey is someone under influence. And that applies to each and every person: Frontline workers. Managers. Executives. Designers. Analysts. Leaders. Doctors. Politicians. 
+A [[def_monkey|monkey]] is someone under influence. And that applies to each and every person: Frontline workers. Managers. Executives. Designers. Analysts. Leaders. Doctors. Politicians. 
 
 > Everyone.
 
@@ -153,7 +154,13 @@ You become a different kind of MNKY by noticing where you are, your role in the 
 
 That’s the math worth hanging with.
 
+<hr data-end-marker />
 
-
-<br>
 <p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>Plans are meant to express intent, not obligation. Over time, [[plan-or-promise|language can turn plans into promises]] — reshaping expectations, accountability and trust inside orgs.</p>
+
+
+> [!mmpath]+ This essay also connects to
+> - [[mm_our-why|Why MNKY Math]] - A deeper look at the meaning behind our name and why we begin with the premise that there is a little monkey in all of us... _why we are all monkeys_.
+> - [[mm_more-mnkys|The World needs more MNKYs]] - Today’s systems are shaping people… faster than people can see. This matters because today's systems are very good at learning from and adapting to how you experience them, which is why your experience inside systems matters
+
+

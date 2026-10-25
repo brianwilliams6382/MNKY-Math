@@ -1,5 +1,39 @@
 @use "./base.scss";
 
+@layer fonts {
+  @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400..900&family=Rubik+Doodle+Shadow&display=swap');
+}
+
+/* Custom Homepage Masthead Classes */
+
+.mm-masthead-rubik {
+  display: inline-block;
+  transform: scaleY(1.13);
+  transform-origin: bottom;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  letter-spacing: 0.13em;
+  font-family: 'Rubik Doodle Shadow', cursive;
+  color: var(--dark);
+}
+
+.mm-masthead-roboto {
+  display: inline-block;
+  transform: scaleY(1.12);
+  transform-origin: bottom;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  letter-spacing: 0.03em;
+  font-family: 'Roboto Slab', serif;
+  font-weight: 800;
+  color: var(--dark);
+}
+
+
 /* ==========================================================================
    1. GLOBAL & STRUCTURAL RESET
    ========================================================================== */
@@ -600,49 +634,77 @@ blockquote {
   }
 }
 
-/* --- ENGINE 4: THE REFERENCE ATTRIBUTION LAYER --- */
-.callout[data-callout="mmref"] {
-  border: none !important;
-  /* Top and bottom dashed borders to isolate the citations elegantly */
-  border-radius: 2px !important;
-  border-bottom: 1px dashed var(--gray) !important;
-  background-color: var(--light) !important; 
-  padding-left: 0.50rem !important;
-  padding-right: 1.0rem !important;
-  margin: 2.0rem 0.5rem !important;
+/* --- ENGINE 4: THE NEW REFERENCE ATTRIBUTION LAYER --- */
+.mm-sources-block {
+  margin-top: 2.5rem !important;
+  margin-bottom: 1.5rem !important;
+  margin-left: 0.85rem !important;
+  margin-right: 0.85rem !important;
+  padding-bottom: 0.5rem !important;
+  border-top: 1px dashed var(--lightgray) !important; /* Subtle accent rule */
+  border-right: 6px solid var(--lightgray) !important; /* Subtle accent rule */
+  border-left: 6px solid var(--lightgray) !important; /* Subtle accent rule */
+  border-bottom: 1px dashed var(--lightgray) !important; /* Subtle accent rule */
+  border-radius: 8px !important; /* Softens the corners for a modern look */
   
-  .callout-title {
-    font-family: var(--headerFont) !important;
-    font-size: 1.2rem !important;
-    letter-spacing: 0.12em !important;
+  /* Branded Title Styling */
+  .mm-sources-title {
+    font-family: var(--bodyFont) !important;
+    font-size: 1.0rem !important;
     font-weight: 700 !important;
-    color: var(--dark)!important; 
-    margin-top: -0.50rem !important;
-    margin-bottom: -1.0rem !important;
-    display: inline-flex !important;
-    align-items: center !important;
-    gap: 0.4rem !important; /* Precise breathing room between icon and text */
-    
-    .callout-icon, .fold, svg { display: none !important; }
+    letter-spacing: 0.04em !important;
+    color: var(--darkgray)   !important; /* Matches your brand blue accent */
+    margin-left: 0.8rem !important;
+    margin-bottom: 0.25rem !important;
+    display: block !important;
   }
 
-  .callout-content {
-    font-family: var(--bodyFont) !important;
-    font-size: 0.92rem !important;
-    line-height: 1.5 !important;
-    color: var(--gray) !important;
+  /* Body Typography for Markdown Content */
+  font-family: var(--bodyFont) !important;
+  font-size: 0.92rem !important;
+  line-height: 1.0 !important;
+  color: var(--gray) !important;
 
-    ul {
-      list-style-type: disc !important;
-      padding-left: 1.25rem !important;
-      margin-top: 0.5rem !important;
-      li {
-        margin-bottom: 0.0rem !important;
-        display: list-item !important;
-      }
+  ul {
+    margin-top: 0.25rem !important;
+    margin-left: 0.8rem !important; /* Aligns the list with the title indentation */
+    margin-right: 0.8rem !important;
+    margin-bottom: 0.4rem !important;
+    padding-left: 1.25rem !important;
+    
+    li {
+      margin-bottom: 0.1rem !important;
     }
   }
 }
+
+/* --- ENGINE 5: ESSAY END SIGNATURE MARKER --- */
+
+.mm-signature-code,
+div.mm-signature-code,
+p .mm-signature-code {
+  display: block !important;
+  font-family: var(--codeFont) !important; /* Uses IBM Plex Mono */
+  font-size: 0.8rem !important;
+  font-weight: 700 !important;
+  color: var(--darkgraymm) !important; /* Restored your custom variable */
+  padding-top: 1.5rem !important;
+  margin-top: 1.0rem !important;
+  margin-bottom: 2.0rem !important;
+  text-align: left !important;
+  position: relative !important; /* Establishes anchor for pseudo-element */
+
+  /* Partial Border-Bottom Accent Line */
+  &::before {
+    content: "" !important;
+    display: block !important;
+    width: 6.3rem !important; /* <--- Control line length here (e.g., 50px, 3.5rem, 25%) */
+    height: 1px !important;
+    background-color: var(--darkgraymm) !important; /* Match text color or use var(--tertiary) */
+    margin-bottom: 0.3rem !important; /* Distance between code text and line */
+  }
+}
+
 
 /* --- MM MODULAR REFRAIN CONCEPT ENGINE --- */
 
@@ -684,6 +746,7 @@ blockquote {
   }
 }
 
+
 /* ==========================================================================
    MOBILE & TABLET RESPONSIVE OVERRIDES
    Activates automatically on screens narrower than Quartz's 768px tablet break
@@ -718,6 +781,7 @@ blockquote {
 .mm-refrain-card.stamp-r0::before { background-image: url("/static/not_easy.png") !important; }
 .mm-refrain-card.stamp-r8::before       { background-image: url("/static/not_easy_r8.png") !important; }
 .mm-refrain-card.stamp-r348::before     { background-image: url("/static/not_easy_r348.png") !important; }
+.mm-refrain-card.stamp-look::before     { background-image: url("/static/mnky_look_stamp.png") !important; }
 
 /* The Blank Mask Variations */
 .mm-refrain-card.mask-full::before      { background-image: url("/static/not_easy_blank1.png") !important; }
@@ -745,6 +809,10 @@ blockquote {
   content: "That is why practice matters." !important;
 }
 
+.mm-refrain-card.phrase-four::after {
+  content: "See something?\A Share what you see." !important;
+}
+
 .mm-refrain-card.phrase-five::after {
   content: "Systems Require Limits.\A Loops Require Clean Data." !important;
 }
@@ -757,6 +825,10 @@ blockquote {
   content: "Becoming MNKY begins with\A learning to look like a MNKY." !important;
 }
 
+
+.mm-refrain-card.phrase-eight::after {
+  content: "MNKY is agency offered, not taken.\A Participation chosen, not extracted. \A Outcome with awareness, not performance for approval." !important;
+}
 
 /* ─── MNKY MATH INLINE CUSTOM EMOJI ─── */
 .mm-inline-mnky {

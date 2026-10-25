@@ -157,11 +157,18 @@ Non-compliance isn’t failure.
 
 It’s feedback.
 
-<br><br>
-
-> [!mmref]+ Reference:
-> - _Alarm fatigue in healthcare — The Joint Commission, ECRI Institute_
-> - _Cybersecurity alert fatigue — IBM, Cisco_
-> - _Data breach notification fatigue — Federal Trade Commission, General Data Protection Regulation_
+<hr data-end-marker />
 
 <p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>[[tradeoffs-you-refuse-to-see|What happens when the system corrects the behavior… instead of the cause?]]</p>
+
+
+<div class="mm-sources-block" markdown="1"> 
+
+<span class="mm-sources-title">Sources:</span> 
+
+- _Alarm fatigue in healthcare — The Joint Commission, ECRI Institute_
+- _Cybersecurity alert fatigue — IBM, Cisco_
+- _Data breach notification fatigue — Federal Trade Commission, General Data Protection Regulation_
+ 
+</div>
+

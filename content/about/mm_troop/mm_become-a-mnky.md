@@ -114,6 +114,10 @@ To "look like a MNKY" is not about appearance.
 
 It is about attention.
 
+A [[def_monkey|monkey]] may perform what the system asks without fully seeing what is being asked.
+
+A MNKY begins to notice.
+
 A MNKY **_looks_** for what the system is teaching, what behavior is being trained, what outcomes are being protected or distorted, and where agency is being expanded or narrowed.<br><br>
 
 <div class="mm-refrain-card merch-patch-look phrase-seven"></div><br>

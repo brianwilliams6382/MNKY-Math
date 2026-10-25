@@ -20,11 +20,11 @@ socialImage: ""
 aliases: []
 permalink:
 journeys:
-  - j_id: first-walk
-    j_name: First Walk
-    j_seq: 7
-    j_desc: A map and manual of how to navigate the MNKY Math garden.
 ---
+
+
+![[/static/home_chairs.webp]]
+
 # The MNKY Math Garden  
   
 MNKY Math is built as a digital garden, not a traditional blog.  

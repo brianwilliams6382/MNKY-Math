@@ -96,7 +96,7 @@ The number wasn’t the story. It was the weather vane.
 
 Directional. Imperfect. Useful when handled with humility.
 
-In that environment, an imperfect metric created learning — not pressure.
+In that environment, an imperfect metric created applied learning — not pressure.
 
 ## The Spectrum Between Signal and Noise
 
@@ -119,10 +119,18 @@ The healthiest systems use metrics as tools for noticing, not trophies for winni
 - When was the last time a number changed the way your team felt about their work?
 - How do you balance math and meaning in the metrics you use?
 
-<br>
 
-> [!mmref]+ Reference:
-> - Reichheld, Fred. “The One Number You Need to Grow.” Harvard Business Review, December 2003
-> - Bain & Company, Net Promoter System Overview: https://www.netpromotersystem.com
+<hr data-end-marker />
 
 <p class="mm-sequence-bridge"><strong>Continue the publishing sequence</strong><br>If a metric can change how people behave, what happens when something that was [[how-attention-math-follows-us|never meant to measure begins influencing too]]?</p>
+
+
+<div class="mm-sources-block" markdown="1"> 
+
+<span class="mm-sources-title">Sources:</span> 
+
+- Reichheld, Fred. “The One Number You Need to Grow.” Harvard Business Review, December 2003
+- Bain & Company, Net Promoter System Overview: [https://www.netpromotersystem.com](https://www.netpromotersystem.com/)
+ 
+</div>
+
