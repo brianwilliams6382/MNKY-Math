@@ -27,7 +27,10 @@ journeys:
 
 # Causation or Correlation?
 
-The numbers shift. A metric comes up short. Something appears off. A meeting gets scheduled.
+1. The numbers shift. 
+2. A metric comes up short. 
+3. Something appears off. 
+4. A meeting gets scheduled.
 
 By the time people gather, the expectation isn’t curiosity — it’s clarity. Something has changed, and the system needs an explanation that can be shared, aligned around… and acted on.
 

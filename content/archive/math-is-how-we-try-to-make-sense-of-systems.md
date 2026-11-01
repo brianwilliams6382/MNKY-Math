@@ -211,9 +211,9 @@ Why 18?
 
 At some point, there was likely math behind it.
 
-- Patterns were analyzed.
-- Outcomes were measured.
-- Optimization decisions were made.
+- Patterns were analyzed
+- Outcomes were measured
+- Optimization decisions were made
 
 → Maybe shorter calls correlated with poor outcomes.<br>
 → Maybe average handling time mattered.<br>
@@ -266,9 +266,9 @@ Respond later.
 
 Then computers shortened the delay. Math moved closer to the action.
 
-- Transactions triggered formulas.
-- Thresholds triggered responses.
-- Systems began reacting in real time.
+- Transactions triggered formulas
+- Thresholds triggered responses
+- Systems began reacting in real time
 
 These highly complex digital systems often rely on predefined assumptions.
 
@@ -281,9 +281,9 @@ The formulas may be layered.
 
 AI introduces something different.
 
-- Not just measuring.
-- Not just reacting.
-- But dynamically adjusting.
+- Not just measuring
+- Not just reacting
+- But dynamically adjusting
 
 🔄Evolving interpretation.
 
@@ -295,8 +295,8 @@ The logic is no longer limited to observation.
 
 It operates inside it.
 
-- Responding in real time.
-- Shaping conditions as behavior unfolds.
+- Responding in real time
+- Shaping conditions as behavior unfolds
 
 **_Which raises a bigger question_**
 
@@ -308,7 +308,7 @@ What happens when systems evolve to interpreting and adjusting on their own?
 
 _The scientist may no longer be outside the dish._
 
-> The system now contains the observer.
+> **==The system now contains the observer.==**
 
 ---
 ## The Limitation

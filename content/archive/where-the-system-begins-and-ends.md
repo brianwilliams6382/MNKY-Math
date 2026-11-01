@@ -106,15 +106,15 @@ The response usually changes too.
 
 If the problem is inside the factory —
 
-- Repair the machine.
-- Improve the process.
-- Train the worker.
+- Repair the machine
+- Improve the process
+- Train the worker
 
 If the problem is outside the factory —
 
-- Strengthen suppliers.
-- Revisit forecasting.
-- Adapt to changing demand.
+- Strengthen suppliers
+- Revisit forecasting
+- Adapt to changing demand
 
 Expand the boundary again —
 

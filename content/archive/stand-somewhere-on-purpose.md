@@ -55,10 +55,10 @@ Even just being present is participation. There is no non-participation state.
 
 The moment you’re inside a system, it begins shaping how you move within it.
 
-- What you prioritize.
-- What you ignore.
-- What you tolerate.
-- What you optimize for — without realizing it.
+- What you prioritize
+- What you ignore
+- What you tolerate
+- What you optimize for — without realizing it
 
 > Participation (_passive or intentional_) means you’re already being shaped. 
 
@@ -76,9 +76,9 @@ Most of this doesn’t feel like a decision.
 
 It feels like flow. Like floating. Like being pushed more than choosing.
 
-- You follow the incentives.
-- You respond to the pressures.
-- You adapt to what’s rewarded.
+- You follow the incentives
+- You respond to the pressures
+- You adapt to what’s rewarded
 
 And over time, that adaptation becomes orientation.
 
@@ -102,8 +102,8 @@ But that only gets you so far.
 
 Because the system will keep doing what it does.
 
-- Optimizing. 
-- Shifting. 
+- Optimizing
+- Shifting
 - Distributing tradeoffs — whether you agree with them or not.
 <br><br>
 
@@ -118,9 +118,9 @@ There’s no neutral position.
 
 No frictionless path. No place where tradeoffs disappear.
 
-- Only different distributions of outcomes.
-- Different alignments of values.
-- Different ways of participating.
+- Only different distributions of outcomes
+- Different alignments of values
+- Different ways of participating
 
 So the question becomes:
 
@@ -233,9 +233,9 @@ But deliberately.
 
 The systems won’t stop.
 
-- They will continue to shape behavior.
-- To distribute tradeoffs.
-- To reward certain paths over others.
+- They will continue to shape behavior
+- To distribute tradeoffs
+- To reward certain paths over others
 
 That doesn’t change.
 

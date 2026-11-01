@@ -1414,3 +1414,32 @@ body[data-slug$="index"] {
     }
   }
 }
+
+/* ==========================================================================
+   LANDSCAPE MOBILE VIEWPORT FIX (UNSTICK & COMPACT HEADER)
+   ========================================================================== */
+
+/* Triggers when screen height is short (landscape phones) */
+@media screen and (max-height: 500px) and (orientation: landscape) {
+  /* 1. Stop header from eating vertical space */
+  header, 
+  .header,
+  header.mobile-only {
+    position: static !important; /* Allows body to scroll naturally without sticky overlay */
+    padding-top: 0.25rem !important;
+    padding-bottom: 0.25rem !important;
+  }
+
+  /* 2. Scale down logo & search height in landscape */
+  header img, 
+  header .logo,
+  header .search {
+    max-height: 35px !important;
+  }
+
+  /* 3. Re-enable standard flow for page content */
+  .page {
+    margin-top: 0 !important;
+    padding-top: 0.5rem !important;
+  }
+}

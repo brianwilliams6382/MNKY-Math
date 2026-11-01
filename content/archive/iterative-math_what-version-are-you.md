@@ -60,17 +60,17 @@ As independence increases, the surrounding systems begin to change.
 
 New metrics appear.
 
-- Education decisions.
-- Career progression.
-- Financial independence.
-- Relationships.
+- Education decisions
+- Career progression
+- Financial independence
+- Relationships
 
 Later still, the signals shift again.
 
-- Family responsibilities.
-- Stability.
-- Contribution.
-- Legacy.
+- Family responsibilities
+- Stability
+- Contribution
+- Legacy
 
 **Each stage installs new expectations and priorities.** The operating environment changes, forces modulate, and behavior adapts accordingly.
 
@@ -140,9 +140,7 @@ Our versions are not always deliberately written. Many are installed gradually b
 
 Version authorship tends to fall along a spectrum.
 
-![[/static/version-spectrum.webp]]
-
-<figure style="text-align: center; margin: 2.0rem 0;"> <img src="version-spectrum.webp" style="max-width: 100%; height: auto; border-radius: 4px;"> <figcaption style="font-family: var(--codeFont); font-size: 0.75rem; color: var(--gray); margin-top: 0.6rem; letter-spacing: -0.01rem;"> Version Authorship Spectrum </figcaption> </figure>
+<figure style="text-align: center; margin: 2.0rem 0;"> <img src="/static/version-spectrum.webp" style="max-width: 100%; height: auto; border-radius: 4px;"> <figcaption style="font-family: var(--codeFont); font-size: 0.75rem; color: var(--gray); margin-top: 0.6rem; letter-spacing: -0.01rem;"> Version Authorship Spectrum </figcaption> </figure>
 
 Most versions of ourselves begin toward the left side of this spectrum.
 
@@ -158,9 +156,7 @@ Only occasionally do people pause and consciously author the next version.
 
 Awareness of version does not force change. 
 
-→ Awareness provides context.
-→ It clarifies which metrics are currently driving behavior.
-→ It reveals whether the mode you are operating in matches the direction you want to move.
+→ Awareness provides context.<br>→ It clarifies which metrics are currently driving behavior.<br>→ It reveals whether the mode you are operating in matches the direction you want to move.
 
 And sometimes it opens the possibility of writing the next version more intentionally.
 

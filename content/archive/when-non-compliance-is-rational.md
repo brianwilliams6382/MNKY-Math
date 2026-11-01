@@ -38,7 +38,7 @@ Expense reporting becomes so detailed that people start approximating or delayin
 
 Calendars fill with meetings meant to improve alignment… so people begin declining them to actually get work done.
 
-> Not to break the system. **To make the work possible.**
+> Not to break the system.<br>**To make the work possible.**
 
 Nothing dramatic.
 
@@ -52,7 +52,7 @@ Security teams face a constant stream of alerts — many of them low-confidence 
 
 People receive repeated notifications about data breaches — important, serious signals — until they start ignoring them altogether.
 
-> Not because the risk isn’t real. **Because the signal no longer feels meaningful.**
+> Not because the risk isn’t real.<br>**Because the signal no longer feels meaningful.**
 
 ---
 
@@ -66,7 +66,7 @@ Vital signs. Threshold changes. Potential issues.
 
 But when alarms fire too often — especially when many aren’t actionable — staff begin to triage, delay, or silence them… just to function.
 
-> Not because they don’t care. **Because they have to.**
+> Not because they don’t care.<br>**Because they have to.**
 
 The pattern is the same.
 
@@ -96,9 +96,9 @@ Problems still get solved.
 
 But it happens outside the system.
 
-- Spreadsheets replace dashboards.
-- Side conversations replace official channels.
-- Experience replaces metrics.
+- Spreadsheets replace dashboards
+- Side conversations replace official channels
+- Experience replaces metrics
 
 > The system says one thing.<br>**_Reality says another. People follow reality._**
 
