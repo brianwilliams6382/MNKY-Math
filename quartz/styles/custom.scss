@@ -1419,38 +1419,47 @@ body[data-slug$="index"] {
    LANDSCAPE MOBILE VIEWPORT FIX (UNSTICK & FULL DOCUMENT FLOW)
    ========================================================================== */
 
-@media screen and (max-height: 500px) and (orientation: landscape) {
-  /* 1. Reset Header Positioning */
-  header, 
-  .header,
-  header.mobile-only,
-  .mobile-only {
-    position: relative !important;
-    top: auto !important;
-    left: auto !important;
-    height: auto !important;
-    max-height: none !important;
-    padding-top: 0.5rem !important;
-    padding-bottom: 0.5rem !important;
-  }
-
-  /* 2. Scale down Logo/Search elements in landscape */
-  header img,
-  header .logo,
-  .search {
-    max-height: 32px !important;
-  }
-
-  /* 3. Unlock Main Containers so the entire page scrolls naturally together */
-  html, 
-  body, 
-  .page, 
-  main, 
-  .center, 
+@media screen and (orientation: landscape) and (max-height: 600px) {
+  /* 1. Force the page container into standard scrolling block flow */
+  html,
+  body,
+  .page,
+  #quartz-body,
+  main,
+  .center,
   article {
-    position: relative !important;
+    position: static !important;
     overflow: visible !important;
     height: auto !important;
     max-height: none !important;
+  }
+
+  /* 2. Unstick all header variants, mobile bars, and fixed overlays */
+  header,
+  .header,
+  header.mobile-only,
+  .mobile-only,
+  .nav,
+  .sidebar {
+    position: static !important; /* Strips fixed/sticky positioning completely */
+    top: auto !important;
+    left: auto !important;
+    right: auto !important;
+    bottom: auto !important;
+    transform: none !important;
+    width: 100% !important;
+    height: auto !important;
+    max-height: none !important;
+    padding-top: 0.25rem !important;
+    padding-bottom: 0.25rem !important;
+    z-index: auto !important;
+  }
+
+  /* 3. Compact logo and search box height in landscape */
+  header img,
+  header .logo,
+  .search,
+  .search-button {
+    max-height: 32px !important;
   }
 }

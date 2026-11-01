@@ -1,6 +1,7 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 import { MMEssayEndMarkerPlugin } from "./quartz/plugins/transformers/mmessayendmarker"
+import { MMGoogleFonts } from "./quartz/plugins/transformers/mmGoogleFonts"
 
 /**
  * Quartz 4 Configuration
@@ -78,6 +79,7 @@ const config: QuartzConfig = {
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
       MMEssayEndMarkerPlugin(),
+      MMGoogleFonts(),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
