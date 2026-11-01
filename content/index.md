@@ -22,26 +22,27 @@ aliases: []
 permalink: /
 journeys:
 ---
-<h1 style="font-size: clamp(2.5rem, 5vw, 3.05rem); line-height: 1.05; margin-top: 1.5rem; margin-bottom: 1.15rem"> <span class="mm-masthead-rubik">Look Like A MNKY</span> </h1>
+<h1 style="font-size: clamp(2.5rem, 5vw, 3.15rem); line-height: 1.05; margin-top: 1.5rem; margin-bottom: 1.15rem"> <span class="mm-masthead-rubik">Look Like A MNKY</span> </h1>
 <p style="
   font-size: clamp(1.18rem, 3.5vw, 1.7rem);
   letter-spacing: 0.015em;
   margin-left: 1.2rem;
-  margin-bottom: 2.1rem;
+  margin-bottom: 3.1rem;
 "><strong>
   ... and stop being so predictably usable.
 </strong></p>
-What do you do when you want a child to do something?
 
-You arrange the conditions toward the outcome you want.  
+**==What do you do when you want a child to do something?==**
 
-_Though you may not always think of it that way._
+**Answer:** You arrange the conditions toward the outcome you want.
 
-- Maybe you want to avoid a candy meltdown at the grocery store, so you choose the checkout line without candy displays — even if the line is longer.<br><br>
+<span style="color: var(--darkgraymm); font-style: italic; margin-left: 0.5rem;">Though you may not always think of it that way.</span><br><br>
 
-- Maybe you want the toys picked up, so you introduce an incentive: a reward for doing it, or a consequence for not doing it.<br><br>
+- If you want to avoid a candy meltdown at the grocery store, you might choose the checkout line without candy displays — even if the line is longer.<br><br>
 
-- Maybe you want <span style="color: var(--gray); font-style: italic;">(what? So you...)</span>
+- If you want the toys picked up, you might introduce an incentive: a reward for doing it, or a consequence for not doing it.<br><br>
+
+- If you want... <span style="color: var(--gray); font-style: italic;">(what? then maybe you...)</span><br><br>
 
 In each case, the child still chooses.
 
