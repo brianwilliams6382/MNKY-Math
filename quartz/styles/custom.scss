@@ -1416,30 +1416,41 @@ body[data-slug$="index"] {
 }
 
 /* ==========================================================================
-   LANDSCAPE MOBILE VIEWPORT FIX (UNSTICK & COMPACT HEADER)
+   LANDSCAPE MOBILE VIEWPORT FIX (UNSTICK & FULL DOCUMENT FLOW)
    ========================================================================== */
 
-/* Triggers when screen height is short (landscape phones) */
 @media screen and (max-height: 500px) and (orientation: landscape) {
-  /* 1. Stop header from eating vertical space */
+  /* 1. Reset Header Positioning */
   header, 
   .header,
-  header.mobile-only {
-    position: static !important; /* Allows body to scroll naturally without sticky overlay */
-    padding-top: 0.25rem !important;
-    padding-bottom: 0.25rem !important;
-  }
-
-  /* 2. Scale down logo & search height in landscape */
-  header img, 
-  header .logo,
-  header .search {
-    max-height: 35px !important;
-  }
-
-  /* 3. Re-enable standard flow for page content */
-  .page {
-    margin-top: 0 !important;
+  header.mobile-only,
+  .mobile-only {
+    position: relative !important;
+    top: auto !important;
+    left: auto !important;
+    height: auto !important;
+    max-height: none !important;
     padding-top: 0.5rem !important;
+    padding-bottom: 0.5rem !important;
+  }
+
+  /* 2. Scale down Logo/Search elements in landscape */
+  header img,
+  header .logo,
+  .search {
+    max-height: 32px !important;
+  }
+
+  /* 3. Unlock Main Containers so the entire page scrolls naturally together */
+  html, 
+  body, 
+  .page, 
+  main, 
+  .center, 
+  article {
+    position: relative !important;
+    overflow: visible !important;
+    height: auto !important;
+    max-height: none !important;
   }
 }
