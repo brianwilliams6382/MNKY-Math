@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/archive/math-is-how-we-try-to-make-sense-of-systems.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "math-is-how-we-try-to-make-sense-of-systems"
+              "title": "index"
             }
           }
         ]
@@ -187,6 +187,7 @@
   },
   "active": "3bcc2ad1f76a7759",
   "lastOpenFiles": [
+    "content/archive/math-is-how-we-try-to-make-sense-of-systems.md",
     "public/neighborhood/toyota-production-system.html",
     "public/neighborhood/systems-thinking.html",
     "public/neighborhood/system-dynamics.html",
@@ -197,7 +198,6 @@
     "public/foundations/mm_bananas.html",
     "public/archive/you-are-inside-the-system.html",
     "public/archive/you-are-a-system.html",
-    "public/archive/why-status-quietly-shapes-decision.html",
     "public/static/version-spectrum.webp",
     "public/static/system_precision.webp",
     "public/static/system_dynamic.webp",

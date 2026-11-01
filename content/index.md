@@ -24,14 +24,14 @@ journeys:
 ---
 <h1 style="font-size: clamp(2.5rem, 5vw, 3.05rem); line-height: 1.05; margin-top: 1.5rem; margin-bottom: 1.15rem"> <span class="mm-masthead-rubik">Look Like A MNKY</span> </h1>
 <p style="
-  font-size: clamp(1.18rem, 2vw, 1.7rem);
+  font-size: clamp(1.18rem, 3.5vw, 1.7rem);
   letter-spacing: 0.015em;
   margin-left: 1.2rem;
   margin-bottom: 2.1rem;
 "><strong>
   ... and stop being so predictably usable.
 </strong></p>
-What do you do when you need a child to do something?
+What do you do when you want a child to do something?
 
 You arrange the conditions toward the outcome you want.  
 
